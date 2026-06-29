@@ -1,0 +1,13 @@
+title: elizibar
+description: elizibar's random stuff page
+baseurl: "" 
+url: "https://elizibar.github.io"   # Change to your actual GitHub Pages URL
+
+# Navigation
+nav_items:
+  - name: Home
+    link: /
+  - name: Mickédex
+    link: /mickedex/
+  - name: Year of FF
+    link: /yearoffinalfantasy/

@@ -1,0 +1,27 @@
+---
+title: Mickbug
+layout: default
+permalink: /mickedex/mickbug/
+---
+
+# Mickbug
+
+**The Antenna Hat Mickémon**
+
+**Type:** Bug / Grass  
+**Classification:** Antenna Hat Mickémon  
+**Height:** 2'07" (0.8 m)  
+**Weight:** 35.3 lbs (16.0 kg)  
+
+### Short Pokédex Entry
+"The Antenna Hat Mickémon. Sports tiny hats on each antenna. Waves them like it’s at a concert."
+
+### Biology
+Mickbug is a cheerful beetle-like Mickémon with two long antennae, each sporting its own tiny Mickus hat. It waves these antennae like flags or conductor’s batons during forest gatherings. Its shell has a glossy, leaf-like pattern, and it is friendlier than most other members of the bug line. Mickbug appears to be perpetually ready for a tiny concert and often coordinates small swarms of other Bug-type Mickémon into impromptu performances.
+
+### Evolution
+
+Mickbug evolves from Sleepymick when it levels up in a forest.
+
+**Previous Evolution:** Sleepymick (Leveled up in a Forest)  
+**Next Evolution(s):** -
