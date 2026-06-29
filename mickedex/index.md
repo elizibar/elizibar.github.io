@@ -99,7 +99,7 @@ Browse all evolutions from the Cordia Region:
 [Mickburger](/mickedex/mickburger/) - [Mickizza](/mickedex/mickizza/) - [Micknoodle](/mickedex/micknoodle/) - [Mickaroni](/mickedex/mickaroni/) - [Mickandcheese](/mickedex/mickandcheese/)
 
 **Bakery Line** (5)(128)  
-[Mickoffee](/mickedex/mickoffee/) - [Mickolate](/mickedex/mickolate/) - [Mickookie](/mickedex/mickookie/) - [Micake](/mickedex/mickake/) - [Mipie](/mickedex/mipie/)
+[Mickoffee](/mickedex/mickoffee/) - [Mickolate](/mickedex/mickolate/) - [Mickookie](/mickedex/mickookie/) - [Mickake](/mickedex/mickake/) - [Mipie](/mickedex/mipie/)
 
 **Meekee Line** (9)(137)  
 [Meekee](/mickedex/meekee/) - [Mikporeon](/mickedex/mikporeon/) - [Milteon](/mickedex/milteon/) - [Mickreon](/mickedex/mickreon/) - [Mispeon](/mickedex/mispeon/) - [Milbreon](/mickedex/milbreon/) - [Milfeon](/mickedex/milfeon/) - [Mickeon](/mickedex/mickeon/) - [Mylveon](/mickedex/mylveon/)
