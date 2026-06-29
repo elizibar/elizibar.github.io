@@ -8,6 +8,12 @@ permalink: /mickedex/cordiaregion/
 
 Cordia is a remote island region which is under active exploration and settlement by trainers coming to study its unique ecology.  The chain consists of two large islands which are shaped in a way that suggests that they are the top of the rim of a much larger circular object below, such as an impact crater or volcano, a small volcanic island to the southeast, and a chain of smaller islands in the northeast.
 
+### Teams
+
+Cordia is also playing out a conflict between two rival teams:  **Team Deep Sea** and **Team Deep Space**.
+
+Team Deep Sea seems to operate under the belief that the gateway to an area called "The Abyss" lies within the Cordia region, and they seek to unlock it.  While Team Deep Space believes that a location they call "The Warp" is somewhere within Cordia and they want to make use of it.
+
 ### Lucasia
 
 The Westernmost island is named Lucasia.  The northern half of the island is dominated by the Lucas Heights, Mount Lucas, and Lucas falls.  The mountain shadow effect makes much of the north into desert, with the frozen highlands around Mount Lucas and especially Lucas Falls providing the primary source of water.  The south sees a somewhat gentler climate with tropical rains and mountain-fed rivers.
