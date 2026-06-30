@@ -13,7 +13,7 @@ permalink: /mickedex/unterseemick/
 **Height:** 8'02" (2.5 m)  
 **Weight:** 771.6 lbs (350.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "It is a fully functional submarine with a Mickus face on the conning tower. It insists it is 'going deeper' even in shallow water."
 
 ### Biology

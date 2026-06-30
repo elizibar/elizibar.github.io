@@ -13,7 +13,7 @@ permalink: /mickedex/mickmon/
 **Height:** 1'04" (0.4 m)  
 **Weight:** 12.1 lbs (5.5 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Pixel Mickémon. An 8-bit Mickus. It dramatically shouts its name in chiptune."
 
 ### Biology

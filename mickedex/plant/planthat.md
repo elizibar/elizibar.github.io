@@ -13,7 +13,7 @@ permalink: /mickedex/planthat/
 **Height:** 2'04" (0.7 m)  
 **Weight:** 26.5 lbs (12.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Big Hat Mickémon. The hat is suspiciously large. Some researchers believe the hat is the true organism."
 
 ### Biology

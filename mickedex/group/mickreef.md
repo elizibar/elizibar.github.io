@@ -13,7 +13,7 @@ permalink: /mickedex/mickreef/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Coral Reef Mickémon. It builds beautiful coral structures from its own body."
 
 ### Biology

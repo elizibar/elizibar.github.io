@@ -13,7 +13,7 @@ permalink: /mickedex/mickrorganism/
 **Height:** 3'03" (1.0 m)  
 **Weight:** 11.0 lbs (5.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "It is a living colony of tiny hat-shaped Mickus growing together into a larger hat-shaped organism."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/micknight/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Edgelord Mickémon. Writes bad poetry at 3 AM and thinks shadows make it mysterious."
 
 ### Biology

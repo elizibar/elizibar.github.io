@@ -13,7 +13,7 @@ permalink: /mickedex/grossicus/
 **Height:** 3'03" (1.0 m)  
 **Weight:** 52.9 lbs (24.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Compost Mickémon. Mushrooms and weird growths cover its body. The stench is legendary."
 
 ### Biology

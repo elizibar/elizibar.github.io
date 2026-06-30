@@ -13,7 +13,7 @@ permalink: /mickedex/micksterious/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Enigmatic Figure Mickémon. Micksterious is shrouded in mystery and is said to know secrets that no other Mickémon does."
 
 ### Biology

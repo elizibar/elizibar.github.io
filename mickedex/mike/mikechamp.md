@@ -13,7 +13,7 @@ permalink: /mickedex/mikechamp/
 Height: 6'03" (1.9 m)  
 Weight: 815.7 lbs (370.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Gym Leader Wannabe Mickémon. It dreams of one day running its own Gym and spends most of its time practicing dramatic poses and entrance speeches."
 
 ### Biology

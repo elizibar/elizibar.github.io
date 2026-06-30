@@ -13,7 +13,7 @@ permalink: /mickedex/mickray/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 77.2 lbs (35.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Stingray Mickémon. It glides gracefully through the water while delivering powerful electric shocks with its tail."
 
 ### Biology

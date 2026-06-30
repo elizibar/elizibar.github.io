@@ -13,7 +13,7 @@ permalink: /mickedex/micklord/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 132.3 lbs (60.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Shadow King Mickémon. It sits on a tiny throne made of darkness and writes terrible poetry."
 
 ### Biology

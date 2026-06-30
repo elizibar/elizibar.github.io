@@ -13,7 +13,7 @@ permalink: /mickedex/micknife/
 **Height:** 1'11" (0.6 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Sleeping Hat Mickémon. The large hat is the main body. The worm underneath is having the nap of its life."
 
 ### Biology

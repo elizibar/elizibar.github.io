@@ -13,7 +13,7 @@ permalink: /mickedex/mickmunitions/
 **Height:** 5'07" (1.7 m)  
 **Weight:** 187.4 lbs (85.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Action Hero Mickémon. It drops one-liners constantly while dual-wielding ridiculous amounts of weaponry."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickaphone/
 **Height:** 3'07" (1.1 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Smartphone Mickémon. It is always checking its "socials" and taking selfies mid-battle."
 
 ### Biology

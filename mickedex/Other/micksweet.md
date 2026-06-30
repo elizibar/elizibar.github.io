@@ -13,7 +13,7 @@ permalink: /mickedex/micksweet/
 **Height:** 1'04" (0.4 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Sugar Rush Mickémon. Vibrates uncontrollably after eating too many Rare Candies. Moves at blinding speeds."
 
 ### Biology

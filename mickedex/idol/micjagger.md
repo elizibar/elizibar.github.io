@@ -13,7 +13,7 @@ permalink: /mickedex/micjagger/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 114.6 lbs (52.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Swagger Mickémon. It struts with legendary swagger and performs moves so smooth they can make opponents trip over their own feet."
 
 ### Biology

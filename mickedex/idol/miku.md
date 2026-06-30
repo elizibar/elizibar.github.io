@@ -13,7 +13,7 @@ permalink: /mickedex/miku/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 83.8 lbs (38.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Virtual Idol Mickémon. Its twin-tails are made of flowing water. It performs for crowds that only exist in its imagination."
 
 ### Biology

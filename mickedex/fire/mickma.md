@@ -13,7 +13,7 @@ permalink: /mickedex/mickma/
 **Height:** 6'07" (2.0 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Magma Kaiju Mickémon. A walking volcano with a hat."
 
 ### Biology

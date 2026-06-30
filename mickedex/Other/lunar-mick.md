@@ -13,7 +13,7 @@ permalink: /mickedex/lunar-mick/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Full Moon Mickémon. Only appears during full moons. Its power waxes and wanes with the lunar cycle."
 
 ### Biology

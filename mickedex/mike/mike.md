@@ -13,7 +13,7 @@ permalink: /mickedex/mike/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Trucker Dad Mickémon. Produces delicious milk and tells awful dad jokes. It calls everyone 'sport' and gives headpats after battles."
 
 ### Biology

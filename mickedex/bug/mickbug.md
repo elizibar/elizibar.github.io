@@ -13,7 +13,7 @@ permalink: /mickedex/mickbug/
 **Height:** 2'07" (0.8 m)  
 **Weight:** 35.3 lbs (16.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Antenna Hat Mickémon. Sports tiny hats on each antenna. Waves them like it’s at a concert."
 
 ### Biology

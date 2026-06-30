@@ -13,7 +13,7 @@ permalink: /mickedex/mickooler/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 130.1 lbs (59.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Even Cooler Mickémon. Claims to have reached peak coolness. Still slips on its own ice."
 
 ### Biology

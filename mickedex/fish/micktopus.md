@@ -13,7 +13,7 @@ permalink: /mickedex/micktopus/
 **Height:** 3'11" (1.2 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Octopus Mickémon. It is a mischievous octopus that loves tangling things with its tentacles."
 
 

@@ -13,7 +13,7 @@ permalink: /mickedex/mickmelt/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 22.0 lbs (10.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Melting Mickémon. It is slowly melting at all times and is very self-conscious about it."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickmasses/
 **Height:** 4'11" (1.5 m)  
 **Weight:** 220.5 lbs (100.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Hat Pile Mickémon. A chaotic stack of hats with two eyes peeking out. No one knows how many Mickus are inside."
 
 ### Biology

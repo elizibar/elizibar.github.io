@@ -13,8 +13,8 @@ permalink: /mickedex/mickoblin/
 **Height:** 2'00" (0.6 m)  
 **Weight:**22.0 lbs (10.0 kg)  
 
-### Short Pokédex Entry
-"The Goblin Pokémon. It is a mischievous little goblin that loves causing trouble in the dark."
+### Short Miickédex Entry
+"The Goblin Mickémon. It is a mischievous little goblin that loves causing trouble in the dark."
 
 ### Biology
 Mickoblin is a small, green-skinned goblin Mickus with pointed ears, sharp teeth, and a mischievous grin. It wears a tattered cloak made from leaves and still has its signature mullet tuft poking out from under a tiny hood. It carries a small, jagged knife and loves playing pranks, stealing shiny objects, and setting traps in the dark. Despite its goblin nature, it retains the classic Mickus clumsiness, its traps often backfire on itself, and it frequently trips over its own cloak.

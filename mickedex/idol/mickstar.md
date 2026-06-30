@@ -13,7 +13,7 @@ permalink: /mickedex/mickstar/
 **Height:** 4'05" (1.35 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Pop Superstar Mickémon. It interrupts battles to drop new singles. Its ego is larger than its fanbase."
 
 ### Biology

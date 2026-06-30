@@ -13,7 +13,7 @@ permalink: /mickedex/choppamick/
 **Height:** 9'10" (3.0 m)  
 **Weight:** 1,543.2 lbs (700.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "It is a fully armed and operational attack helicopter with a Mickus face on the cockpit. It loves dramatic combat drops and one-liners."
 
 ### Biology

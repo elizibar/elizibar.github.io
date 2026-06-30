@@ -13,7 +13,7 @@ permalink: /mickedex/mickrobinson/
 **Height:** 5'07" (1.7 m)  
 **Weight:** 352.7 lbs (160.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Retro Robot Mickémon. It constantly shouts "Danger! Danger!" in a very dramatic voice."
 
 ### Biology

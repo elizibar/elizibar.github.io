@@ -13,7 +13,7 @@ permalink: /mickedex/ickus/
 **Height:** 2'07" (0.8 m)  
 **Weight:** 31.3 lbs (14.2 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Swamp Gremlin Mickémon. Coated in slime and moss. Being near it is a guaranteed way to get poisoned."
 
 ### Biology

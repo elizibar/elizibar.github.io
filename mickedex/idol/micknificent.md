@@ -13,7 +13,7 @@ permalink: /mickedex/micknificent/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Spectacular Star Mickémon. Only one Micknificent can exist in the world at a time. It is a flashy, over-the-top performer whose moves are so brilliant they can dazzle both allies and opponents."
 
 ### Biology

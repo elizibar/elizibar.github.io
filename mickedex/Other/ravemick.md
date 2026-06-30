@@ -13,7 +13,7 @@ permalink: /mickedex/ravemick/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Rave Mickémon. Holds glowsticks and has swirling hypnotic eyes. Can party for days without stopping."
 
 ### Biology

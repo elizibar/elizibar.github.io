@@ -13,7 +13,7 @@ permalink: /mickedex/mickoral/
 **Height:** 4'11" (1.5 m)  
 **Weight:** 220.5 lbs (100.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Glowing Coral Mickémon. Its glowing coral has powerful healing properties."
 
 ### Biology

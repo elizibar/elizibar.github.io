@@ -13,7 +13,7 @@ permalink: /mickedex/mickizard/
 **Height:** 5'07" (1.7 m)  
 **Weight:** 132.3 lbs (60.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Edgy Guitarist Mickémon. Plays a flaming guitar. Thinks it’s the protagonist of reality."
 
 ### Biology

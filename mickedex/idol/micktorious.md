@@ -13,7 +13,7 @@ permalink: /mickedex/micktorious/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 165.3 lbs (75.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Victory Mickémon. Micktorious celebrates wildly after every battle, regardless of whether it wins or loses."
 
 ### Biology

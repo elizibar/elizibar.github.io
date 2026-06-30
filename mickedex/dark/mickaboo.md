@@ -13,7 +13,7 @@ permalink: /mickedex/mickaboo/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Peekaboo Scarer Mickémon. Mickaboo loves playing peekaboo, but its version is absolutely terrifying."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickset/
 **Height:** 3'07" (1.1 m)  
 **Weight:** 66.1 lbs (30.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Evening Mickémon. Full of spite and exhaustion. Its evening cries keeup awake the entire neighborhood."
 
 ### Biology

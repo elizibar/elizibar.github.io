@@ -13,7 +13,7 @@ permalink: /mickedex/mickrise/
 **Height:** 3'07" (1.1 m)  
 **Weight:** 66.1 lbs (30.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Morning Mickémon. Full of hope and caffeine. Its dawn cries wake up the entire neighborhood."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickatron/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Glitching Robot Mickémon. Overcharged and unstable. Occasionally blue-screens during battle."
 
 ### Biology

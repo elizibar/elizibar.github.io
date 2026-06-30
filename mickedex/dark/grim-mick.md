@@ -13,7 +13,7 @@ permalink: /mickedex/grim-mick/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 110.2 lbs (50.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Reaper Mickémon. Carries a scythe tail. Still writes terrible poetry between soul collections."
 
 ### Biology

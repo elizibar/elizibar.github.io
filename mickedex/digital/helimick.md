@@ -13,7 +13,7 @@ permalink: /mickedex/helimick/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Propeller Mickémon. A tiny propeller on its hat lets it hover and fly in erratic patterns."
 
 ### Biology

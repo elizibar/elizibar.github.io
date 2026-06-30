@@ -13,7 +13,7 @@ permalink: /mickedex/ultra-mick/
 **Height:** 6'07" (2.0 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Chaos God Mickémon. The final form of Mickus. Its body contains pieces of every evolution."
 
 ### Biology

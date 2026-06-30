@@ -13,7 +13,7 @@ permalink: /mickedex/rootick/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 23.1 lbs (10.5 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Angry Root Mickémon. Always irritable. It trips people with vines and then acts innocent."
 
 ### Biology

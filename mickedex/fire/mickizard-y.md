@@ -13,7 +13,7 @@ permalink: /mickedex/mickizard-y/
 **Height:** 6'03" (1.9 m)  
 **Weight:** 176.4 lbs (80.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Double-Neck Mickémon. Even edgier with a massive double-necked guitar. Its solos last way too long."
 
 ### Biology

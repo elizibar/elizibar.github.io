@@ -13,7 +13,7 @@ permalink: /mickedex/mick-x/
 **Height:** 5'07" (1.7 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Extreme Wrestler Mickémon. It constantly yells 'X-TREME!' and performs suplexes on anything that moves. Its muscles have muscles."
 
 ### Biology

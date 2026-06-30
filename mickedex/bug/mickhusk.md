@@ -13,7 +13,7 @@ permalink: /mickedex/mickhusk/
 **Height:** 1'10" (0.6 m)  
 **Weight:** 4.4 lbs (2.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Empty Hat Mickémon. Only the dried-out hat remains. It floats around looking melancholic."
 
 ### Biology

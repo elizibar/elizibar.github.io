@@ -13,7 +13,7 @@ permalink: /mickedex/swimick/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 14.3 lbs (6.5 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Delusional Fish Mickémon. Swimick is convinced it is a fish despite being a Mickus wearing swim fins and a snorkel."
 
 ### Biology

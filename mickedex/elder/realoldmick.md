@@ -6,14 +6,14 @@ permalink: /pokedex/realoldmick/
 
 # Realoldmick
 
-**The True Elder Pokémon**
+**The True Elder Mickémon**
 
 **Type:** Normal / Rock  
-**Classification:** True Elder Pokémon  
+**Classification:** True Elder Mickémon  
 **Height:** 1'06" (0.5 m)  
 **Weight:**  19.8 lbs (9.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "It refuses to learn anything new and is completely immune to status conditions."
 
 ### Biology

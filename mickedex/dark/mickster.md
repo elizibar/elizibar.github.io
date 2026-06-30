@@ -13,7 +13,7 @@ permalink: /mickedex/mickster/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Illusionist Trickster Mickémon. Mickster loves playing elaborate pranks using illusions and dark fairy magic."
 
 ### Biology

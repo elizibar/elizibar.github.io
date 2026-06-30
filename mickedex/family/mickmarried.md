@@ -13,7 +13,7 @@ permalink: /mickedex/mickmarried/
 **Height:** 5'07" (1.7 m)  
 **Weight:** 209.4 lbs (95.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Union Mickémon. Formed from Sir Mick and Lady Miku’s bond. Its vows grant it exceptional strength."
 
 ### Biology

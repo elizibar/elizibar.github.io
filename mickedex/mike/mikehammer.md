@@ -13,7 +13,7 @@ permalink: /mickedex/mikehammer/
 **Height:** 5'11" (1.8 m)  
 **Weight:** 682.3 lbs (309.5 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Construction Crusher Mickémon. It smashes through boulders and buildings with equal enthusiasm."
 
 ### Biology

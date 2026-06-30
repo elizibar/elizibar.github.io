@@ -13,7 +13,7 @@ permalink: /mickedex/mick-u-supreme/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 15.4 lbs (7.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Ultimate Simp Mickémon. Has achieved nirvana through unlimited gift-giving."
 
 ### Biology

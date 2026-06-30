@@ -13,7 +13,7 @@ permalink: /mickedex/mickcube/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Ice Cube Mickémon. It is literally just a perfectly square ice cube with a hat on top."
 
 ### Biology

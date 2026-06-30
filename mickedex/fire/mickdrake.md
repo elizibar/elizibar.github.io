@@ -13,7 +13,7 @@ permalink: /mickedex/mickdrake/
 **Height:** 7'07" (2.3 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Legendary Dragon Mickémon. A majestic rockstar dragon whose flaming guitar solos can summon meteors."
 
 ### Biology

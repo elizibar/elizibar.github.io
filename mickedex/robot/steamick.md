@@ -13,7 +13,7 @@ permalink: /mickedex/steamick/
 **Height:** 4'11" (1.5 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Steam-Powered Mickémon. It runs on old-fashioned steam power and is very loud."
 
 ### Biology

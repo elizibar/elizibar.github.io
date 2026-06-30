@@ -13,7 +13,7 @@ permalink: /mickedex/mickboss/
 **Height:** 3'11" (1.2 m)  
 **Weight:** 165.3 lbs (75.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Boss Mickémon. Wears sunglasses and sits in a tiny chair. Demands respect and snacks."
 
 ### Biology

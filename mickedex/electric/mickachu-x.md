@@ -13,7 +13,7 @@ permalink: /mickedex/mickachu-x/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 15.4 lbs (7.0 kg)  
 
-### Short Pokédex Entry
+### Short Miickédex Entry
 "The Edgy Rodent Mickémon. Spikier and angrier than regular Mickachu."
 
 ### Biology
