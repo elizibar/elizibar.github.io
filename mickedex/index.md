@@ -106,12 +106,13 @@ Browse all evolutions from the Cordia Region:
 
 **Fossils** (2)(139)
 [Mickambrian](/mickedex/mickambrian/) - [Mickrystal](/mickedex/mickrystal/)
-**Abyssal Forms**
+**Abyssal Forms** (3)(142)
+[Mickthulhu](/mickedex/mickthulhu/) - [Deepmick](/mickedex/deepmick/) - [Mickoggoth](/mickedex/mickoggoth/)
 
 **Warp Forms**
 
 **Other**  
-[Mickbat](/mickedex/mickbat/) - [Mickrow](/mickedex/mickrow/) - [Mickboss](/mickedex/mickboss/)- [Micksweet](/mickedex/micksweet/)
+[Mickbat](/mickedex/mickbat/) - [Mickrow](/mickedex/mickrow/) - [Mickboss](/mickedex/mickboss/) - [Micksweet](/mickedex/micksweet/)
 
 **Ultimate Form**  1
 [Ultra Mick](/mickedex/ultra-mick/)
@@ -121,6 +122,9 @@ Browse all evolutions from the Cordia Region:
  - Mickmoney
 Mickracle - Psychic/Fairy miracle worker famous for stat boosts.
  - Mickmummy - Micketon
+
+Mickolyth
+Abyssmick
 
 **Animals & Wildlife Themed** 5
 Mickadillo - Ground/Steel armored roller.
