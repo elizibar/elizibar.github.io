@@ -74,7 +74,7 @@ Browse all evolutions from the Cordia Region:
 **Simp Line** (4)(93)  
 [Mick U](/mickedex/mick-u/) - [Mick U Supreme](/mickedex/mick-u-supreme/) - [Mickstream](/mickedex/mickstream/) - [Mickflix](/mickedex/mickflix/)
 
-**Nocturnal and Solar Lines** (6)(99)  
+**Nocturnal and Solar Types** (6)(99)  
 [Mickoon](/mickedex/mickoon/) - [Lunar Mick](/mickedex/lunar-mick/) - [Micksol](/mickedex/micksol/) - [Solmick](/mickedex/solmick/) - [Mickrise](/mickedex/mickrise/) - [Mickset](/mickedex/mickset/)
 
 **Social Line** (2)(101)  
@@ -106,16 +106,16 @@ Browse all evolutions from the Cordia Region:
 
 **Fossils** (2)(139)  
 [Mickambrian](/mickedex/mickambrian/) - [Mickrystal](/mickedex/mickrystal/)
-**Abyssal Forms** (3)(142)  
-[Mickthulhu](/mickedex/mickthulhu/) - [Deepmick](/mickedex/deepmick/) - [Mickoggoth](/mickedex/mickoggoth/)
+**Abyssal Forms** (5)(144)  
+[Mickthulhu](/mickedex/mickthulhu/) - [Deepmick](/mickedex/deepmick/) - [Mickoggoth](/mickedex/mickoggoth/) - [Migon](/mickedex/migon/) - [Myckra](/mickedex/myckra/)
 
-**Warp Forms**
+**Warp Forms** (5)(149)
+[Mickien](/mickedex/mickien/) - [Mickoid](/mickedex/mickoid/) - [Mikath](/mickedex/mikath/) - [Mickinyellow](/mickedex/mickinyellow/) - [Mickinova](/mickedex/mickinova/)
 
-
-**Other**  
+**Other** (4)(153)  
 [Mickbat](/mickedex/mickbat/) - [Mickrow](/mickedex/mickrow/) - [Mickboss](/mickedex/mickboss/) - [Micksweet](/mickedex/micksweet/)
 
-**Ultimate Form**  1
+**Ultimate Form** (1)(154)  
 [Ultra Mick](/mickedex/ultra-mick/)
 
 
