@@ -29,4 +29,4 @@ Mickey can evolve into every other form that Mickus can, except for Minimick.  M
 **Next Evolution(s):** Bigmick (Level 99), almost any other Mickus evolution.
 
 ### Gallery
-![Mickey](/assets/images/mickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickey](/assets/images/mickey.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -27,4 +27,4 @@ Bigmick evolves from Mickey at level 60.  Upon evolving into Bigmick, it is retu
 **Next Evolution(s):** Almost any other Mickus evolution.  
 
 ### Gallery
-![Bigmick](/assets/images/mickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Bigmick](/assets/images/bigmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

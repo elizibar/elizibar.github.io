@@ -29,4 +29,4 @@ Upon levelling up one time, Minimick evolves into Mickus.
 **Next Evolution(s):** Mickus (level up once)  
 
 ### Gallery
-![Minimick](/assets/images/mickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Minimick](/assets/images/minimick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
