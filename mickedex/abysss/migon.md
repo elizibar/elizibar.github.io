@@ -14,7 +14,7 @@ permalink: /mickedex/migon/
 **Weight:** 264.6 lbs (120.0 kg)  
 
 ### Short Miickédex Entry
-"The Great Deep One Pokémon. Migon is a massive fish-man horror that serves as a high priest of the Abyss."
+"The Great Deep One Mickémon. Migon is a massive fish-man horror that serves as a high priest of the Abyss."
 
 ### Biology
 Migon is a towering, fish-like horror with scales, webbed claws, and a crown of tentacles. Its face is a grotesque mix of Mickus and anglerfish, with glowing lures and too many teeth. It wears tattered robes and carries a staff made from ship wreckage. It is a high priest of the deep and leads rituals in the darkest trenches. Despite its terrifying appearance, it still has a hint of Mickus derpiness and occasionally gets its tentacles tangled or complains about "these newfangled surface-dwellers."
