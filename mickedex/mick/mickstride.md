@@ -27,4 +27,4 @@ Mickstride evolves from Mickus after walking 1,000 steps while holding a Sweatba
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickstride](/assets/images/mickstride.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickstride](/assets/images/mickstride.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
