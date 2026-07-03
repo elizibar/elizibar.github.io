@@ -10,7 +10,7 @@ permalink: /mickedex/bigmick/
 
 **Type:** Normal  
 **Classification:** Largest Gremlin Mickémon  
-**Height:** 2'11" (0.9 m)    
+**Height:** 2'11" (0.9 m)  
 **Weight:** 39.7 lbs (18.0 kg)  
 
 ### Short Miickédex Entry
