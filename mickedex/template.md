@@ -4,7 +4,12 @@ layout: default
 permalink: /mickedex/pokemon-name/
 ---
 
-# Pokemon Name
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickus.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+</figure>
+
+# Mickemon Name
 
 **Type:** Type1 / Type2  
 **Classification:** Classification Mickémon  

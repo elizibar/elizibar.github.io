@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/minimick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickus.png" alt="Minimick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Minimick</strong><br>The Tiny Gremlin Mickémon</figcaption>
+</figure>
+
 # Minimick
 
 **Type:** Normal  

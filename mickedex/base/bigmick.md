@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/bigmick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/bigmick.png" alt="Bigmick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Largest Gremlin Mickémon</figcaption>
+</figure>
+
 # Bigmick
 
 **Type:** Normal  

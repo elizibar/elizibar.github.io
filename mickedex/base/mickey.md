@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickey/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickey.png" alt="Mickey" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Bigger Gremlin Mickémon</figcaption>
+</figure>
+
 # Mickey
 
 **Type:** Normal  
