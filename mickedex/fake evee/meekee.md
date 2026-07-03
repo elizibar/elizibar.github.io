@@ -6,8 +6,6 @@ permalink: /mickedex/meekee/
 
 # Meekee
 
-**The Fake Eevee Mickémon**
-
 **Type:** Normal  
 **Classification:** Fake Eevee Mickémon  
 **Height:** 1'00" (0.3 m)  

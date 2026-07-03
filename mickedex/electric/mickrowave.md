@@ -6,8 +6,6 @@ permalink: /mickedex/mickrowave/
 
 # Mickrowave
 
-**The Microwave Mickémon**
-
 **Type:** Fire / Electric  
 **Classification:** Microwave Mickémon  
 Height: 4'03" (1.3 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mickoggoth/
 
 # Mickoggoth
 
-**The Shoggoth Mickémon**
-
 **Type:** Dark / Sound  
 **Classification:** Shoggoth Mickémon  
 **Height:** Varies (typically 6'07" / 2.0 m)  

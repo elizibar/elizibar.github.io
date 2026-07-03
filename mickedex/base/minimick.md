@@ -6,8 +6,6 @@ permalink: /mickedex/minimick/
 
 # Minimick
 
-**The Tiny Gremlin Mickémon**
-
 **Type:** Normal  
 **Classification:** Tiny Gremlin Mickémon  
 **Height:** 10" (0.25 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mylveon/
 
 # Mylveon
 
-**The Fake Sylveon Mickémon**
-
 **Type:** Fairy  
 **Classification:** Fake Sylveon Mickémon  
 **Height:** 3’03" (1.0 m)  

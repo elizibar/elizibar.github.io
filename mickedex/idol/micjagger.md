@@ -6,8 +6,6 @@ permalink: /mickedex/micjagger/
 
 # Micjagger
 
-**The Swagger Mickémon**
-
 **Type:** Rock  
 **Classification:** Swagger Mickémon  
 **Height:** 4'07" (1.4 m)  

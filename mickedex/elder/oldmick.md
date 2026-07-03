@@ -6,8 +6,6 @@ permalink: /mickedex/oldmick/
 
 # Oldmick
 
-**The Grumpy Elder Mickémon**  
-
 **Type:** Normal / Rock  
 **Classification:** The Grumpy Elder Mickémon  
 **Height:** 1'06" (0.5 m)  

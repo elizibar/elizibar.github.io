@@ -6,8 +6,6 @@ permalink: /mickedex/pokemon-name/
 
 # Pokemon Name
 
-**The Classification Mickémon**
-
 **Type:** Type1 / Type2  
 **Classification:** Classification Mickémon  
 **Height:** X'XX" (X.X m)  

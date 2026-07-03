@@ -4,9 +4,7 @@ layout: default
 permalink: /mickedex/mickmelt/
 ---
 
-# Mickcube
-
-**The Melting Mickémon**
+# Mickmelt
 
 **Type:** Ice / Water  
 **Classification:** Melting Mickémon  

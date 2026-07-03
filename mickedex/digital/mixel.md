@@ -6,8 +6,6 @@ permalink: /mickedex/mixel/
 
 # Mixel
 
-**The Glitch Sprite Mickémon**
-
 **Type:** Fairy  
 **Classification:** Glitch Sprite Mickémon  
 **Height:** 3'11" (1.2 m) (varies)  

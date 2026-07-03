@@ -6,8 +6,6 @@ permalink: /mickedex/mickachu/
 
 # Mickachu
 
-**The Mullet Rodent Mickémon**
-
 **Type:** Electric  
 **Classification:** Mullet Rodent Mickémon  
 **Height:** 1'04" (0.4 m)  

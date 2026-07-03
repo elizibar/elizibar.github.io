@@ -6,8 +6,6 @@ permalink: /mickedex/mickraken/
 
 # Mickraken
 
-**The Kraken Mickémon**
-
 **Type:** Water / Dark  
 **Classification:** Kraken Mickémon  
 **Height:** 8'02" (2.5 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mickinabox/
 
 # Mickinabox
 
-**The Fast Food Mascot Mickémon**
-
 **Type:** Normal / Steel  
 **Classification:** Fast Food Mascot Mickémon  
 **Height:** 2'04" (0.7 m) (box form), 4'03" (1.3 m) (sprung form)  

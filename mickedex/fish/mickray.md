@@ -6,8 +6,6 @@ permalink: /mickedex/mickray/
 
 # Mickray
 
-**The Stingray Mickémon**
-
 **Type:** Water/Electric  
 **Classification:** Stingray Mickémon  
 **Height:** 4'07" (1.4 m)  

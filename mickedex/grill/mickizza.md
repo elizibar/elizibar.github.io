@@ -6,8 +6,6 @@ permalink: /mickedex/mickizza/
 
 # Mickizza
 
-**The Pizza Mickémon**
-
 **Type:** Fire / Grass  
 **Classification:** Pizza Mickémon  
 **Height:**  2'00" (0.6 m)  

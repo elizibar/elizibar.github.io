@@ -6,8 +6,6 @@ permalink: /mickedex/mickoblin/
 
 # Mickoblin
 
-**The Goblin Mickémon**
-
 **Type:** Dark / Grass  
 **Classification:** Goblin Mickémon  
 **Height:** 2'00" (0.6 m)  

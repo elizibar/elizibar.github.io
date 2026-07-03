@@ -6,8 +6,6 @@ permalink: /mickedex/mickien/
 
 # Mickien
 
-**The Grey Alien Mickémon**
-
 **Type:** Psychic / Steel  
 **Classification:** Grey Alien Mickémon  
 **Height:** 3'03" (1.0 m)  

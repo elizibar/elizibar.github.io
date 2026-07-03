@@ -6,8 +6,6 @@ permalink: /mickedex/mickmagma/
 
 # Mickmagma
 
-**The Lava Beast Mickémon**
-
 **Type:** Fire / Rock  
 **Classification:** Lava Beast Mickémon  
 **Height:** 7'03" (2.2 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/miku/
 
 # Miku
 
-**The Virtual Idol Mickémon**
-
 **Type:** Water / Sound  
 **Classification:** Virtual Idol Mickémon  
 **Height:** 4'03" (1.3 m)  

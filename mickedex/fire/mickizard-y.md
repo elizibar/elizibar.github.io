@@ -6,8 +6,6 @@ permalink: /mickedex/mickizard-y/
 
 # Mickizard Y
 
-**The Double-Neck Guitarist Mickémon**
-
 **Type:** Fire / Flying  
 **Classification:** Double-Neck Guitarist Mickémon  
 **Height:** 6'03" (1.9 m)  

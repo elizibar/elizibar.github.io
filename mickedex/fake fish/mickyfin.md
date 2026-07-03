@@ -6,8 +6,6 @@ permalink: /mickedex/mickyfin/
 
 # Mickyfin
 
-**Delusional Poison Fish Mickémon**
-
 **Type:** Water / Poison  
 **Classification:** Delusional Poison Fish Mickémon  
 **Height:** 2'04" (0.7 m)  

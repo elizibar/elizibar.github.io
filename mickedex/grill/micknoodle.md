@@ -6,8 +6,6 @@ permalink: /mickedex/micknoodle/
 
 # Micknoodle
 
-**The Ramen Mickémon**
-
 **Type:** Water / Psychic  
 **Classification:** Ramen Mickémon  
 **Height:** 2'00" (0.6 m) 

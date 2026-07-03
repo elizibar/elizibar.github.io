@@ -6,8 +6,6 @@ permalink: /mickedex/mickambrian/
 
 # Mickambrian
 
-**The Hallucigenia Mickémon**
-
 **Type:** Rock / Psychic  
 **Classification:** Hallucigenia Mickémon  
 **Height:** 2'04" (0.7 m)  

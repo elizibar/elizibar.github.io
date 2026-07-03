@@ -6,8 +6,6 @@ permalink: /mickedex/micksweet/
 
 # Micksweet
 
-**The Sugar Rush Mickémon**
-
 **Type:** Normal  
 **Classification:** Sugar Rush Mickémon  
 **Height:** 1'04" (0.4 m)  

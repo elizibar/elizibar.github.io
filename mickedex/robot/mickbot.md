@@ -6,8 +6,6 @@ permalink: /mickedex/mickbot/
 
 # Mickbot
 
-**The Upgraded Robot Mickémon**
-
 **Type:** Steel  
 **Classification:** Upgraded Robot Mickémon  
 **Height:** 4'03" (1.3 m)  

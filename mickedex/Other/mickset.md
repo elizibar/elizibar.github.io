@@ -6,8 +6,6 @@ permalink: /mickedex/mickset/
 
 # Mickset
 
-**The Evening Mickémon**
-
 **Type:** Psychic / Ice  
 **Classification:** Evening Mickémon  
 **Height:** 3'07" (1.1 m)  

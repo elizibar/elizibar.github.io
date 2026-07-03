@@ -6,8 +6,6 @@ permalink: /mickedex/micknife/
 
 # Micknife
 
-**The Knife Mickémon**
-
 **Type:** Steel/Dark  
 **Classification:** Knife Mickémon  
 **Height:** 1'11" (0.6 m)  

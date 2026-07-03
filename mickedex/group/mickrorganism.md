@@ -6,8 +6,6 @@ permalink: /mickedex/mickrorganism/
 
 # Mickrorganism
 
-**The Colony Mickémon**
-
 **Type:** Poison  
 **Classification:** Colony Mickémon  
 **Height:** 3'03" (1.0 m)  

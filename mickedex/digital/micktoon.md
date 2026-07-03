@@ -6,8 +6,6 @@ permalink: /mickedex/micktoon/
 
 # Micktoon
 
-**The Indie Cartoon Mickémon**
-
 **Type:** Normal / Fairy  
 **Classification:** Indie Cartoon Mickémon  
 **Height:** 1'08" (0.5 m) (constantly shifting)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mic-drop/
 
 # Mic Drop
 
-**The Professional Diva Mickémon**
-
 **Type:** Sound / Fairy  
 **Classification:** Professional Diva Mickémon  
 **Height:** 4'07" (1.4 m)  

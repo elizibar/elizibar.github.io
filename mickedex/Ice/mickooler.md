@@ -6,8 +6,6 @@ permalink: /mickedex/mickooler/
 
 # Mickooler
 
-**The Even Cooler Mickémon**
-
 **Type:** Ice  
 **Classification:** Even Cooler Mickémon  
 **Height:** 4'07" (1.4 m)  

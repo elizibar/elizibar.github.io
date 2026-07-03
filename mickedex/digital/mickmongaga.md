@@ -6,8 +6,6 @@ permalink: /mickedex/mickmongaga/
 
 # Mickmongaga
 
-**The Big Sword Mickémon**
-
 **Type:** Steel / Psychic  
 **Classification:** Big Sword Mickémon  
 **Height:** 5'11" (1.8 m)  

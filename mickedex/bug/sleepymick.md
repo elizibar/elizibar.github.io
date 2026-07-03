@@ -6,8 +6,6 @@ permalink: /mickedex/sleepymick/
 
 # Sleepymick
 
-**The Sleeping Hat Mickémon**
-
 **Type:** Bug  
 **Classification:** Sleeping Hat Mickémon  
 **Height:** 1'08" (0.5 m)  

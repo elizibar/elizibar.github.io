@@ -6,8 +6,6 @@ permalink: /mickedex/choppamick/
 
 # Choppamick
 
-**The Attack Helicopter Mickémon**
-
 **Type:** Flying / Steel  
 **Classification:** Attack Helicopter Mickémon  
 **Height:** 9'10" (3.0 m)  

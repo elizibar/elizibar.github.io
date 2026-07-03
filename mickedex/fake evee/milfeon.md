@@ -6,8 +6,6 @@ permalink: /mickedex/milfeon/
 
 # Milfeon
 
-**The Fake Leafeon Mickémon**
-
 **Type:** Grass  
 **Classification:** Fake Leafeon Mickémon  
 **Height:** 2’11" (0.9 m)  

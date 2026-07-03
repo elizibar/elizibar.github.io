@@ -6,8 +6,6 @@ permalink: /mickedex/grossicus/
 
 # Grossicus
 
-**The Compost Mickémon**
-
 **Type:** Grass / Poison  
 **Classification:** Compost Mickémon  
 **Height:** 3'03" (1.0 m)  

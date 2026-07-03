@@ -6,8 +6,6 @@ permalink: /mickedex/mickstream/
 
 # Mickstream
 
-**The Live-Streamer Mickémon**
-
 **Type:** Water  
 **Classification:** Live-Streamer Mickémon  
 **Height:** 4'03" (1.3 m)  

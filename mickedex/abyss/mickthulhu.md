@@ -6,8 +6,6 @@ permalink: /mickedex/mickthulhu/
 
 # Mickthulhu
 
-**The Great Old One Mickémon**
-
 **Type:** Water / Dark  
 **Classification:** Great Old One Mickémon  
 **Height:** 12'06" (3.8 m)  

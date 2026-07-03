@@ -6,8 +6,6 @@ permalink: /mickedex/miku-02/
 
 # Miku-02
 
-**The Concert Mickémon**
-
 **Type:** Water / Fairy  
 **Classification:** Concert Mickémon  
 **Height:** 4'07" (1.4 m)  

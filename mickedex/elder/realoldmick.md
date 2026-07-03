@@ -6,8 +6,6 @@ permalink: /pokedex/realoldmick/
 
 # Realoldmick
 
-**The True Elder Mickémon**
-
 **Type:** Normal / Rock  
 **Classification:** True Elder Mickémon  
 **Height:** 1'06" (0.5 m)  

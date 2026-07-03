@@ -6,8 +6,6 @@ permalink: /mickedex/mickeart/
 
 # Mickeart
 
-**The Heart Mickémon**
-
 **Type:** Normal / Heart  
 **Classification:** Heart Mickémon  
 **Height:** 2'00" (0.6 m)  

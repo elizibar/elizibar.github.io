@@ -6,8 +6,6 @@ permalink: /mickedex/micktopus/
 
 # Micktopus
 
-**The Octopus Mickémon**
-
 **Type:** Water / Dark  
 **Classification:** Octopus Mickémon  
 **Height:** 3'11" (1.2 m)  

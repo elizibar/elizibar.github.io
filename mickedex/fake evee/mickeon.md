@@ -6,8 +6,6 @@ permalink: /mickedex/mickeon/
 
 # Mickeon
 
-**The Fake Glaceon Mickémon**
-
 **Type:** Ice  
 **Classification:** Fake Glaceon Mickémon  
 **Height:** 2’07" (0.8 m)  

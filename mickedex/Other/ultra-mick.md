@@ -6,8 +6,6 @@ permalink: /mickedex/ultra-mick/
 
 # Ultra Mick
 
-**The Chaos God Mickémon**
-
 **Type:** Normal (changes every turn)  
 **Classification:** Chaos God Mickémon  
 **Height:** 6'07" (2.0 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mipie/
 
 # Mipie
 
-**The Pie Mickémon**
-
 **Type:** Fairy / Grass  
 **Classification:** Pie Mickémon  
 **Height:** 1'08" (0.5 m)  

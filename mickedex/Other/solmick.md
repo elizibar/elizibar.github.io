@@ -6,8 +6,6 @@ permalink: /mickedex/solmick/
 
 # Solmick
 
-**The Solar Mickémon**
-
 **Type:** Fire / Psychic  
 **Classification:** Solar Mickémon  
 **Height:** 5'03" (1.6 m)  

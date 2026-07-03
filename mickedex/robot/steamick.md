@@ -6,8 +6,6 @@ permalink: /mickedex/steamick/
 
 # Steamick
 
-**The Steam-Powered Mickémon**
-
 **Type:** Fire / Steel  
 **Classification:** Steam-Powered Mickémon  
 **Height:** 4'11" (1.5 m)  

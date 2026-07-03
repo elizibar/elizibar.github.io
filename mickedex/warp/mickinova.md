@@ -6,8 +6,6 @@ permalink: /mickedex/mickinova/
 
 # Mickinova
 
-**The Supernova Mickémon**
-
 **Type:** Fire / Psychic  
 **Classification:** Supernova Mickémon  
 **Height:** 9'10" (3.0 m)  

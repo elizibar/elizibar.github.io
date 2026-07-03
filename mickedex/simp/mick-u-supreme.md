@@ -6,8 +6,6 @@ permalink: /mickedex/mick-u-supreme/
 
 # Mick U Supreme
 
-**The Ultimate Simp Mickémon**
-
 **Type:** Psychic / Heart  
 **Classification:** Ultimate Simp Mickémon  
 **Height:** 2'00" (0.6 m)  

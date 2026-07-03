@@ -6,8 +6,6 @@ permalink: /mickedex/mickfly/
 
 # Mickfly
 
-**The Time Traveler Mickémon**
-
 **Type:** Bug / Flying  
 **Classification:** Time Traveler Mickémon  
 **Height:** 3'03" (1.0 m)  

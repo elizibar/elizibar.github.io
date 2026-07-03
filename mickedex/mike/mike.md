@@ -6,8 +6,6 @@ permalink: /mickedex/mike/
 
 # Mike
 
-**The Trucker Dad Mickémon**
-
 **Type:** Normal  
 **Classification:** Trucker Dad Mickémon  
 **Height:** 4'07" (1.4 m)  

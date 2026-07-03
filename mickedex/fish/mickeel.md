@@ -6,8 +6,6 @@ permalink: /mickedex/mickeel/
 
 # Mickeel
 
-**The Eel Mickémon**
-
 **Type:** Water  
 **Classification:** Eel Mickémon  
 **Height:** 2'07" (0.8 m)  

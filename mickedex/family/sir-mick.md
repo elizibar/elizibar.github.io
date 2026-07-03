@@ -6,8 +6,6 @@ permalink: /mickedex/sir-mick/
 
 # Sir Mick
 
-**The Knight Mickémon**
-
 **Type:** Steel / Fighting  
 **Classification:** Knight Mickémon  
 **Height:** 5'03" (1.6 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mickstar/
 
 # Mickstar
 
-**The Pop Superstar Mickémon**
-
 **Type:** Sound / Normal  
 **Classification:** Pop Superstar Mickémon  
 **Height:** 4'05" (1.35 m)  

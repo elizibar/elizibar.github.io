@@ -6,8 +6,6 @@ permalink: /mickedex/grim-mick/
 
 # Grim Mick
 
-**The Reaper Mickémon**
-
 **Type:** Ghost / Dark  
 **Classification:** Reaper Mickémon  
 **Height:** 5'03" (1.6 m)  

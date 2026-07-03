@@ -6,8 +6,6 @@ permalink: /mickedex/mickhusk/
 
 # Mickhusk
 
-**The Empty Hat Mickémon**
-
 **Type:** Bug / Ghost  
 **Classification:** Empty Hat Mickémon  
 **Height:** 1'10" (0.6 m)  

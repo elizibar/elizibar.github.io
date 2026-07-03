@@ -6,8 +6,6 @@ permalink: /mickedex/mickookie/
 
 # Mickookie
 
-**The Cookie Mickémon**
-
 **Type:** Normal / Fairy  
 **Classification:** Cookie Mickémon  
 **Height:** 1'08" (0.5 m)  

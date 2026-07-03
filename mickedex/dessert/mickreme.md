@@ -6,8 +6,6 @@ permalink: /mickedex/mickreme/
 
 # Mickreme
 
-**The Dessert Mickémon**
-
 **Type:** Fairy  
 **Classification:** Dessert Mickémon  
 **Height:** 2'04" (0.7 m)  

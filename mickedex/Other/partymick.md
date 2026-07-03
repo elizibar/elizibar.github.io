@@ -6,8 +6,6 @@ permalink: /mickedex/partymick/
 
 # Partymick
 
-**The Party Mickémon**
-
 **Type:** Normal  
 **Classification:** Party Mickémon  
 **Height:** 1'04" (0.4 m)  

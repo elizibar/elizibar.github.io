@@ -6,8 +6,6 @@ permalink: /mickedex/mickross/
 
 # Mickross
 
-**The Armored Tank Mickémon**
-
 **Type:** Normal / Ground  
 **Classification:** Armored Tank Mickémon  
 **Height:** 5'05" (1.65 m)  

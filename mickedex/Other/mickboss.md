@@ -6,8 +6,6 @@ permalink: /mickedex/mickboss/
 
 # Mickboss
 
-**The Boss Mickémon**
-
 **Type:** Dark / Normal  
 **Classification:** Boss Mickémon  
 **Height:** 3'11" (1.2 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/micktorious/
 
 # Micktorious
 
-**The Victory Mickémon**
-
 **Type:** Normal / Fighting  
 **Classification:** Victory Mickémon  
 **Height:** 5'03" (1.6 m)  

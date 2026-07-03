@@ -6,8 +6,6 @@ permalink: /mickedex/mickstride/
 
 # Mickstride
 
-**The Jogger Mickémon**
-
 **Type:** Normal / Fighting  
 **Classification:** Jogger Mickémon  
 **Height:** 4'03" (1.3 m)  

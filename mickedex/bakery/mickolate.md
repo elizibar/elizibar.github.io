@@ -6,8 +6,6 @@ permalink: /mickedex/mickolate/
 
 # Mickolate
 
-**The Chocolate Rabbit Mickémon**
-
 **Type:** Fairy / Fire  
 **Classification:** Chocolate Rabbit Mickémon  
 **Height:** 2'00" (0.6 m)  

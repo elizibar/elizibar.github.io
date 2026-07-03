@@ -6,8 +6,6 @@ permalink: /mickedex/milbreon/
 
 # Milbreon
 
-**The Fake Umbreon Mickémon**
-
 **Type:** Dark  
 **Classification:** Fake Umbreon Mickémon  
 **Height:** 3'03" (1.0 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/unterseemick/
 
 # Unterseemick
 
-**The Submarine Mickémon**
-
 **Type:** Water / Steel  
 **Classification:** Submarine Mickémon  
 **Height:** 8'02" (2.5 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/deepmick/
 
 # Deepmick
 
-**The Deep One Mickémon**
-
 **Type:** Water / Dark  
 **Classification:** Deep One Mickémon  
 **Height:** 3'03" (1.0 m)  

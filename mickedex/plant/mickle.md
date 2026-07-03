@@ -6,8 +6,6 @@ permalink: /mickedex/mickle/
 
 # Mickle
 
-**The Sour Pickle Mickémon**
-
 **Type:** Grass / Poison  
 **Classification:** Sour Pickle Mickémon  
 Height: 2'01" (0.6 m)  

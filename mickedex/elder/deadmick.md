@@ -6,8 +6,6 @@ permalink: /pokedex/deadmick/
 
 # Deadmick
 
-**The Deceased Elder Mickémon**
-
 **Type:** Normal / Ghost  
 **Classification:** Deceased Elder Mickémon  
 **Height:** 1'06" (0.5 m)  

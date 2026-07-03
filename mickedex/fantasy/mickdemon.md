@@ -6,8 +6,6 @@ permalink: /mickedex/mickdemon/
 
 # Mickdemon
 
-**The Demonic Mickémon**
-
 **Type:** Dark / Fire  
 **Classification:** Demon Mickémon  
 **Height:** 4'03" (1.3 m)  

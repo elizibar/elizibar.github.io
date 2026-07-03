@@ -6,8 +6,6 @@ permalink: /mickedex/plantcas/
 
 # Plantcas
 
-**The Root Vegetable Mickémon**
-
 **Type:** Grass / Poison  
 **Classification:** Root Vegetable Mickémon  
 **Height:** 2'00" (0.6 m)  

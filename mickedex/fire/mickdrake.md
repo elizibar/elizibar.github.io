@@ -6,8 +6,6 @@ permalink: /mickedex/mickdrake/
 
 # Mickdrake
 
-**The Legendary Dragon Mickémon**
-
 **Type:** Dragon / Fire  
 **Classification:** Legendary Dragon Mickémon  
 **Height:** 7'07" (2.3 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/micktroll/
 
 # Micktroll
 
-**The Bridge Troll Mickémon**
-
 **Type:**  Rock / Dark  
 **Classification:** Bridge Troll Mickémon  
 **Height:** 4'07" (1.4 m)  

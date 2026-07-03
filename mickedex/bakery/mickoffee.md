@@ -6,8 +6,6 @@ permalink: /mickedex/mickoffee/
 
 # Mickoffee
 
-**The Caffeinated Mickémon**
-
 **Type:** Electric / Normal  
 **Classification:** Caffeinated Mickémon  
 **Height:** 1'08" (0.5 m)  

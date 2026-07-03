@@ -6,8 +6,6 @@ permalink: /mickedex/mickmonga/
 
 # Mickmonga
 
-**The Armored Digimon Mickémon**
-
 **Type:** Steel  
 **Classification:** Armored Digimon Mickémon  
 **Height:** 8'02" (2.5 m)  

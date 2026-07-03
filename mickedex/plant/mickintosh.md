@@ -6,8 +6,6 @@ permalink: /mickedex/mickintosh/
 
 # Mickintosh
 
-**The Apple Mickémon**
-
 **Type:** Grass / Poison  
 **Classification:** Apple Mickémon  
 **Height:** 2'00" (0.6 m)  

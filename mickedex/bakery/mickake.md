@@ -6,8 +6,6 @@ permalink: /mickedex/mickake/
 
 # Mickake
 
-**The Cake Mickémon**
-
 **Type:** Fairy / Fire  
 **Classification:** Cake Mickémon  
 **Height:** 2'00" (0.6 m)  

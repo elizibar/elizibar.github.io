@@ -6,8 +6,6 @@ permalink: /mickedex/mickinyellow/
 
 # Mickinyellow
 
-**The King in Yellow Mickémon**
-
 **Type:** Poison / Flying  
 **Classification:** King in Yellow Mickémon  
 **Height:** 6'07" (2.0 m)  

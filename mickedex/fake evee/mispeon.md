@@ -6,8 +6,6 @@ permalink: /mickedex/mispeon/
 
 # Mispeon
 
-**The Fake Espeon Mickémon**
-
 **Type:** Psychic  
 **Classification:** Fake Espeon Mickémon  
 **Height:** 2'07" (0.8 m)  

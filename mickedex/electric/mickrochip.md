@@ -6,8 +6,6 @@ permalink: /mickedex/mickrochip/
 
 # Mickrochip
 
-**The Microchip Mickémon**
-
 **Type:** Electric/Bug  
 **Classification:** Microchip Mickémon  
 Height: 1'04" (0.4 m)  

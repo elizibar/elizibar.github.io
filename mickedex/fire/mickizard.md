@@ -6,8 +6,6 @@ permalink: /mickedex/mickizard/
 
 # Mickizard
 
-**The Edgy Guitarist Mickémon**
-
 **Type:** Fire / Flying  
 **Classification:** Edgy Guitarist Mickémon  
 **Height:** 5'07" (1.7 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mickrow/
 
 # Mickrow
 
-**The Bully Frog Mickémon**
-
 **Type:** Water / Dark  
 **Classification:** Bully Frog Mickémon  
 **Height:** 4'03" (1.3 m)  

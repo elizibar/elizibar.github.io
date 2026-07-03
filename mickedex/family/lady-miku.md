@@ -6,8 +6,6 @@ permalink: /mickedex/lady-miku/
 
 # Lady Miku
 
-**The Princess Idol Mickémon**
-
 **Type:** Water / Fairy  
 **Classification:** Princess Idol Mickémon  
 **Height:** 4'07" (1.4 m)  

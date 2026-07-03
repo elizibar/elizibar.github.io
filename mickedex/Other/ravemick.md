@@ -6,8 +6,6 @@ permalink: /mickedex/ravemick/
 
 # Ravemick
 
-**The Rave Mickémon**
-
 **Type:** Psychic  
 **Classification:** Rave Mickémon  
 **Height:** 1'08" (0.5 m)  

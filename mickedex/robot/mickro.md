@@ -6,8 +6,6 @@ permalink: /mickedex/mickro/
 
 # Mickro
 
-**The Vista Robot Mickémon**
-
 **Type:** Steel  
 **Classification:** Vista Robot Mickémon  
 **Height:** 3'11" (1.2 m)  

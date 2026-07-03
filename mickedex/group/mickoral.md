@@ -6,8 +6,6 @@ permalink: /mickedex/mickoral/
 
 # Mickoral
 
-**The Glowing Coral Mickémon**
-
 **Type:** Water / Fairy  
 **Classification:** Glowing Coral Mickémon  
 **Height:** 4'11" (1.5 m)  

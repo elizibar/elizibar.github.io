@@ -6,8 +6,6 @@ permalink: /mickedex/mickoid/
 
 # Mickoid
 
-**The Android Mickémon**
-
 **Type:** Steel / Psychic  
 **Classification:** Android Mickémon  
 **Height:** 4'03" (1.3 m)  

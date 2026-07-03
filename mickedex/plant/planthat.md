@@ -6,8 +6,6 @@ permalink: /mickedex/planthat/
 
 # Planthat
 
-**The Big Hat Mickémon**
-
 **Type:** Grass / Poison  
 **Classification:** Big Hat Mickémon  
 **Height:** 2'04" (0.7 m)  

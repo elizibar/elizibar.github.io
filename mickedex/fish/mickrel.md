@@ -6,8 +6,6 @@ permalink: /mickedex/mickrel/
 
 # Mickrel
 
-**The Mackerel Mickémon**
-
 **Type:** Water  
 **Classification:** Mackerel Mickémon  
 **Height:** 3'03" (1.0 m)  

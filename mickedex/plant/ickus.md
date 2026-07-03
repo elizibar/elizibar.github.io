@@ -6,8 +6,6 @@ permalink: /mickedex/ickus/
 
 # Ickus
 
-**The Swamp Gremlin Mickémon**
-
 **Type:** Grass / Poison  
 **Classification:** Swamp Gremlin Mickémon  
 **Height:** 2'07" (0.8 m)  

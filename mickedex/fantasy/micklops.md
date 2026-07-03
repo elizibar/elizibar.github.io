@@ -6,8 +6,6 @@ permalink: /mickedex/micklops/
 
 # Micklops
 
-**The Cyclops Mickémon**
-
 **Type:** Ground / Dark  
 **Classification:** Cyclops Mickémon  
 **Height:** 4'11" (1.5 m)  

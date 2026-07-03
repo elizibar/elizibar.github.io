@@ -6,8 +6,6 @@ permalink: /mickedex/mickandcheese/
 
 # MIckandcheese
 
-**The Comfort Food Mickémon**
-
 **Type:** Normal / Fire  
 **Classification:** Comfort Food Mickémon  
 **Height:** 2'00" (0.6 m)  

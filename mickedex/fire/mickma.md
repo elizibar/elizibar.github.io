@@ -6,8 +6,6 @@ permalink: /mickedex/mickma/
 
 # Mickma
 
-**The Magma Kaiju Mickémon**
-
 **Type:** Fire / Ground  
 **Classification:** Magma Kaiju Mickémon  
 **Height:** 6'07" (2.0 m)  

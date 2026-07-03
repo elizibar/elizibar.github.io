@@ -6,8 +6,6 @@ permalink: /mickedex/mickmon/
 
 # Mickmon
 
-**The Pixel Mickémon**
-
 **Type:** Normal  
 **Classification:** Pixel Mickémon  
 **Height:** 1'04" (0.4 m)  

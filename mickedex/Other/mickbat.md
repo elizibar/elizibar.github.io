@@ -6,8 +6,6 @@ permalink: /mickedex/mickbat/
 
 # Mickbat
 
-**The Cave Bat Mickémon**
-
 **Type:** Flying / Rock  
 **Classification:** Cave Bat Mickémon  
 **Height:** 3'11" (1.2 m)  

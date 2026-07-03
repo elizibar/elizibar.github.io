@@ -6,8 +6,6 @@ permalink: /mickedex/mickshake/
 
 # Mickshake
 
-**The Milkshake Mickémon**
-
 **Type:** Fairy / Ice  
 **Classification:** Milkshake Mickémon  
 **Height:** 2'04" (0.7 m)  

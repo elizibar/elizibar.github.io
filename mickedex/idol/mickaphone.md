@@ -6,8 +6,6 @@ permalink: /mickedex/mickaphone/
 
 # Mickaphone
 
-**The Smartphone Mickémon**
-
 **Type:** Electric / Psychic  
 **Classification:** Smartphone Mickémon  
 **Height:** 3'07" (1.1 m)  

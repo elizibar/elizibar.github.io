@@ -6,8 +6,6 @@ permalink: /mickedex/mickachu-x/
 
 # Mickachu X
 
-**The Edgy Rodent Mickémon**
-
 **Type:** Electric  
 **Classification:** Edgy Rodent Mickémon  
 **Height:** 1'08" (0.5 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mickmunitions/
 
 # Mickmunitions
 
-**The Action Hero Mickémon**
-
 **Type:** Steel / Dark  
 **Classification:** Action Hero Mickémon  
 **Height:** 5'07" (1.7 m)  

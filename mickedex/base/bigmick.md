@@ -6,8 +6,6 @@ permalink: /mickedex/bigmick/
 
 # Bigmick
 
-**The Largest Gremlin Mickémon**
-
 **Type:** Normal  
 **Classification:** Largest Gremlin Mickémon  
 **Height:** 2'11" (0.9 m)  

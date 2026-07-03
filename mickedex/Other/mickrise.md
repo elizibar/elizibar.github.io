@@ -6,8 +6,6 @@ permalink: /mickedex/mickrise/
 
 # Mickrise
 
-**The Morning Mickémon**
-
 **Type:** Psychic / Fire  
 **Classification:** Morning Mickémon  
 **Height:** 3'07" (1.1 m)  

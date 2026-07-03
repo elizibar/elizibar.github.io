@@ -6,8 +6,6 @@ permalink: /mickedex/mikporeon/
 
 # Mikporeon
 
-**The Fake Vaporeon Mickémon**
-
 **Type:** Water  
 **Classification:** Fake Vaporeon Mickémon  
 **Height:** 2'11" (0.9 m)  

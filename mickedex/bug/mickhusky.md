@@ -6,8 +6,6 @@ permalink: /mickedex/mickhusky/
 
 # Mickhusky
 
-**The Haunted Bodybuilder Mickémon**
-
 **Type:** Ghost / Fighting  
 **Classification:** Haunted Bodybuilder Mickémon  
 **Height:** 5'11" (1.8 m)  

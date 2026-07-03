@@ -6,8 +6,6 @@ permalink: /mickedex/mickmickboom/
 
 # Mickmickboom
 
-**The Gun Mickémon**
-
 **Type:** Steel / Normal  
 **Classification:** Gun Mickémon  
 **Height:** 1'04" (0.4 m)  

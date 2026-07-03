@@ -6,8 +6,6 @@ permalink: /mickedex/mickaroni/
 
 # Mickaroni
 
-**The Pasta Mickémon**
-
 **Type:** Normal / Fighting  
 **Classification:** Pasta Mickémon  
 **Height:** 4'03" (1.3 m)  

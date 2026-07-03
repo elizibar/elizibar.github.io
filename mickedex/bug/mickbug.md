@@ -6,8 +6,6 @@ permalink: /mickedex/mickbug/
 
 # Mickbug
 
-**The Antenna Hat Mickémon**
-
 **Type:** Bug / Grass  
 **Classification:** Antenna Hat Mickémon  
 **Height:** 2'07" (0.8 m)  

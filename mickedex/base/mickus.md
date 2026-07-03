@@ -11,8 +11,6 @@ permalink: /mickedex/mickus/
 
 # Mickus
 
-**The Derpy Gremlin Mickémon**
-
 **Type:** Normal  
 **Classification:** Derpy Gremlin Mickémon  
 **Height:** 1'04" (0.4 m)  

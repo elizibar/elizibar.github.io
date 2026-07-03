@@ -6,8 +6,6 @@ permalink: /mickedex/mickjitsu/
 
 # Mickjitsu
 
-**The Martial Arts Master Mickémon**
-
 **Type:** Fighting / Dark  
 **Classification:** Martial Arts Master Mickémon  
 Height: 5'11" (1.8 m)  

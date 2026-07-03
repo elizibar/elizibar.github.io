@@ -6,8 +6,6 @@ permalink: /mickedex/mickmassive/
 
 # Mickmassive
 
-**The Colony Mickémon**
-
 **Type:** Fighting  
 **Classification:** Colony Mickémon  
 **Height:** 9'10" (3.0 m) (Varies)  

@@ -6,8 +6,6 @@ permalink: /mickedex/micksterious/
 
 # Micksterious
 
-**The Enigmatic Figure Mickémon**
-
 **Type:** Ghost / Psychic  
 **Classification:** Enigmatic Figure Mickémon  
 **Height:** 5'03" (1.6 m)  

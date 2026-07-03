@@ -6,8 +6,6 @@ permalink: /mickedex/mike-y/
 
 # Mike Y
 
-**The Construction Mickémon**
-
 **Type:** Ground / Fighting  
 **Classification:** Construction Mickémon  
 **Height:** 5'03" (1.6 m)  

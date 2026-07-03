@@ -6,8 +6,6 @@ permalink: /mickedex/mickoon/
 
 # Mickoon
 
-**The Lunar Howler Mickémon**
-
 **Type:** Dark / Fairy  
 **Classification:** Lunar Howler Mickémon  
 **Height:** 3'11" (1.2 m)  

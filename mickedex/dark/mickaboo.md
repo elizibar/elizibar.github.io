@@ -6,8 +6,6 @@ permalink: /mickedex/mickaboo/
 
 # Mickaboo
 
-**The Peekaboo Scarer Mickémon**
-
 **Type:** Ghost / Fairy  
 **Classification:** Peekaboo Scarer Mickémon  
 **Height:** 2'00" (0.6 m)  

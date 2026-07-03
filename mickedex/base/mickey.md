@@ -6,8 +6,6 @@ permalink: /mickedex/mickey/
 
 # Mickey
 
-**The Bigger Gremlin Mickémon**
-
 **Type:** Normal  
 **Classification:** Bigger Gremlin Mickémon  
 **Height:** 2'04" (0.7 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mickouth/
 
 # Mickouth
 
-**The Mouth Mickémon**
-
 **Type:** Fairy  
 **Classification:** Mouth Mickémon  
 **Height:** 2'04" (0.7 m)  

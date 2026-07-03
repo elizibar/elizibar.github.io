@@ -6,8 +6,6 @@ permalink: /mickedex/micksol/
 
 # Micksol
 
-**The Sunny Surfer Mickémon**
-
 **Type:** Fire / Psychic  
 **Classification:** Sunny Surfer Mickémon  
 **Height:** 4'03" (1.3 m)  

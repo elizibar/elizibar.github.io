@@ -6,8 +6,6 @@ permalink: /mickedex/swimick/
 
 # Swimick
 
-**Delusional Fish Mickémon**
-
 **Type:** Water  
 **Classification:** Delusional Fish Mickémon  
 **Height:** 1'08" (0.5 m)  

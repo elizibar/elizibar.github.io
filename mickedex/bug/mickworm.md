@@ -6,8 +6,6 @@ permalink: /mickedex/mickworm/
 
 # Mickworm
 
-**The Caterpillar Mickémon**
-
 **Type:** Bug  
 **Classification:** Caterpillar Mickémon  
 **Height:** 1'00" (0.3 m)  

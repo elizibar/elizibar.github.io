@@ -6,8 +6,6 @@ permalink: /mickedex/tormick/
 
 # Tormick
 
-**The Torpedo Mickémon**
-
 **Type:** Water / Steel  
 **Classification:** Torpedo Mickémon  
 **Height:** 3'03" (1.0 m)  

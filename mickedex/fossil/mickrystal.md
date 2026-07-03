@@ -6,8 +6,6 @@ permalink: /mickedex/mickrystal/
 
 # Mickrystal
 
-**The Crystal Skull Mickémon**
-
 **Type:** Psychic / Rock  
 **Classification:** Crystal Skull Mickémon  
 **Height:** 2'00" (0.6 m)  

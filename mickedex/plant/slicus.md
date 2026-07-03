@@ -6,8 +6,6 @@ permalink: /mickedex/slicus/
 
 # Slicus
 
-**The Razor Assassin Mickémon**
-
 **Type:** Grass / Dark  
 **Classification:** Razor Assassin Mickémon  
 **Height:** 2'11" (0.9 m)  

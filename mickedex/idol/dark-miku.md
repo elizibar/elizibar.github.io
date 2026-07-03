@@ -6,8 +6,6 @@ permalink: /mickedex/dark-miku/
 
 # Dark Miku
 
-**The Underground Rave Mickémon**
-
 **Type:** Water / Ghost  
 **Classification:** Underground Rave Mickémon  
 **Height:** 4'03" (1.3 m)  

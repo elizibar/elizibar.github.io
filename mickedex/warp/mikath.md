@@ -6,8 +6,6 @@ permalink: /mickedex/mikath/
 
 # Mikath
 
-**The Planetoid Mickémon**
-
 **Type:** Ground / Fire  
 **Classification:** Planetoid Mickémon  
 **Height:** 9'10" (3.0 m) (varies)  

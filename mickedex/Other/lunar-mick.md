@@ -6,8 +6,6 @@ permalink: /mickedex/lunar-mick/
 
 # Lunar Mick
 
-**The Full Moon Mickémon**
-
 **Type:** Dark / Psychic  
 **Classification:** Full Moon Mickémon  
 **Height:** 4'07" (1.4 m)  

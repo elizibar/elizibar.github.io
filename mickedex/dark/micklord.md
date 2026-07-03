@@ -6,8 +6,6 @@ permalink: /mickedex/micklord/
 
 # Micklord
 
-**The Shadow King Mickémon**
-
 **Type:** Dark / Ghost  
 **Classification:** Shadow King Mickémon  
 **Height:** 5'03" (1.6 m)  

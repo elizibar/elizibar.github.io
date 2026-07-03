@@ -6,8 +6,6 @@ permalink: /mickedex/milteon/
 
 # Milteon
 
-**The Fake Jolteon Mickémon**
-
 **Type:** Electric  
 **Classification:** Fake Jolteon Mickémon  
 **Height:** 2'07" (0.8 m)  

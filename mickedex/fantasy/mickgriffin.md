@@ -6,8 +6,6 @@ permalink: /mickedex/mickgriffin/
 
 # Mickgriffin
 
-**The Noble Griffin Mickémon**
-
 **Type:** Flying / Ground  
 **Classification:** Noble Griffin Mickémon  
 **Height:** 5'03" (1.6 m)  

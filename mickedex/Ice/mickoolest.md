@@ -6,8 +6,6 @@ permalink: /mickedex/mickoolest/
 
 # Mickoolest
 
-**The Ultimate Cool Mickémon**
-
 **Type:** Ice  
 **Classification:** Ultimate Cool Mickémon  
 **Height:** 4'11" (1.5 m)  

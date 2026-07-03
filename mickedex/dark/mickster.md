@@ -6,8 +6,6 @@ permalink: /mickedex/mickster/
 
 # Mickster
 
-**The Illusionist Trickster Mickémon**
-
 **Type:** Dark / Fairy  
 **Classification:** Illusionist Trickster Mickémon  
 **Height:** 4'07" (1.4 m)  

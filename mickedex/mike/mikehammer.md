@@ -6,8 +6,6 @@ permalink: /mickedex/mikehammer/
 
 # Mikehammer
 
-**The Construction Crusher Mickémon**
-
 **Type:** Fighting/Steel  
 **Classification:** Construction Crusher Mickémon  
 **Height:** 5'11" (1.8 m)  

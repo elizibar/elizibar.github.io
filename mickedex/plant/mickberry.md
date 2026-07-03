@@ -6,8 +6,6 @@ permalink: /mickedex/mickberry/
 
 # Mickberry
 
-**The Berry Hoarder Mickémon**
-
 **Type:** Grass / Poison  
 **Classification:** Berry Hoarder Mickémon  
 Height: 2'03" (0.7 m)

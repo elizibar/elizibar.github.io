@@ -6,8 +6,6 @@ permalink: /mickedex/mic/
 
 # Mic
 
-**The Disco Idol Mickémon**
-
 **Type:** Sound / Fairy  
 **Classification:** Disco Idol Mickémon  
 **Height:** 4'01" (1.25 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/migon/
 
 # Migon
 
-**The Great Deep One Mickémon**
-
 **Type:** Water / Dark  
 **Classification:** Great Deep One Mickémon  
 **Height:** 6'07" (2.0 m)  

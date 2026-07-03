@@ -6,8 +6,6 @@ permalink: /mickedex/mickmasses/
 
 # Mickmasses
 
-**The Hat Pile Mickémon**
-
 **Type:** Normal  
 **Classification:** Hat Pile Mickémon  
 **Height:** 4'11" (1.5 m) (Varies)  

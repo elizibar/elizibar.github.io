@@ -6,8 +6,6 @@ permalink: /mickedex/mikechamp/
 
 # Mikechamp
 
-**The Gym Leader Wannabe Mickémon**
-
 **Type:** Fighting  
 **Classification:** Gym Leader Wannabe Mickémon  
 Height: 6'03" (1.9 m)  

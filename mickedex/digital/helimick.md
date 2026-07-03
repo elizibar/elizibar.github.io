@@ -6,8 +6,6 @@ permalink: /mickedex/helimick/
 
 # Helimick
 
-**The Propellor Mickémon**
-
 **Type:** Flying / Steel  
 **Classification:** Propeller Mickémon  
 **Height:** 2'00" (0.6 m)  

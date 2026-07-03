@@ -6,8 +6,6 @@ permalink: /mickedex/mick-x/
 
 # Mick X
 
-**The Extreme Wrestler Mickémon**
-
 **Type:** Fighting / Rock  
 **Classification:** Extreme Wrestler Mickémon  
 **Height:** 5'07" (1.7 m)  

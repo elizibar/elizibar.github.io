@@ -6,8 +6,6 @@ permalink: /mickedex/mick-u/
 
 # Mick U
 
-**The Simp Mickémon**
-
 **Type:** Psychic / Heart  
 **Classification:** Simp Mickémon  
 **Height:** 1'08" (0.5 m)  

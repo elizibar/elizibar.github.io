@@ -6,8 +6,6 @@ permalink: /mickedex/mickreon/
 
 # Mickreon
 
-**The Fake Flareon Mickémon**
-
 **Type:** Fire  
 **Classification:** Fake Flareon Mickémon  
 **Height:** 2'11" (0.9 m)  

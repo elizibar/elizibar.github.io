@@ -6,8 +6,6 @@ permalink: /mickedex/mickburger/
 
 # Mickburger
 
-**The Burger Mickémon**
-
 **Type:** Fire / Normal  
 **Classification:** Burger Mickémon  
 **Height:** 2'04" (0.7 m)  

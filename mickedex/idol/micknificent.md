@@ -6,8 +6,6 @@ permalink: /mickedex/micknificent/
 
 # Micknificent
 
-**The Spectacular Star Mickémon**
-
 **Type:** Fire/Fairy  
 **Classification:** Spectacular Star Mickémon  
 **Height:** 5'03" (1.6 m)  

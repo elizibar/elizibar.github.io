@@ -6,8 +6,6 @@ permalink: /mickedex/micknight/
 
 # Micknight
 
-**The Edgelord Mickémon**
-
 **Type:** Dark / Ghost  
 **Classification:** Edgelord Mickémon  
 **Height:** 4'07" (1.4 m)  

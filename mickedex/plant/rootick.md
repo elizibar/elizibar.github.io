@@ -6,8 +6,6 @@ permalink: /mickedex/rootick/
 
 # Rootick
 
-**The Angry Root Mickémon**
-
 **Type:** Grass / Poison  
 **Classification:** Angry Root Mickémon  
 **Height:** 2'00" (0.6 m)  

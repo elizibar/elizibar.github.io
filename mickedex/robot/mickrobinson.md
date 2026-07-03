@@ -6,8 +6,6 @@ permalink: /mickedex/mickrobinson/
 
 # Mickbot
 
-**The Retro Robot Mickémon**
-
 **Type:** Steel / Psychic  
 **Classification:** Retro Robot Mickémon  
 **Height:** 5'07" (1.7 m)  

@@ -6,8 +6,6 @@ permalink: /mickedex/mickroach/
 
 # Mickroach
 
-**The Indestructible Mickémon**
-
 **Type:** Bug / Dark  
 **Classification:** Indestructible Mickémon  
 **Height:** 2'04" (0.7 m)  

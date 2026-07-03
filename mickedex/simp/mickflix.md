@@ -6,8 +6,6 @@ permalink: /mickedex/mickflix/
 
 # Mickflix
 
-**The Binge-Watcher Mickémon**
-
 **Type:** Normal / Psychic  
 **Classification:** Binge-Watcher Mickémon  
 **Height:** 3'03" (1.0 m)  

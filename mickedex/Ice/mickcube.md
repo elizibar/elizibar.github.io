@@ -6,8 +6,6 @@ permalink: /mickedex/mickcube/
 
 # Mickcube
 
-**The Ice Cube Mickémon**
-
 **Type:** Ice  
 **Classification:** Ice Cube Mickémon  
 **Height:** 1'08" (0.5 m)  

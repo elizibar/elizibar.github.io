@@ -6,8 +6,6 @@ permalink: /mickedex/mickblaze/
 
 # Mickblaze
 
-**The Magma Wrestler Mickémon**
-
 **Type:** Fire / Fighting  
 **Classification:** Magma Wrestler Mickémon  
 **Height:** 5'11" (1.8 m)  

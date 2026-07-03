@@ -6,8 +6,6 @@ permalink: /mickedex/mickreef/
 
 # Mickreef
 
-**The Coral Reef Mickémon Mickémon**
-
 **Type:** Water / Grass  
 **Classification:** Coral Reef Mickémon Mickémon  
 **Height:** 4'03" (1.3 m)  

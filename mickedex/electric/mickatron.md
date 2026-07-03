@@ -6,8 +6,6 @@ permalink: /mickedex/mickatron/
 
 # Mickatron
 
-**The Glitching Robot Mickémon**
-
 **Type:** Electric / Steel  
 **Classification:** Glitching Robot Mickémon  
 **Height:** 4'03" (1.3 m)  

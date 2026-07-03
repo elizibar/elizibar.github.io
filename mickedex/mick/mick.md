@@ -6,8 +6,6 @@ permalink: /mickedex/mick/
 
 # Mick
 
-**The Rockstar Mickémon**
-
 **Type:** Normal / Rock  
 **Classification:** Rockstar Mickémon  
 **Height:** 4'11" (1.5 m)  

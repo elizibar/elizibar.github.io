@@ -6,8 +6,6 @@ permalink: /mickedex/mickmarried/
 
 # Mickmarried
 
-**The Union Mickémon**
-
 **Type:** Steel / Fairy  
 **Classification:** Union Mickémon  
 **Height:** 5'07" (1.7 m)  

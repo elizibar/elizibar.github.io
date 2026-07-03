@@ -6,8 +6,6 @@ permalink: /mickedex/mickfambly/
 
 # Mickfambly
 
-**The Family Mickémon**
-
 **Type:** Steel / Fairy  
 **Classification:** Family Mickémon  
 **Height:** 5'07" (1.7 m)  
