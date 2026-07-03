@@ -25,3 +25,6 @@ Mick evolves from Mickus when it has High Friendship with its trainer.  It evolv
 
 **Previous Evolution:** Mickus (High Friendship)  
 **Next Evolution(s):** Mick X (Level 38)
+
+### Gallery
+![Mickus](/assets/images/mick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

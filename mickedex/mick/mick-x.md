@@ -25,3 +25,6 @@ Mick X evolves from Mick at level 38.
 
 **Previous Evolution:** Mick (Level 38)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickus](/assets/images/mick-x.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

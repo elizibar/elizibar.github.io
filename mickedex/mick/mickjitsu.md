@@ -27,3 +27,6 @@ Mickjitsu evolves from Micktorious at level 38.
 
 **Previous Evolution:** Micktorious (Level 38)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickus](/assets/images/mickjitsu.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
