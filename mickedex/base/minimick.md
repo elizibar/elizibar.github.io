@@ -10,8 +10,8 @@ permalink: /mickedex/minimick/
 
 **Type:** Normal  
 **Classification:** Tiny Gremlin Mickémon  
-**Height:** 1'00" (0.3 m)  
-**Weight:** 8.8 lbs (4.0 kg)
+**Height:** 10" (0.25 m)  
+**Weight:** 6.6 lbs (3.0 kg)
 
 ### Short Miickédex Entry
 "The Tiny Gremlin Mickémon. It looks exactly like Mickus but slightly smaller. It is so eager to grow that it evolves back into Mickus after gaining even a single level."
