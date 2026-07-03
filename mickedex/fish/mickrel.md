@@ -13,7 +13,7 @@ permalink: /mickedex/mickrel/
 **Height:** 3'03" (1.0 m)  
 **Weight:** 33.1 lbs (15.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Mackerel Mickémon. It is a fast, silvery fish that loves swimming in large schools."
 
 ### Biology

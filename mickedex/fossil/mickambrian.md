@@ -13,7 +13,7 @@ permalink: /mickedex/mickambrian/
 **Height:** 2'04" (0.7 m)  
 **Weight:** 24.3 lbs (11.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Hallucigenia Mickémon. It is constantly surprised that it is alive and spends most of its time trying to figure out which way is up."
 
 ### Biology

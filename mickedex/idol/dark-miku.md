@@ -13,7 +13,7 @@ permalink: /mickedex/dark-miku/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 85.1 lbs (38.6 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Underground Rave Mickémon. Performs illegal late-night shows. Its beats are said to alter the brain chemistry of anyone who hears them."
 
 ### Biology

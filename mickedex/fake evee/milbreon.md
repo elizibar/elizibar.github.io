@@ -13,7 +13,7 @@ permalink: /mickedex/milbreon/
 **Height:** 3'03" (1.0 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Fake Umbreon Mickémon. It is a Mickus desperately trying to pass as an Umbreon."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickmagma/
 **Height:** 7'03" (2.2 m)  
 **Weight:** 771.6 lbs (350.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Lava Beast Mickémon. Even bigger and hotter than Mickma."
 
 ### Biology

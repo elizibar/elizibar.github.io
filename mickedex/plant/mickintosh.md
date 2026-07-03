@@ -13,7 +13,7 @@ permalink: /mickedex/mickintosh/
 **Height:** 2'00" (0.6 m)  
 **Weight:** Weight: 26.5 lbs (12.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Apple Mickémon. It is famous for dropping shiny, techy seeds that can supposedly grow into powerful machines."
 
 ### Biology

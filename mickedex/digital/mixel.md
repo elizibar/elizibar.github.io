@@ -13,7 +13,7 @@ permalink: /mickedex/mixel/
 **Height:** 3'11" (1.2 m) (varies)  
 **Weight:** 22.0 lbs (10.0 kg) (varies)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "Its form is so unstable that it looks completely different every time it is sent out of its Poké Ball. It exists in a constant state of pixelated delirium."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickyfin/
 **Height:** 2'04" (0.7 m)  
 **Weight:** 38.6 lbs (17.5 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Delusional Poison Fish Mickémon. Mickyfin is absolutely convinced it is a majestic aquatic creature. It is not. The toxic purple sludge it constantly leaks makes swimming near it highly inadvisable."
 
 ### Biology

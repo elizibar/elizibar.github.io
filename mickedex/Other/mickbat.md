@@ -13,7 +13,7 @@ permalink: /mickedex/mickbat/
 **Height:** 3'11" (1.2 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Cave Bat Mickémon. Has mullet-shaped ears. Loves dramatic entrances from the ceiling."
 
 ### Biology

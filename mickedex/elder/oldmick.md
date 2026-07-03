@@ -13,7 +13,7 @@ permalink: /mickedex/oldmick/
 **Height:** 1'06" (0.5 m)  
 **Weight:** 18.7 lbs (8.5 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Grumpy Elder Mickémon. Oldmick evolves when it has grown wise enough to know four moves that are over 20 levels old. It believes modern battling is too flashy and loudly complains about it."
 
 ### Biology

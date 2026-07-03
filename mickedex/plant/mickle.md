@@ -13,7 +13,7 @@ permalink: /mickedex/mickle/
 Height: 2'01" (0.6 m)  
 Weight: 22.0 lbs (10.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Sour Pickle Mickémon. Mickle is a grumpy, cucumber-shaped fighter that evolved from Plantcas or Ickus. It is perpetually sour and loves picking fights while complaining about everything."
 
 ### Biology

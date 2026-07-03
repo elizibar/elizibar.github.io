@@ -13,7 +13,7 @@ permalink: /mickedex/migon/
 **Height:** 6'07" (2.0 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Great Deep One Mickémon. Migon is a massive fish-man horror that serves as a high priest of the Abyss."
 
 ### Biology

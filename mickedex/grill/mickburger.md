@@ -13,7 +13,7 @@ permalink: /mickedex/mickburger/
 **Height:** 2'04" (0.7 m)  
 **Weight:** 33.1 lbs (15.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Burger Mickémon. Trained by the Duke of the Grill. It is a living hamburger that works as a fry cook, flipping burgers with expert skill."
 
 ### Biology

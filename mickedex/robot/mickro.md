@@ -13,7 +13,7 @@ permalink: /mickedex/mickro/
 **Height:** 3'11" (1.2 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Vista Robot Mickémon. This outdated robot Mickus still runs on Windows Vista. It frequently freezes mid-battle."
 
 ### Biology

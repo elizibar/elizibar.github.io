@@ -13,7 +13,7 @@ permalink: /mickedex/mic-drop/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 85.3 lbs (38.7 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Professional Diva Mickémon. A true superstar that has mastered the art of leaving the stage right after the best part."
 
 ### Biology

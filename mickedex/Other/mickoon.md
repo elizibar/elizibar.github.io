@@ -13,7 +13,7 @@ permalink: /mickedex/mickoon/
 **Height:** 3'11" (1.2 m)  
 **Weight:** 77.2 lbs (35.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Lunar Howler Mickémon. Howls beautifully at night and sparkles under moonlight."
 
 ### Biology

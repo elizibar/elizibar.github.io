@@ -13,7 +13,7 @@ permalink: /mickedex/mickmonga/
 **Height:** 8'02" (2.5 m)  
 **Weight:** 771.6 lbs (350.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Armored Digimon Mickémon. Announces every attack with maximum drama."
 
 ### Biology

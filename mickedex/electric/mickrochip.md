@@ -13,7 +13,7 @@ permalink: /mickedex/mickrochip/
 Height: 1'04" (0.4 m)  
 Weight: 6.6 lbs (3.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Microchip Mickémon. It uses stolen Mickintosh seeds to hack into electronic systems."
 
 ### Biology

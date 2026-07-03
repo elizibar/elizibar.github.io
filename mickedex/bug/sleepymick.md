@@ -13,7 +13,7 @@ permalink: /mickedex/sleepymick/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 14.3 lbs (6.5 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Sleeping Hat Mickémon. The large hat is the main body. The worm underneath is having the nap of its life."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickroach/
 **Height:** 2'04" (0.7 m)  
 **Weight:** 29.8 lbs (13.5 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Indestructible Mickémon. Its shell is a hardened hat. It simply refuses to stay squished."
 
 ### Biology

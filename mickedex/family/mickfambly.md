@@ -13,7 +13,7 @@ permalink: /mickedex/mickfambly/
 **Height:** 5'07" (1.7 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Family Mickémon. It consists of a Mickmarried with two small Mickus children orbiting around it."
 
 ### Biology

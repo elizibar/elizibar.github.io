@@ -13,7 +13,7 @@ permalink: /mickedex/mickdemon/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Demon Mickémon. It is a mischievous demon that loves making deals and causing chaos with its fiery powers."
 
 ### Biology

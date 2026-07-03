@@ -13,7 +13,7 @@ permalink: /mickedex/micklops/
 **Height:** 4'11" (1.5 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Cyclops Mickémon. It is a one-eyed giant that loves staring contests and smashing things with its club."
 
 ### Biology

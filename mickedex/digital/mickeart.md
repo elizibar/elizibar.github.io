@@ -13,7 +13,7 @@ permalink: /mickedex/mickeart/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "It is shaped like a big, glowing heart and radiates pure love and affection for everything around it."
 
 ### Biology

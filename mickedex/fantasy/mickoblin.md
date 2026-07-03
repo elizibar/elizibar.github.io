@@ -13,7 +13,7 @@ permalink: /mickedex/mickoblin/
 **Height:** 2'00" (0.6 m)  
 **Weight:**22.0 lbs (10.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Goblin Mickémon. It is a mischievous little goblin that loves causing trouble in the dark."
 
 ### Biology

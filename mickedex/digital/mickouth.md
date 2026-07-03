@@ -13,7 +13,7 @@ permalink: /mickedex/mickouth/
 **Height:** 2'04" (0.7 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "It is a giant floating mouth that never stops talking, commentating on everything happening around it."
 
 ### Biology

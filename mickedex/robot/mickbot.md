@@ -13,7 +13,7 @@ permalink: /mickedex/mickbot/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 209.4 lbs (95.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Upgraded Robot Mickémon. An improved version of Mickro with slightly better graphics."
 
 ### Biology

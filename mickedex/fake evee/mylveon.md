@@ -13,7 +13,7 @@ permalink: /mickedex/mylveon/
 **Height:** 3’03" (1.0 m)  
 **Weight:** 51.8 lbs (23.5 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Fake Sylveon Mickémon. It is a Mickus desperately trying to pass as a Sylveon."
 
 ### Biology

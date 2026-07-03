@@ -13,7 +13,7 @@ permalink: /mickedex/mickreme/
 **Height:** 2'04" (0.7 m)  
 **Weight:** 24.3 lbs (11.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Dessert Mickémon. A swirly ice cream idol. Melts under pressure but tastes delicious."
 
 ### Biology

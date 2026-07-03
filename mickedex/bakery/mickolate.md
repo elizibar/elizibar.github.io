@@ -13,7 +13,7 @@ permalink: /mickedex/mickolate/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Chocolate Rabbit Mickémon. It is a master chocolatier that makes delicious confections and brews perfect mochas and lattes."
 
 ### Biology

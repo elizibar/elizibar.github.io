@@ -13,7 +13,7 @@ permalink: /mickedex/mickross/
 **Height:** 5'05" (1.65 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Armored Tank Mickémon. A heavily fortified bovine Mickus. Its defense is so high that attacks just bounce off its hard hat."
 
 ### Biology

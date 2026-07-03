@@ -13,7 +13,7 @@ permalink: /mickedex/slicus/
 **Height:** 2'11" (0.9 m)  
 **Weight:** 35.3 lbs (16.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Razor Assassin Mickémon. Its leaves are sharper than knives. Never trust its innocent smile."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/milfeon/
 **Height:** 2’11" (0.9 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Fake Leafeon Mickémon. It is a Mickus desperately trying to pass as a Leafeon."
 
 ### Biology

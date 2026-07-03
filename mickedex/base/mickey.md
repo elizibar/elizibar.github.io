@@ -13,7 +13,7 @@ permalink: /mickedex/mickey/
 **Height:** 2'04" (0.7 m)  
 **Weight:** 28.7 lbs (13.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Bigger Gremlin Mickémon. Visually identical to Mickus except slightly larger. Many Trainers regret evolving into this form because its level resets to 1."
 
 ### Biology

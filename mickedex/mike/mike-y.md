@@ -13,7 +13,7 @@ permalink: /mickedex/mike-y/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 352.7 lbs (160.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Construction Mickémon. Wears a hard hat and carries a comically large wrench. It builds things just so it can knock them down again."
 
 ### Biology

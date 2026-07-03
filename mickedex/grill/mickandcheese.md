@@ -13,7 +13,7 @@ permalink: /mickedex/mickandcheese/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 24.3 lbs (11.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "It is most famous for its gooey macaroni and cheese, but grilled cheese sandwiches are also on the menu."
 
 ### Biology

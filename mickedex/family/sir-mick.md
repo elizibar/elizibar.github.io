@@ -13,7 +13,7 @@ permalink: /mickedex/sir-mick/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Knight Mickémon. A gallant mullet knight in shining armor."
 
 ### Biology

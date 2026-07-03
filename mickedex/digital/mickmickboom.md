@@ -13,7 +13,7 @@ permalink: /mickedex/mickmickboom/
 **Height:** 1'04" (0.4 m)  
 **Weight:** 22.0 lbs (10.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Gun Mickémon. Mickmickboom is literally a .50 calibre pistol wearing a tiny hat. It shouts 'MICK BOOM!' before firing."
 
 ### Biology

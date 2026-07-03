@@ -13,7 +13,7 @@ permalink: /mickedex/meekee/
 **Height:** 1'00" (0.3 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Eevee Impersonator Mickémon. It is a Mickus desperately trying to pass as an Eevee."
 
 ### Biology

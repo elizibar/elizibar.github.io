@@ -13,7 +13,7 @@ permalink: /mickedex/micksol/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 77.2 lbs (35.0 kg)
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Sunny Surfer Mickémon. Rides waves of fire and never stops smiling."
 
 ### Biology

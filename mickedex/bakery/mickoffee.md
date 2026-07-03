@@ -13,7 +13,7 @@ permalink: /mickedex/mickoffee/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Caffeinated Mickémon. It is a hyper, jittery speedster powered by endless coffee."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickachu/
 **Height:** 1'04" (0.4 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Mullet Rodent Mickémon. Its cheeks spark with electricity while its mullet stands on end. It gets extremely offended if anyone calls it cute."
 
 ### Biology

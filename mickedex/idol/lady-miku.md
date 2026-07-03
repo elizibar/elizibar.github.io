@@ -13,7 +13,7 @@ permalink: /mickedex/lady-miku/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Princess Idol Mickémon. An elegant variant that only appears when a female Mickus uses a Dawn Stone."
 
 ### Biology

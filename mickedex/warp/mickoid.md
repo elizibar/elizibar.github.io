@@ -13,7 +13,7 @@ permalink: /mickedex/mickoid/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Android Mickémon. It is the most common of the Warped evolutions."
 
 ### Biology

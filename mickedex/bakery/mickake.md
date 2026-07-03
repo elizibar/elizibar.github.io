@@ -13,7 +13,7 @@ permalink: /mickedex/mickake/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 24.3 lbs (11.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Cake Mickémon. It is a living cake that loves baking elaborate cakes for every occasion."
 
 ### Biology

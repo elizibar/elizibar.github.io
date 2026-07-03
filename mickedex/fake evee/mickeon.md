@@ -13,7 +13,7 @@ permalink: /mickedex/mickeon/
 **Height:** 2’07" (0.8 m)  
 **Weight:** 57.1 lbs (25.9 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Fake Glaceon Mickémon. It is a Mickus desperately trying to pass as a Glaceon."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickoggoth/
 **Height:** Varies (typically 6'07" / 2.0 m)  
 **Weight:** Varies (typically 264.6 lbs / 120.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Shoggoth Mickémon. It is a shapeless horror that can assume any form, constantly muttering in unknown tongues."
 
 ### Biology

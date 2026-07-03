@@ -13,7 +13,7 @@ permalink: /mickedex/mikath/
 **Height:** 9'10" (3.0 m) (varies)  
 **Weight:** 2,204.6 lbs (1,000.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Planetoid Mickémon. It is a living celestial body that devours everything in its path."
 
 ### Biology

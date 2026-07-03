@@ -13,7 +13,7 @@ permalink: /mickedex/mickgriffin/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 143.3 lbs (65.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "It is a proud and noble griffin that protects the weak with its sharp talons and powerful wings."
 
 ### Biology

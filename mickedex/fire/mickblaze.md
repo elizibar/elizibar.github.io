@@ -13,7 +13,7 @@ permalink: /mickedex/mickblaze/
 **Height:** 5'11" (1.8 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Magma Wrestler Mickémon. Punches with flaming fists. Loves dramatic entrances."
 
 ### Biology

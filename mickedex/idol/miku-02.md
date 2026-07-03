@@ -13,7 +13,7 @@ permalink: /mickedex/miku-02/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 92.6 lbs (42.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Upgraded Idol Mickémon. Now features better lighting, auto-tune, and dramatic wind effects. Its concerts sell out in seconds."
 
 ### Biology

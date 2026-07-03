@@ -13,7 +13,7 @@ permalink: /mickedex/mickeel/
 **Height:** 2'07" (0.8 m)  
 **Weight:** 15.4 lbs (7.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Eel Mickémon. It is a long, slippery eel-like Mickus that loves zipping through water at high speeds."
 
 ### Biology

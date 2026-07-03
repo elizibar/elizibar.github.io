@@ -13,7 +13,7 @@ permalink: /mickedex/mispeon/
 **Height:** 2'07" (0.8 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Fake Espeon Mickémon. It is a Mickus desperately trying to pass as an Espeon."
 
 ### Biology

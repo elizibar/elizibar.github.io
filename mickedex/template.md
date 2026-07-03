@@ -13,8 +13,8 @@ permalink: /mickedex/pokemon-name/
 **Height:** X'XX" (X.X m)  
 **Weight:** XXX.X lbs (XX.X kg)  
 
-### Short Miickédex Entry
-"Short, flavorful Miickédex description goes here."
+### Short Mickédex Entry
+"Short, flavorful Mickédex description goes here."
 
 ### Biology
 Detailed biology / description paragraph(s). Describe appearance, personality, and notable traits.

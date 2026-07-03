@@ -13,7 +13,7 @@ permalink: /mickedex/micktroll/
 **Height:** 4'07" (1.4 m)  
 **Weight:** 176.4 lbs (80.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Bridge Troll Mickémon. It loves guarding bridges and demanding tolls from anyone who wants to cross."
 
 ### Biology

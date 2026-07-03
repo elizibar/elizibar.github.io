@@ -13,7 +13,7 @@ permalink: /mickedex/micktoon/
 **Height:** 1'08" (0.5 m) (constantly shifting)  
 **Weight:** 11.0 lbs (5.0 kg) (varies wildly)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "Its body is made of sketchy, shifting lines and it moves with a janky, low-budget framerate. It is completely unpredictable."
 
 ### Biology

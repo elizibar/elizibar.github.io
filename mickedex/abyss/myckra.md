@@ -13,7 +13,7 @@ permalink: /mickedex/myckra/
 **Height:** 6'07" (2.0 m)  
 **Weight:** 264.6 lbs (120.0 kg)   
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Deep One Mickémon (Female). Myckra is a massive fish-woman horror said to be the mother of many Deep Ones."
 
 ### Biology

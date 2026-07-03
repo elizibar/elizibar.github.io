@@ -13,7 +13,7 @@ permalink: /mickedex/partymick/
 **Height:** 1'04" (0.4 m)  
 **Weight:** 12.1 lbs (5.5 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Party Mickémon. Always has a party whistle in its mouth. Ready to celebrate anything."
 
 ### Biology

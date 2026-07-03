@@ -13,7 +13,7 @@ permalink: /mickedex/mick/
 **Height:** 4'11" (1.5 m)  
 **Weight:** 187.4 lbs (85.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Rockstar Mickémon. It wears a leather jacket and carries an air guitar. Its powerful screams can trigger earthquakes and spontaneous sing-alongs."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mickookie/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Cookie Mickémon.	 It is a living cookie that loves baking all kinds of cookies and no-bakes, from chocolate chip to peanut butter oatmeal."
 
 ### Biology

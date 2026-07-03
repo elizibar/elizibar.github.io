@@ -13,7 +13,7 @@ permalink: /mickedex/plantcas/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 22.0 lbs (10.0 kg)
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Root Vegetable Mickémon. A grumpy potato with leaves. It smells faintly of dirt and resentment."
 
 ### Biology

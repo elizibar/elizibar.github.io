@@ -13,7 +13,7 @@ permalink: /mickedex/mickizza/
 **Height:**  2'00" (0.6 m)  
 **Weight:** 24.3 lbs (11.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Pizza Mickémon. It is a living pizza that delivers hot, fresh slices with speedy enthusiasm."
 
 ### Biology

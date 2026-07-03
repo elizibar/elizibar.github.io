@@ -13,7 +13,7 @@ permalink: /mickedex/mickrystal/
 **Height:** 2'00" (0.6 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Crystal Skull Mickémon. It believes it comes from the stars and constantly tries to communicate with aliens that may or may not exist."
 
 ### Biology

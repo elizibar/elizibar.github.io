@@ -13,7 +13,7 @@ permalink: /mickedex/mickaroni/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 121.3 lbs (55.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Pasta Master Mickémon. It serves up a mix of Unova-style alfredo and marinara dishes along with Alola favorites like macaroni salad. It is street tough but quick to call everyone 'brudda' and try to calm things down."
 
 ### Biology

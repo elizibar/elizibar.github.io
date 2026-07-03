@@ -15,7 +15,7 @@ permalink: /mickedex/mickinyellow/
 
   
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The King in Yellow Mickémon. It is a regal, poisonous horror that spreads madness and corruption with its mere presence."
 
 ### Biology

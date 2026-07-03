@@ -13,7 +13,7 @@ permalink: /mickedex/solmick/
 **Height:** 5'03" (1.6 m)  
 **Weight:** 110.2 lbs (50.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Solar Mickémon. The ultimate daytime form. So bright it needs sunglasses just to look at itself."
 
 ### Biology

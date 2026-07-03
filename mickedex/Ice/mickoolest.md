@@ -13,7 +13,7 @@ permalink: /mickedex/mickoolest/
 **Height:** 4'11" (1.5 m)  
 **Weight:** 143.3 lbs (65.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Ultimate Cool Mickémon. It has achieved the absolute peak of coolness and refuses to acknowledge anything less than legendary levels of chill."
 
 ### Biology

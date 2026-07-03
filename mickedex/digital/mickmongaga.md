@@ -13,7 +13,7 @@ permalink: /mickedex/mickmongaga/
 **Height:** 5'11" (1.8 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "It believes it comes from a small peaceful town, but it is actually absorbing memories from other Mickus. It wields an absurdly large sword it can barely lift."
 
 ### Biology

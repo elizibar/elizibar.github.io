@@ -13,7 +13,7 @@ permalink: /mickedex/mickinabox/
 **Height:** 2'04" (0.7 m) (box form), 4'03" (1.3 m) (sprung form)  
 **Weight:** 44.1 lbs (20.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "It insists there is a popular fast food chain called Mick-in-a-Box. There is not. It is a jack-in-the-box toy that violently springs out at random."
 
 ### Biology

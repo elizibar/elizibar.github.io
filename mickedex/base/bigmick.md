@@ -13,7 +13,7 @@ permalink: /mickedex/bigmick/
 **Height:** 2'11" (0.9 m)  
 **Weight:** 39.7 lbs (18.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Largest Gremlin Mickémon. Even bigger than Mickey. Its only purpose seems to be wasting Rare Candies and Trainer patience."
 
 ### Biology

@@ -13,7 +13,7 @@ permalink: /mickedex/mic/
 **Height:** 4'01" (1.25 m)  
 **Weight:** 79.4 lbs (36.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Disco Idol Mickémon. Its tail is a functioning microphone. Legendary for dramatic mic drops that cause actual explosions."
 
 ### Biology

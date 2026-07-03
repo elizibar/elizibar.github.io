@@ -13,7 +13,7 @@ permalink: /pokedex/deadmick/
 **Height:** 1'06" (0.5 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Deceased Elder Mickémon. It is still complaining, even in death."
 
 ### Biology

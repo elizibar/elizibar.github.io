@@ -13,7 +13,7 @@ permalink: /mickedex/mickool/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 121.3 lbs (55.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Cool Dude Mickémon. Wears ice sunglasses. Thinks it’s way smoother than it actually is."
 
 ### Biology

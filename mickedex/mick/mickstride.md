@@ -13,7 +13,7 @@ permalink: /mickedex/mickstride/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 121.3 lbs (55.0 kg)
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Jogger Mickémon. Always seen power-walking with a sweatband. It claims walking 1,000 steps builds character… and then immediately collapses."
 
 ### Biology

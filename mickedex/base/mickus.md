@@ -13,7 +13,7 @@ permalink: /mickedex/mickus/
 **Height:** 1'04" (0.4 m)  
 **Weight:** 12.1 lbs (5.5 kg)
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Derpy Gremlin Mickémon. A round, potato-shaped creature with a mullet tuft and a permanent hat. It copies its Trainer’s every action, usually at the worst possible moment."
 
 ### Biology

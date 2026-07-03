@@ -13,7 +13,7 @@ permalink: /mickedex/mickmassive/
 **Height:** 9'10" (3.0 m) (Varies)  
 **Weight:** 1,543.2 lbs (700.0 kg) (Varies)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Colony Mickémon. Dozens of muscular arms and legs stick out of the hat mountain. Surprisingly good at group hugs."
 
 ### Biology

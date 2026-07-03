@@ -13,7 +13,7 @@ permalink: /mickedex/micknoodle/
 **Height:** 2'00" (0.6 m) 
 **Weight:** 19.8 lbs (9.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 Micknoodle is a master chef that specializes in slurpy ramen but can also prepare sushi, sashimi, katsu, and other Kanto dishes with expert skill."
 
 

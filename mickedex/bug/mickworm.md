@@ -13,7 +13,7 @@ permalink: /mickedex/mickworm/
 **Height:** 1'00" (0.3 m)  
 **Weight:** 6.6 lbs (3.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Caterpillar Mickémon. A simple worm with a mullet. It dreams of hats."
 
 ### Biology

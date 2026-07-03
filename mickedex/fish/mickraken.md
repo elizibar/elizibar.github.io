@@ -13,7 +13,7 @@ permalink: /mickedex/mickraken/
 **Height:** 8'02" (2.5 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Kraken Mickémon. It is a massive, legendary sea monster that loves dramatic entrances and wrapping boats with its tentacles."
 
 ### Biology

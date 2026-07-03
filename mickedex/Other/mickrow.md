@@ -13,7 +13,7 @@ permalink: /mickedex/mickrow/
 **Height:** 4'03" (1.3 m)  
 **Weight:** 143.3 lbs (65.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Bully Frog Mickémon. Wears a tiny crown and headbutts everything."
 
 ### Biology

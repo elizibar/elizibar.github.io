@@ -13,7 +13,7 @@ permalink: /mickedex/mickien/
 **Height:** 3'03" (1.0 m)  
 **Weight:** 66.1 lbs (30.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Grey Alien Mickémon. Mickien is a classic grey alien Mickus with a large head, black eyes, and a permanent curious expression. It still wears its signature hat."
 
 ### Biology

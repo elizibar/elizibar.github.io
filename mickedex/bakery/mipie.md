@@ -13,7 +13,7 @@ permalink: /mickedex/mipie/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 15.4 lbs (7.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Pie Mickémon. It is a living pie that bakes delicious pies, custards, tarts, and other sweet goods."
 
 ### Biology

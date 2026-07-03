@@ -13,7 +13,7 @@ permalink: /mickedex/mickhusky/
 **Height:** 5'11" (1.8 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Haunted Bodybuilder Mickémon. Massive muscular limbs burst from an old hat. It flexes even while invisible."
 
 ### Biology

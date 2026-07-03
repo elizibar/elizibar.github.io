@@ -13,7 +13,7 @@ permalink: /mickedex/mickfly/
 **Height:** 3'03" (1.0 m)  
 **Weight:** 49.6 lbs (22.5 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Time Traveler Mickémon. Wears glasses and a red vest while riding a tiny hoverboard. Insists it is 'totally radical' despite being a massive nerd."
 
 ### Biology

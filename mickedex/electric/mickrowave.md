@@ -13,7 +13,7 @@ permalink: /mickedex/mickrowave/
 Height: 4'03" (1.3 m)  
 Weight: 154.3 lbs (70.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "Claims its name is pronounced Meecro-wah-vey. It can instantly heat or zap anything with powerful microwave bursts."
 
 ### Biology

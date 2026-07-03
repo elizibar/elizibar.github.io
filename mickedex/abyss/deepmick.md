@@ -13,7 +13,7 @@ permalink: /mickedex/deepmick/
 **Height:** 3'03" (1.0 m)  
 **Weight:** 44.1 lbs (20.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Deep One Mickémon. It is a pale, fish-like horror that serves the will of greater entities below."
 
 ### Biology

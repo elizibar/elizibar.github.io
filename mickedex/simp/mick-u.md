@@ -13,7 +13,7 @@ permalink: /mickedex/mick-u/
 **Height:** 1'08" (0.5 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Simp Mickémon. Blushes furiously. Its power grows the more its Trainer spoils it."
 
 ### Biology

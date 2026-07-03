@@ -13,7 +13,7 @@ permalink: /mickedex/mickjitsu/
 Height: 5'11" (1.8 m)  
 Weight: 231.5 lbs (105.0 kg)  
 
-### Short Miickédex Entry
+### Short Mickédex Entry
 "The Martial Arts Master Mickémon. Mickjitsu is a legendary fighter who has mastered many styles. It has an undying love for Nanab Berry sandwiches and is known to meditate for hours while eating them."
 
 ### Biology
