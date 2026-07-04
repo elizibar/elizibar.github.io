@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickjitsu/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickjitsu.png" alt="Mickjitsu" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickjitsus</strong><br>The Martial Arts Master Mickémon</figcaption>
+</figure>
+
 # Mickjitsu
 
 **Type:** Fighting / Dark  

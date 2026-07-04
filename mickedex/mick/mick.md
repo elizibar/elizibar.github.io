@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick.png" alt="Mick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mick</strong><br>The Rockstar Mickémon</figcaption>
+</figure>
+
 # Mick
 
 **Type:** Normal / Rock  
@@ -19,10 +24,10 @@ Mick is a bipedal, confident evolution of Mickus. It has traded its round potato
 
 ### Evolution
 
-Mick evolves from Mickus when it has High Friendship with its trainer.  It evolves into Mick X at level 38.
+Mick evolves from Mickus when it has High Friendship with its trainer.  It evolves into Mick X at level 38.  It can also evolve into Micktorious while holding a Black Belt.
 
 **Previous Evolution:** Mickus (High Friendship)  
-**Next Evolution(s):** Mick X (Level 38)
+**Next Evolution(s):** Mick X (Level 38), Micktorious (Black Belt)  
 
 ### Gallery
 ![Mickus](/assets/images/mick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

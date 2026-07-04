@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/micktorious/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/micktorious.png" alt="Micktorious" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Micktorious</strong><br>The Victory Mickémon</figcaption>
+</figure>
+
 # Micktorious
 
 **Type:** Normal / Fighting  
@@ -24,7 +29,7 @@ Despite its flashy appearance and constant partying, Micktorious is surprisingly
 Micktorious evolves from Mick or Mickstride when they level while holding a Black Belt.  At level 38 Micktorious evolves into Mickjitsu.
 
 **Previous Evolution:** Mick or Mickstride (Black Belt)  
-**Next Evolution(s):** Mickjitsu (Level 38)
+**Next Evolution(s):** Mickjitsu (Level 38)  
 
 ### Gallery
 ![Mickus](/assets/images/micktorious.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

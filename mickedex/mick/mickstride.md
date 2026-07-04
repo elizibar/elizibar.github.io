@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickstride/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickstride.png" alt="Mickstride" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickstride</strong><br>The Jogger Mickémon</figcaption>
+</figure>
+
 # Mickstride
 
 **Type:** Normal / Fighting  
@@ -19,10 +24,10 @@ Mickstride is an athletic Mickus variant that wears a bright sweatband and tiny 
 
 ### Evolution
 
-Mickstride evolves from Mickus after walking 1,000 steps while holding a Sweatband.
+Mickstride evolves from Mickus after walking 1,000 steps while holding a Sweatband.  Evolves into Micktorious while levelling while holding a Black Belt.
 
-**Previous Evolution:** Mickus  
-**Next Evolution(s):** -
+**Previous Evolution:** Micku s(Sweatband)  
+**Next Evolution(s):** Micktorious (Black Belt)  
 
 ### Gallery
 ![Mickstride](/assets/images/mickstride.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mick-x/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick-x.png" alt="Mick X" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mick X</strong><br>The Extreme Wrestler Mickémon</figcaption>
+</figure>
+
 # Mick X
 
 **Type:** Fighting / Rock  
