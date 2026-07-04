@@ -23,7 +23,7 @@ Despite its flashy appearance and constant partying, Micktorious is surprisingly
 
 Micktorious evolves from Mick or Mickstride when they level while holding a Black Belt.  At level 38 Micktorious evolves into Mickjitsu.
 
-**Previous Evolution:** Mick or Mickstrike (Black Belt)  
+**Previous Evolution:** Mick or Mickstride (Black Belt)  
 **Next Evolution(s):** Mickjitsu (Level 38)
 
 ### Gallery
