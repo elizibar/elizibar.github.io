@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mike/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mike.png" alt="Mike" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+</figure>
+
 # Mike
 
 **Type:** Normal  
@@ -23,3 +28,6 @@ Mike evolves from Mickus when teamed with Miltank or if a a Milk BOttle is used.
 
 **Previous Evolution:** Mickus (Party with Miltank or use Milk Bottle)  
 **Next Evolution(s):** Mike Y (Level 38)
+
+### Gallery
+![Mickus](/assets/images/mike.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

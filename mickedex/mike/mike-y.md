@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mike-y/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mike-y.png" alt="Mike Y" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+</figure>
+
 # Mike Y
 
 **Type:** Ground / Fighting  
@@ -22,3 +27,6 @@ Mike Y evolves from Mike at level 38.
 
 **Previous Evolution:** Mike (Level 38)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickus](/assets/images/mike-y.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

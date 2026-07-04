@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mikehammer/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mikehammer.png" alt="Mikehammer" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+</figure>
+
 # Mikehammer
 
 **Type:** Fighting/Steel  
@@ -27,3 +32,6 @@ Mikehammer evolves from Mike or Mikross if they level while holding a Metal Coat
 
 **Previous Evolution:** Mike or Mikross (Metal Coat)  
 **Next Evolution(s):** Mikechamp (Level 38)
+
+### Gallery
+![Mickus](/assets/images/mikehammer.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
