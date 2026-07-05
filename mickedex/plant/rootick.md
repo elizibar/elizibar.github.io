@@ -25,10 +25,10 @@ Rootick is perpetually in a bad mood. Its vines are constantly twitching with ir
 
 ### Evolution
 
-Evolves from Plantcas at level 34.
+Evolves from Plantcas at level 34.  Evolves into Druimick if it levels while knowing a Fairy-type move.
 
 **Previous Evolution:** Plantcas (Personality Value split)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Druimick (Fairy-type Move)  
 
 ### Gallery
 ![Pokemon Name](/assets/images/rootick.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

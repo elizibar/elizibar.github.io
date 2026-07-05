@@ -5,15 +5,15 @@ permalink: /mickedex/slicus/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickus.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+  <img src="/assets/images/slicus.png" alt="Slicus" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Slicus</strong><br>The Razor Assassin Mickémon</figcaption>
 </figure>
 
 # Slicus
 
 **Type:** Grass / Dark  
 **Classification:** Razor Assassin Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #028  
 **Height:** 2'11" (0.9 m)  
 **Weight:** 35.3 lbs (16.0 kg)  
 
@@ -31,4 +31,4 @@ Slicus evolves from an Ickus holding a Razor Claw when it levels at Night.
 **Next Evolution(s):** -
 
 ### Gallery
-![Pokemon Name](/assets/images/file.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Slicus](/assets/images/slicus.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

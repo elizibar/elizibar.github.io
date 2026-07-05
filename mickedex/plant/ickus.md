@@ -25,10 +25,10 @@ Ickus is a slimy, moss-covered swamp gremlin that thrives in stagnant water and 
 
 ### Evolution
 
-Ickus evolves from a Mickus with Low Friendship when a Leaf Stone is used on it.  It evolves into Grossicus at level 30.
+Ickus evolves from a Mickus with Low Friendship when a Leaf Stone is used on it.  It evolves into Grossicus at level 30.  If it levels while holding a berry, it will evolve into Mickberry.  If any Apple is used on it then it evolves into Mickintosh.  If cured during combat 3 times of the Pouson status, it evolves into Mickle.
 
 **Previous Evolution:** Mickus (Low Friendship + Leaf Stone)  
-**Next Evolution(s):** Grossicus (Level 30)
+**Next Evolution(s):** Grossicus (Level 30), Mickberry (Berry), Mickintosh (Any Apple), Mickle (Poison status), Druimick (Fairy-type move)  
 
 ### Gallery
 ![Ickus](/assets/images/ickus.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -25,10 +25,10 @@ Plantcas is a grumpy, potato-shaped Mickémon with leafy sprouts growing from it
 
 ### Evolution
 
-Plantcas evolves from Mickus if a Leaf Stone is used on it.  Depending on its personality, it can evolve into either Planthat or Rootick at level 34.
+Plantcas evolves from Mickus if a Leaf Stone is used on it.  Depending on its personality, it can evolve into either Planthat or Rootick at level 34.  If it levels while holding a berry, it will evolve into Mickberry.  If any Apple is used on it then it evolves into Mickintosh.  If cured during combat 3 times of the Pouson status, it evolves into Mickle.
 
 **Previous Evolution:** Mickus (Leaf Stone)  
-**Next Evolution(s):** Planthat or Rootick (Personality Value split)  
+**Next Evolution(s):** Planthat or Rootick (Personality Value split), Mickberry (Berry), Mickintosh (Any Apple), Mickle (Poison status), Druimick (Fairy-type move)
 
 ### Gallery
 ![Plantcas](/assets/images/plantcas.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
