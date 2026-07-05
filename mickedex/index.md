@@ -40,7 +40,8 @@ Browse all evolutions from the Cordia Region:
 [Miku](/mickedex/miku/) - [Miku-02](/mickedex/miku-02/) - [Dark Miku](/mickedex/dark-miku/) - [Mickstar](/mickedex/mickstar/) - [Mic](/mickedex/mic/) - [Mic Drop](/mickedex/mic-drop/) - [Micjagger](/mickedex/micjagger/) - [Micknificent](/mickedex/micknificent/)
 
 **Leaf / Swamp Line** (10)(32)  
-[Plantcas](/mickedex/plantcas/) - [Planthat](/mickedex/planthat/) - [Rootick](/mickedex/rootick/) - [Ickus](/mickedex/ickus/) - [Grossicus](/mickedex/grossicus/) - [Slicus](/mickedex/slicus/) - [Mickintosh](/mickedex/mickintosh/) - [Mickberry](/mickedex/mickberry/) - [Mickle](/mickedex/mickle/) - [Druimick](/mickedex/druimick/)
+[Plantcas](/mickedex/plantcas/) - [Planthat](/mickedex/planthat/) - [Rootick](/mickedex/rootick/) - [Ickus](/mickedex/ickus/) - [Grossicus](/mickedex/grossicus/) - [Slicus](/mickedex/slicus/) - [Mickintosh](/mickedex/mickintosh/) - [Mickberry](/mickedex/mickberry/) - [Mickle](/mickedex/mickle/) - [Druimick](/mickedex/druimick/)  
+
 **Bug Line** (8)(40)  
 [Mickworm](/mickedex/mickworm/) - [Sleepymick](/mickedex/sleepymick/) - [Mickfly](/mickedex/mickfly/) - [Mickroach](/mickedex/mickroach/) - [Mickbug](/mickedex/mickbug/) - [Mickhusk](/mickedex/mickhusk/) - [Mickhusky](/mickedex/mickhusky/) - [Micknife](/mickedex/micknife/)
 
