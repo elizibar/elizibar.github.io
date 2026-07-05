@@ -13,6 +13,7 @@ permalink: /mickedex/minimick/
 
 **Type:** Normal  
 **Classification:** Tiny Gremlin Mickémon  
+**Mickédex Number:** #002  
 **Height:** 10" (0.25 m)  
 **Weight:** 6.6 lbs (3.0 kg)
 

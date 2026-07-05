@@ -13,6 +13,7 @@ permalink: /mickedex/mickross/
 
 **Type:** Normal / Ground  
 **Classification:** Armored Tank Mickémon  
+**Mickédex Number:** #012  
 **Height:** 5'05" (1.65 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 

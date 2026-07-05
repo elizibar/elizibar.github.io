@@ -13,6 +13,7 @@ permalink: /mickedex/mikehammer/
 
 **Type:** Fighting/Steel  
 **Classification:** Construction Crusher Mickémon  
+**Mickédex Number:** #013  
 **Height:** 5'11" (1.8 m)  
 **Weight:** 682.3 lbs (309.5 kg)  
 

@@ -13,6 +13,7 @@ permalink: /mickedex/mick-x/
 
 **Type:** Fighting / Rock  
 **Classification:** Extreme Wrestler Mickémon  
+**Mickédex Number:** #006  
 **Height:** 5'07" (1.7 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 

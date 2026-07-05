@@ -13,6 +13,7 @@ permalink: /mickedex/mic/
 
 **Type:** Sound / Fairy  
 **Classification:** Disco Idol Mickémon  
+**Mickédex Number:** #019  
 **Height:** 4'01" (1.25 m)  
 **Weight:** 79.4 lbs (36.0 kg)  
 

@@ -13,6 +13,7 @@ permalink: /mickedex/dark-miku/
 
 **Type:** Water / Ghost  
 **Classification:** Underground Rave Mickémon  
+**Mickédex Number:** #017  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 85.1 lbs (38.6 kg)  
 

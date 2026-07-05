@@ -13,6 +13,7 @@ permalink: /mickedex/micktorious/
 
 **Type:** Normal / Fighting  
 **Classification:** Victory Mickémon  
+**Mickédex Number:** #008  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 165.3 lbs (75.0 kg)  
 

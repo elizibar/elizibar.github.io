@@ -13,6 +13,7 @@ permalink: /mickedex/mickjitsu/
 
 **Type:** Fighting / Dark  
 **Classification:** Martial Arts Master Mickémon  
+**Mickédex Number:** #009  
 Height: 5'11" (1.8 m)  
 Weight: 231.5 lbs (105.0 kg)  
 

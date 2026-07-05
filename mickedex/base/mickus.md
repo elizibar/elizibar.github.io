@@ -13,6 +13,7 @@ permalink: /mickedex/mickus/
 
 **Type:** Normal  
 **Classification:** Derpy Gremlin Mickémon  
+**Mickédex Number:** #001  
 **Height:** 1'04" (0.4 m)  
 **Weight:** 12.1 lbs (5.5 kg)
 

@@ -28,15 +28,15 @@ The Heart typing is never found in isolation, it always appears in combination w
 
 Browse all evolutions from the Cordia Region:
 
-**Base Forms** (4)  
+**Base Forms**  
 [Minimick](/mickedex/minimick/) - [Mickus](/mickedex/mickus/) - [Mickey](/mickedex/mickey/) - [Bigmick](/mickedex/bigmick/)
 
-**Rockstar & Fighting Line** (5)(9)  
+**Rockstar & Fighting Line**  
 [Mick](/mickedex/mick/) - [Mick X](/mickedex/mick-x/) - [Mickstride](/mickedex/mickstride/) - [Micktorious](/mickedex/micktorious/) - [Mickjitsu](/mickedex/mickjitsu/)
-**Bovine Line** (5)(14)  
+**Bovine Line**  
 [Mike](/mickedex/mike/) - [Mike Y](/mickedex/mike-y/) - [Mickross](/mickedex/mickross/) - [Mikehammer](/mickedex/mikehammer/) - [Mikechamp](/mickedex/mikechamp/)
 
-**Idol Line** (8)(22)  
+**Idol Line**  
 [Miku](/mickedex/miku/) - [Miku-02](/mickedex/miku-02/) - [Dark Miku](/mickedex/dark-miku/) - [Mickstar](/mickedex/mickstar/) - [Mic](/mickedex/mic/) - [Mic Drop](/mickedex/mic-drop/) - [Micjagger](/mickedex/micjagger/) - [Micknificent](/mickedex/micknificent/)
 
 **Leaf / Swamp Line** (10)(32)  

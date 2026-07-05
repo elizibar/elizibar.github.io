@@ -13,8 +13,9 @@ permalink: /mickedex/mikechamp/
 
 **Type:** Fighting  
 **Classification:** Gym Leader Wannabe Mickémon  
-Height: 6'03" (1.9 m)  
-Weight: 815.7 lbs (370.0 kg)  
+**Mickédex Number:** #014  
+**Height:** 6'03" (1.9 m)  
+**Weight:** 815.7 lbs (370.0 kg)  
 
 ### Short Mickédex Entry
 "The Gym Leader Wannabe Mickémon. It dreams of one day running its own Gym and spends most of its time practicing dramatic poses and entrance speeches."

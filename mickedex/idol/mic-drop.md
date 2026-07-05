@@ -13,6 +13,7 @@ permalink: /mickedex/mic-drop/
 
 **Type:** Sound / Fairy  
 **Classification:** Professional Diva Mickémon  
+**Mickédex Number:** #020  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 85.3 lbs (38.7 kg)  
 

@@ -13,6 +13,7 @@ permalink: /mickedex/micjagger/
 
 **Type:** Rock  
 **Classification:** Swagger Mickémon  
+**Mickédex Number:** #021  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 114.6 lbs (52.0 kg)  
 

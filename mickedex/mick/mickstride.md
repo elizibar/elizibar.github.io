@@ -13,6 +13,7 @@ permalink: /mickedex/mickstride/
 
 **Type:** Normal / Fighting  
 **Classification:** Jogger Mickémon  
+**Mickédex Number:** #007  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 121.3 lbs (55.0 kg)
 

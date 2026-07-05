@@ -13,6 +13,7 @@ permalink: /mickedex/mike-y/
 
 **Type:** Ground / Fighting  
 **Classification:** Construction Mickémon  
+**Mickédex Number:** #011  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 352.7 lbs (160.0 kg)  
 

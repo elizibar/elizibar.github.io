@@ -13,6 +13,7 @@ permalink: /mickedex/micknificent/
 
 **Type:** Fire/Fairy  
 **Classification:** Spectacular Star Mickémon  
+**Mickédex Number:** #022  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 

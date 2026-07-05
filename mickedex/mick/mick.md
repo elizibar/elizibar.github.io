@@ -13,6 +13,7 @@ permalink: /mickedex/mick/
 
 **Type:** Normal / Rock  
 **Classification:** Rockstar Mickémon  
+**Mickédex Number:** #005  
 **Height:** 4'11" (1.5 m)  
 **Weight:** 187.4 lbs (85.0 kg)  
 

@@ -13,6 +13,7 @@ permalink: /mickedex/mickey/
 
 **Type:** Normal  
 **Classification:** Bigger Gremlin Mickémon  
+**Mickédex Number:** #003  
 **Height:** 2'04" (0.7 m)  
 **Weight:** 28.7 lbs (13.0 kg)  
 

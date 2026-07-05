@@ -13,6 +13,7 @@ permalink: /mickedex/miku/
 
 **Type:** Water / Sound  
 **Classification:** Virtual Idol Mickémon  
+**Mickédex Number:** #015  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 83.8 lbs (38.0 kg)  
 

@@ -13,6 +13,7 @@ permalink: /mickedex/mickstar/
 
 **Type:** Sound / Normal  
 **Classification:** Pop Superstar Mickémon  
+**Mickédex Number:** #018  
 **Height:** 4'05" (1.35 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 

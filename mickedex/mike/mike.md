@@ -13,6 +13,7 @@ permalink: /mickedex/mike/
 
 **Type:** Normal  
 **Classification:** Trucker Dad Mickémon  
+**Mickédex Number:** #010  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 

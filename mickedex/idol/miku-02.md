@@ -13,6 +13,7 @@ permalink: /mickedex/miku-02/
 
 **Type:** Water / Fairy  
 **Classification:** Concert Mickémon  
+**Mickédex Number:** #016  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 92.6 lbs (42.0 kg)  
 
