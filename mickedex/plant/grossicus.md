@@ -31,4 +31,4 @@ Grossicus evolves from Ickus at level 30.  When a Lead Stone is used on Grossicu
 **Next Evolution(s):** Mickworms (when Leaf Stone is used)
 
 ### Gallery
-![Grossicus](/assets/images/grossicus.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Grossicus](/assets/images/grossicus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

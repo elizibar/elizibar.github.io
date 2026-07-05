@@ -31,4 +31,4 @@ Slicus evolves from an Ickus holding a Razor Claw when it levels at Night.
 **Next Evolution(s):** -
 
 ### Gallery
-![Slicus](/assets/images/slicus.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Slicus](/assets/images/slicus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

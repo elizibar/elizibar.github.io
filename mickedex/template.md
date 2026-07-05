@@ -34,7 +34,7 @@ Evolution method and chain description.
 *(You can add more sections below if you want, such as:)*
 
 ### Gallery
-![Pokemon Name](/assets/images/file.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Pokemon Name](/assets/images/file.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 ### Fun Fact
 Optional extra flavor text.

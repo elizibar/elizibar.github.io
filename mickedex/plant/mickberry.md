@@ -5,8 +5,8 @@ permalink: /mickedex/mickberry/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickus.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+  <img src="/assets/images/mickberry.png" alt="Mickberry" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickberry</strong><br>The Berry Hoarder Mickémon</figcaption>
 </figure>
 
 # Mickberry

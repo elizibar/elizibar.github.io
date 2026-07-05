@@ -33,4 +33,4 @@ Mickle evolves from Plantcas or Ickus after being cured of Poison status 3 times
 **Next Evolution(s):** -
 
 ### Gallery
-![Pokemon Name](/assets/images/file.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickle](/assets/images/mickle.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

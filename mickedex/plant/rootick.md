@@ -31,4 +31,4 @@ Evolves from Plantcas at level 34.  Evolves into Druimick if it levels while kno
 **Next Evolution(s):** Druimick (Fairy-type Move)  
 
 ### Gallery
-![Pokemon Name](/assets/images/rootick.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Pokemon Name](/assets/images/rootick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

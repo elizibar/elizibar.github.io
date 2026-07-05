@@ -31,4 +31,4 @@ Ickus evolves from a Mickus with Low Friendship when a Leaf Stone is used on it.
 **Next Evolution(s):** Grossicus (Level 30), Mickberry (Berry), Mickintosh (Any Apple), Mickle (Poison status), Druimick (Fairy-type move)  
 
 ### Gallery
-![Ickus](/assets/images/ickus.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Ickus](/assets/images/ickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
