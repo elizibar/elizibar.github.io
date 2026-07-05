@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mic/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mic.png" alt="Mic" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mic</strong><br>The Disco Idol Mickémon</figcaption>
+</figure>
+
 # Mic
 
 **Type:** Sound / Fairy  
@@ -23,3 +28,6 @@ Mic evolves from Mickus when a Shiny Stone is used on it while it has a High Bea
 
 **Previous Evolution:** Mickus (Shiny Stone + high Beauty)  
 **Next Evolution(s):** Mic Drop (Level 34)
+
+### Gallery
+![Mic](/assets/images/mic.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mic-drop/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mic-drop.png" alt="Mic Drop" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mic Drop</strong><br>The Professional Diva Mickémon</figcaption>
+</figure>
+
 # Mic Drop
 
 **Type:** Sound / Fairy  
@@ -23,3 +28,6 @@ Evolves from Mic at level 34.
 
 **Previous Evolution:** Mic (Level 34)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mic Drop](/assets/images/mic-drop.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/dark-miku/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/dark-miku.png" alt="Dark Miku" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Dark Miku</strong><br>The Underground Rave Mickémon</figcaption>
+</figure>
+
 # Dark Miku
 
 **Type:** Water / Ghost  
@@ -23,3 +28,6 @@ Dark Miku evolves from Miku when it levels up at Night.
 
 **Previous Evolution:** Miku (Leveled up at night)  
 **Next Evolution(s):** -
+
+### Gallery
+![Dark Miku](/assets/images/dark-miku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

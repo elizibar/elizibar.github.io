@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickstar/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickstar.png" alt="Mickstar" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickstar</strong><br>The Pop Superstar Mickémon</figcaption>
+</figure>
+
 # Mickstar
 
 **Type:** Sound / Normal  
@@ -23,3 +28,6 @@ Mickstar evolves from Miku when it levels while knowing Hyper Voice.
 
 **Previous Evolution:** Miku (Leveled up while knowing Hyper Voice)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickstar](/assets/images/mickstar.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

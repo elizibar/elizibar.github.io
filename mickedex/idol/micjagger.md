@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/micjagger/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickjagger.png" alt="Mickjagger" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickjagger</strong><br>The Swagger Mickémon</figcaption>
+</figure>
+
 # Micjagger
 
 **Type:** Rock  
@@ -25,3 +30,6 @@ Evolves from Mic when Mic knows a Dance-type move and levels.  Sword Dance, Rain
 
 **Previous Evolution:** Mic (Dance-type move)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickjagger](/assets/images/mickjagger.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

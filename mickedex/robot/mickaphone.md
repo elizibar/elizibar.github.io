@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickaphone/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickus.png" alt="Mickus" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+</figure>
+
 # Mickaphone
 
 **Type:** Electric / Psychic  
