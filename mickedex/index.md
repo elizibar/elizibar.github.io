@@ -33,7 +33,6 @@ Browse all evolutions from the Cordia Region:
 
 **Rockstar & Fighting Line** (5)(9)  
 [Mick](/mickedex/mick/) - [Mick X](/mickedex/mick-x/) - [Mickstride](/mickedex/mickstride/) - [Micktorious](/mickedex/micktorious/) - [Mickjitsu](/mickedex/mickjitsu/)
-
 **Bovine Line** (5)(14)  
 [Mike](/mickedex/mike/) - [Mike Y](/mickedex/mike-y/) - [Mickross](/mickedex/mickross/) - [Mikehammer](/mickedex/mikehammer/) - [Mikechamp](/mickedex/mikechamp/)
 
