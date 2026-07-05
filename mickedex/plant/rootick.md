@@ -5,15 +5,15 @@ permalink: /mickedex/rootick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickus.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+  <img src="/assets/images/rootick.png" alt="Rootick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Rootick</strong><br>The Angry Root Mickémon</figcaption>
 </figure>
 
 # Rootick
 
 **Type:** Grass / Poison  
 **Classification:** Angry Root Mickémon  
-**Mickédex Number:** #024  
+**Mickédex Number:** #025  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 23.1 lbs (10.5 kg)  
 
@@ -31,4 +31,4 @@ Evolves from Plantcas at level 34.
 **Next Evolution(s):** -
 
 ### Gallery
-![Pokemon Name](/assets/images/file.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Pokemon Name](/assets/images/rootick.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
