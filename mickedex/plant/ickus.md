@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/ickus/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickus.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+</figure>
+
 # Ickus
 
 **Type:** Grass / Poison  
@@ -24,3 +29,6 @@ Ickus evolves from a Mickus with Low Friendship when a Leaf Stone is used on it.
 
 **Previous Evolution:** Mickus (Low Friendship + Leaf Stone)  
 **Next Evolution(s):** Grossicus (Level 30)
+
+### Gallery
+![Pokemon Name](/assets/images/file.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

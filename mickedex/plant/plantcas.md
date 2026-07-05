@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/plantcas/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/plantcas2.png" alt="Plantcas" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Plantcas</strong><br>The Root Vegetable Mickémon</figcaption>
+</figure>
+
 # Plantcas
 
 **Type:** Grass / Poison  
@@ -27,4 +32,5 @@ Plantcas evolves from Mickus if a Leaf Stone is used on it.  Depending on its pe
 
 ### Gallery
 ![Plantcas](/assets/images/plantcas.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Plantcas](/assets/images/plantcas2.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 ![Plantcas Gen 1 Game Appearance](/assets/images/plantcasgame.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

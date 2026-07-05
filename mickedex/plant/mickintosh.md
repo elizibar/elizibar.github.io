@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickintosh/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickus.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+</figure>
+
 # Mickintosh
 
 **Type:** Grass / Poison  
@@ -26,3 +31,6 @@ Mickintosh evolves from Plantcas or Ickus if a Sweet Apple, Syrupy Apple, or Tar
 
 **Previous Evolution:** Plantcas or Ickus (Sweet Apple, Syrupy Apple, Tart Apple)  
 **Next Evolution(s):** -
+
+### Gallery
+![Pokemon Name](/assets/images/file.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
