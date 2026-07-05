@@ -13,7 +13,7 @@ permalink: /mickedex/plantcas/
 
 **Type:** Grass / Poison  
 **Classification:** Root Vegetable Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #023  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 22.0 lbs (10.0 kg)
 

@@ -5,15 +5,15 @@ permalink: /mickedex/planthat/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickus.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+  <img src="/assets/images/planthat.png" alt="Planthat" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Planthat</strong><br>The Bit Hat Mickémon</figcaption>
 </figure>
 
 # Planthat
 
 **Type:** Grass / Poison  
 **Classification:** Big Hat Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #024  
 **Height:** 2'04" (0.7 m)  
 **Weight:** 26.5 lbs (12.0 kg)  
 
@@ -31,4 +31,4 @@ Evolves from Plantcas at level 34.
 **Next Evolution(s):** -
 
 ### Gallery
-![Pokemon Name](/assets/images/file.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Planthat](/assets/images/planthat.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
