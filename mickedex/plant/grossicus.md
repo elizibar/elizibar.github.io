@@ -8,6 +8,7 @@ permalink: /mickedex/grossicus/
 
 **Type:** Grass / Poison  
 **Classification:** Compost Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 52.9 lbs (24.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickray/
 
 **Type:** Water/Electric  
 **Classification:** Stingray Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 77.2 lbs (35.0 kg)  
 

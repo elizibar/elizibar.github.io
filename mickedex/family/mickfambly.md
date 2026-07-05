@@ -8,6 +8,7 @@ permalink: /mickedex/mickfambly/
 
 **Type:** Steel / Fairy  
 **Classification:** Family Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'07" (1.7 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 

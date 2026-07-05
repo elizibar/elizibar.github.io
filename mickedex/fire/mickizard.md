@@ -8,6 +8,7 @@ permalink: /mickedex/mickizard/
 
 **Type:** Fire / Flying  
 **Classification:** Edgy Guitarist Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'07" (1.7 m)  
 **Weight:** 132.3 lbs (60.0 kg)  
 

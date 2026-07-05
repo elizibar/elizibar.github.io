@@ -8,6 +8,7 @@ permalink: /mickedex/mickrow/
 
 **Type:** Water / Dark  
 **Classification:** Bully Frog Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 143.3 lbs (65.0 kg)  
 

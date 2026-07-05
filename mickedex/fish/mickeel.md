@@ -8,6 +8,7 @@ permalink: /mickedex/mickeel/
 
 **Type:** Water  
 **Classification:** Eel Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'07" (0.8 m)  
 **Weight:** 15.4 lbs (7.0 kg)  
 

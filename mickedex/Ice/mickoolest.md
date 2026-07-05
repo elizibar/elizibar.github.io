@@ -8,6 +8,7 @@ permalink: /mickedex/mickoolest/
 
 **Type:** Ice  
 **Classification:** Ultimate Cool Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'11" (1.5 m)  
 **Weight:** 143.3 lbs (65.0 kg)  
 

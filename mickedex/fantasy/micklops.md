@@ -8,6 +8,7 @@ permalink: /mickedex/micklops/
 
 **Type:** Ground / Dark  
 **Classification:** Cyclops Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'11" (1.5 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 

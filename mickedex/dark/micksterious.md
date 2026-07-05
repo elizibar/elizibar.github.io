@@ -8,6 +8,7 @@ permalink: /mickedex/micksterious/
 
 **Type:** Ghost / Psychic  
 **Classification:** Enigmatic Figure Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 

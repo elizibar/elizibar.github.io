@@ -8,6 +8,7 @@ permalink: /mickedex/mickfly/
 
 **Type:** Bug / Flying  
 **Classification:** Time Traveler Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 49.6 lbs (22.5 kg)  
 

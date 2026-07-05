@@ -8,6 +8,7 @@ permalink: /mickedex/ultra-mick/
 
 **Type:** Normal (changes every turn)  
 **Classification:** Chaos God Mickémon  
+**Mickédex Number:** #???  
 **Height:** 6'07" (2.0 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 

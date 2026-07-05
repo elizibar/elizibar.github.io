@@ -8,6 +8,7 @@ permalink: /mickedex/mickmarried/
 
 **Type:** Steel / Fairy  
 **Classification:** Union Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'07" (1.7 m)  
 **Weight:** 209.4 lbs (95.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/ickus/
 
 **Type:** Grass / Poison  
 **Classification:** Swamp Gremlin Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'07" (0.8 m)  
 **Weight:** 31.3 lbs (14.2 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/micksweet/
 
 **Type:** Normal  
 **Classification:** Sugar Rush Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'04" (0.4 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 

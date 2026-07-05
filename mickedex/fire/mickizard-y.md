@@ -8,6 +8,7 @@ permalink: /mickedex/mickizard-y/
 
 **Type:** Fire / Flying  
 **Classification:** Double-Neck Guitarist Mickémon  
+**Mickédex Number:** #???  
 **Height:** 6'03" (1.9 m)  
 **Weight:** 176.4 lbs (80.0 kg)  
 

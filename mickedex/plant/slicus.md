@@ -8,6 +8,7 @@ permalink: /mickedex/slicus/
 
 **Type:** Grass / Dark  
 **Classification:** Razor Assassin Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'11" (0.9 m)  
 **Weight:** 35.3 lbs (16.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/steamick/
 
 **Type:** Fire / Steel  
 **Classification:** Steam-Powered Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'11" (1.5 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickmelt/
 
 **Type:** Ice / Water  
 **Classification:** Melting Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 22.0 lbs (10.0 kg)  
 

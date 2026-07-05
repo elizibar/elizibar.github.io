@@ -8,6 +8,7 @@ permalink: /mickedex/milbreon/
 
 **Type:** Dark  
 **Classification:** Fake Umbreon Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 

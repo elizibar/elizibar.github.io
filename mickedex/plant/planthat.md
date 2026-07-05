@@ -8,6 +8,7 @@ permalink: /mickedex/planthat/
 
 **Type:** Grass / Poison  
 **Classification:** Big Hat Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'04" (0.7 m)  
 **Weight:** 26.5 lbs (12.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/deepmick/
 
 **Type:** Water / Dark  
 **Classification:** Deep One Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 44.1 lbs (20.0 kg)  
 

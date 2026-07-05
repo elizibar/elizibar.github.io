@@ -8,6 +8,7 @@ permalink: /mickedex/mickbat/
 
 **Type:** Flying / Rock  
 **Classification:** Cave Bat Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'11" (1.2 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 

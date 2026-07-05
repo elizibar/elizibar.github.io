@@ -8,6 +8,7 @@ permalink: /mickedex/mickyfin/
 
 **Type:** Water / Poison  
 **Classification:** Delusional Poison Fish Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'04" (0.7 m)  
 **Weight:** 38.6 lbs (17.5 kg)  
 

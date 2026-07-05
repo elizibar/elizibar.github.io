@@ -8,8 +8,9 @@ permalink: /mickedex/mickberry/
 
 **Type:** Grass / Poison  
 **Classification:** Berry Hoarder Mickémon  
-Height: 2'03" (0.7 m)
-Weight: 24.3 lbs (11.0 kg)  
+**Mickédex Number:** #???  
+**Height:** 2'03" (0.7 m)
+**Weight:** 24.3 lbs (11.0 kg)  
 
 ### Short Mickédex Entry
 "The Berry Hoarder Mickémon. It is obsessed with collecting berries and glues them all over its body since it cannot grow any itself."

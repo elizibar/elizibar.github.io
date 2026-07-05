@@ -8,6 +8,7 @@ permalink: /mickedex/micklord/
 
 **Type:** Dark / Ghost  
 **Classification:** Shadow King Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 132.3 lbs (60.0 kg)  
 

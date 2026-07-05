@@ -8,6 +8,7 @@ permalink: /mickedex/mickdrake/
 
 **Type:** Dragon / Fire  
 **Classification:** Legendary Dragon Mickémon  
+**Mickédex Number:** #???  
 **Height:** 7'07" (2.3 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 

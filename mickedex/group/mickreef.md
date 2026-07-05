@@ -8,6 +8,7 @@ permalink: /mickedex/mickreef/
 
 **Type:** Water / Grass  
 **Classification:** Coral Reef Mickémon Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 

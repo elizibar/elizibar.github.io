@@ -8,6 +8,7 @@ permalink: /mickedex/rootick/
 
 **Type:** Grass / Poison  
 **Classification:** Angry Root Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 23.1 lbs (10.5 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickoggoth/
 
 **Type:** Dark / Sound  
 **Classification:** Shoggoth Mickémon  
+**Mickédex Number:** #???  
 **Height:** Varies (typically 6'07" / 2.0 m)  
 **Weight:** Varies (typically 264.6 lbs / 120.0 kg)  
 

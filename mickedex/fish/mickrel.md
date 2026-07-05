@@ -8,6 +8,7 @@ permalink: /mickedex/mickrel/
 
 **Type:** Water  
 **Classification:** Mackerel Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 33.1 lbs (15.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickoral/
 
 **Type:** Water / Fairy  
 **Classification:** Glowing Coral Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'11" (1.5 m)  
 **Weight:** 220.5 lbs (100.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickooler/
 
 **Type:** Ice  
 **Classification:** Even Cooler Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 130.1 lbs (59.0 kg)  
 

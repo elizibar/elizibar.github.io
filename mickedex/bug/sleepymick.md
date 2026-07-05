@@ -8,6 +8,7 @@ permalink: /mickedex/sleepymick/
 
 **Type:** Bug  
 **Classification:** Sleeping Hat Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'08" (0.5 m)  
 **Weight:** 14.3 lbs (6.5 kg)  
 

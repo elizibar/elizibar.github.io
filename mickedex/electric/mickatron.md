@@ -8,6 +8,7 @@ permalink: /mickedex/mickatron/
 
 **Type:** Electric / Steel  
 **Classification:** Glitching Robot Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 

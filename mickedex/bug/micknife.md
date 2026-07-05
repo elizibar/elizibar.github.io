@@ -8,6 +8,7 @@ permalink: /mickedex/micknife/
 
 **Type:** Steel/Dark  
 **Classification:** Knife Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'11" (0.6 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 

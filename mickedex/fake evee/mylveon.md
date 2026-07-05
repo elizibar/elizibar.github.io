@@ -8,6 +8,7 @@ permalink: /mickedex/mylveon/
 
 **Type:** Fairy  
 **Classification:** Fake Sylveon Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3’03" (1.0 m)  
 **Weight:** 51.8 lbs (23.5 kg)  
 

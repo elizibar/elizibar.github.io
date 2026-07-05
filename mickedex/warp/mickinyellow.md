@@ -8,6 +8,7 @@ permalink: /mickedex/mickinyellow/
 
 **Type:** Poison / Flying  
 **Classification:** King in Yellow Mickémon  
+**Mickédex Number:** #???  
 **Height:** 6'07" (2.0 m)  
 **Weight:** 88.2 lbs (40.0 kg)
 

@@ -8,8 +8,9 @@ permalink: /mickedex/mickrochip/
 
 **Type:** Electric/Bug  
 **Classification:** Microchip Mickémon  
-Height: 1'04" (0.4 m)  
-Weight: 6.6 lbs (3.0 kg)  
+**Mickédex Number:** #???  
+**Height:** 1'04" (0.4 m)  
+**Weight:** 6.6 lbs (3.0 kg)  
 
 ### Short Mickédex Entry
 "The Microchip Mickémon. It uses stolen Mickintosh seeds to hack into electronic systems."

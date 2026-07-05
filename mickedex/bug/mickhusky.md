@@ -8,6 +8,7 @@ permalink: /mickedex/mickhusky/
 
 **Type:** Ghost / Fighting  
 **Classification:** Haunted Bodybuilder Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'11" (1.8 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 

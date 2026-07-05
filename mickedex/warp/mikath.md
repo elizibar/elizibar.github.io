@@ -8,6 +8,7 @@ permalink: /mickedex/mikath/
 
 **Type:** Ground / Fire  
 **Classification:** Planetoid Mickémon  
+**Mickédex Number:** #???  
 **Height:** 9'10" (3.0 m) (varies)  
 **Weight:** 2,204.6 lbs (1,000.0 kg)  
 

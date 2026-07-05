@@ -8,6 +8,7 @@ permalink: /mickedex/tormick/
 
 **Type:** Water / Steel  
 **Classification:** Torpedo Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 

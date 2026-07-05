@@ -8,6 +8,7 @@ permalink: /mickedex/sir-mick/
 
 **Type:** Steel / Fighting  
 **Classification:** Knight Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /pokedex/realoldmick/
 
 **Type:** Normal / Rock  
 **Classification:** True Elder Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'06" (0.5 m)  
 **Weight:**  19.8 lbs (9.0 kg)  
 

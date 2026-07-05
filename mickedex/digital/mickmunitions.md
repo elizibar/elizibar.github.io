@@ -8,6 +8,7 @@ permalink: /mickedex/mickmunitions/
 
 **Type:** Steel / Dark  
 **Classification:** Action Hero Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'07" (1.7 m)  
 **Weight:** 187.4 lbs (85.0 kg)  
 

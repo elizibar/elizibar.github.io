@@ -8,6 +8,7 @@ permalink: /mickedex/mickmassive/
 
 **Type:** Fighting  
 **Classification:** Colony Mickémon  
+**Mickédex Number:** #???  
 **Height:** 9'10" (3.0 m) (Varies)  
 **Weight:** 1,543.2 lbs (700.0 kg) (Varies)  
 

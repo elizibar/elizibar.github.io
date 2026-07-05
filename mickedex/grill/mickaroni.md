@@ -8,6 +8,7 @@ permalink: /mickedex/mickaroni/
 
 **Type:** Normal / Fighting  
 **Classification:** Pasta Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 121.3 lbs (55.0 kg)  
 

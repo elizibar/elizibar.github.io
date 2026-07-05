@@ -8,6 +8,7 @@ permalink: /mickedex/mickroach/
 
 **Type:** Bug / Dark  
 **Classification:** Indestructible Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'04" (0.7 m)  
 **Weight:** 29.8 lbs (13.5 kg)  
 

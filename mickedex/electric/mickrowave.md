@@ -8,8 +8,9 @@ permalink: /mickedex/mickrowave/
 
 **Type:** Fire / Electric  
 **Classification:** Microwave Mickémon  
-Height: 4'03" (1.3 m)  
-Weight: 154.3 lbs (70.0 kg)  
+**Mickédex Number:** #???  
+**Height:** 4'03" (1.3 m)  
+**Weight:** 154.3 lbs (70.0 kg)  
 
 ### Short Mickédex Entry
 "Claims its name is pronounced Meecro-wah-vey. It can instantly heat or zap anything with powerful microwave bursts."

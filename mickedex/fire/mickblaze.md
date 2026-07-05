@@ -8,6 +8,7 @@ permalink: /mickedex/mickblaze/
 
 **Type:** Fire / Fighting  
 **Classification:** Magma Wrestler Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'11" (1.8 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 

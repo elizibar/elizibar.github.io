@@ -8,6 +8,7 @@ permalink: /mickedex/mickthulhu/
 
 **Type:** Water / Dark  
 **Classification:** Great Old One Mickémon  
+**Mickédex Number:** #???  
 **Height:** 12'06" (3.8 m)  
 **Weight:** 771.6 lbs (350.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickrorganism/
 
 **Type:** Poison  
 **Classification:** Colony Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 11.0 lbs (5.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickma/
 
 **Type:** Fire / Ground  
 **Classification:** Magma Kaiju Mickémon  
+**Mickédex Number:** #???  
 **Height:** 6'07" (2.0 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 

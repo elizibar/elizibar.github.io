@@ -8,6 +8,7 @@ permalink: /mickedex/mickoid/
 
 **Type:** Steel / Psychic  
 **Classification:** Android Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickmongaga/
 
 **Type:** Steel / Psychic  
 **Classification:** Big Sword Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'11" (1.8 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 

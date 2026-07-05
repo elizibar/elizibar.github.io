@@ -8,6 +8,7 @@ permalink: /mickedex/mickro/
 
 **Type:** Steel  
 **Classification:** Vista Robot Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'11" (1.2 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 

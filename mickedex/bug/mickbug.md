@@ -8,6 +8,7 @@ permalink: /mickedex/mickbug/
 
 **Type:** Bug / Grass  
 **Classification:** Antenna Hat Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'07" (0.8 m)  
 **Weight:** 35.3 lbs (16.0 kg)  
 

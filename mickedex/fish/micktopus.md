@@ -8,6 +8,7 @@ permalink: /mickedex/micktopus/
 
 **Type:** Water / Dark  
 **Classification:** Octopus Mickémon  
+**Mickédex Number:** #???  
 **Height:** 3'11" (1.2 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 

@@ -8,6 +8,7 @@ permalink: /mickedex/mickreon/
 
 **Type:** Fire  
 **Classification:** Fake Flareon Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'11" (0.9 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 

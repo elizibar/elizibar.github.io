@@ -8,6 +8,7 @@ permalink: /mickedex/mickookie/
 
 **Type:** Normal / Fairy  
 **Classification:** Cookie Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'08" (0.5 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 

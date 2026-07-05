@@ -8,6 +8,7 @@ permalink: /mickedex/grim-mick/
 
 **Type:** Ghost / Dark  
 **Classification:** Reaper Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 110.2 lbs (50.0 kg)  
 

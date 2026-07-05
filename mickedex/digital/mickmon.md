@@ -8,6 +8,7 @@ permalink: /mickedex/mickmon/
 
 **Type:** Normal  
 **Classification:** Pixel Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'04" (0.4 m)  
 **Weight:** 12.1 lbs (5.5 kg)  
 

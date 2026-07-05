@@ -8,6 +8,7 @@ permalink: /mickedex/mickworm/
 
 **Type:** Bug  
 **Classification:** Caterpillar Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'00" (0.3 m)  
 **Weight:** 6.6 lbs (3.0 kg)  
 

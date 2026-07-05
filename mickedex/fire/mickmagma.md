@@ -8,6 +8,7 @@ permalink: /mickedex/mickmagma/
 
 **Type:** Fire / Rock  
 **Classification:** Lava Beast Mickémon  
+**Mickédex Number:** #???  
 **Height:** 7'03" (2.2 m)  
 **Weight:** 771.6 lbs (350.0 kg)  
 

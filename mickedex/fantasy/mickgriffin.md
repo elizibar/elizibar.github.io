@@ -8,6 +8,7 @@ permalink: /mickedex/mickgriffin/
 
 **Type:** Flying / Ground  
 **Classification:** Noble Griffin Mickémon  
+**Mickédex Number:** #???  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 143.3 lbs (65.0 kg)  
 

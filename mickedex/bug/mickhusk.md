@@ -8,6 +8,7 @@ permalink: /mickedex/mickhusk/
 
 **Type:** Bug / Ghost  
 **Classification:** Empty Hat Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'10" (0.6 m)  
 **Weight:** 4.4 lbs (2.0 kg)  
 

@@ -8,8 +8,9 @@ permalink: /mickedex/druimick/
 
 **Type:** Grass / Fairy 
 **Classification:** Druid Mickémon  
-Height: 2'05" (0.75 m)  
-Weight: 27.6 lbs (12.5 kg)  
+**Mickédex Number:** #???  
+**Height:** 2'05" (0.75 m)  
+W**eight:** 27.6 lbs (12.5 kg)  
 
 ### Short Mickédex Entry
 "The Druid Mickémon. It practices ancient nature magic while wearing a comically large baseball cap as its hood."

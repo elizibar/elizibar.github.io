@@ -8,6 +8,7 @@ permalink: /mickedex/oldmick/
 
 **Type:** Normal / Rock  
 **Classification:** The Grumpy Elder Mickémon  
+**Mickédex Number:** #???  
 **Height:** 1'06" (0.5 m)  
 **Weight:** 18.7 lbs (8.5 kg)  
 

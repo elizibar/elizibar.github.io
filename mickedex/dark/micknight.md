@@ -8,6 +8,7 @@ permalink: /mickedex/micknight/
 
 **Type:** Dark / Ghost  
 **Classification:** Edgelord Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 

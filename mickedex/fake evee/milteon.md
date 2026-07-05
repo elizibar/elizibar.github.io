@@ -8,6 +8,7 @@ permalink: /mickedex/milteon/
 
 **Type:** Electric  
 **Classification:** Fake Jolteon Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'07" (0.8 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 

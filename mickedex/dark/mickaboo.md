@@ -8,6 +8,7 @@ permalink: /mickedex/mickaboo/
 
 **Type:** Ghost / Fairy  
 **Classification:** Peekaboo Scarer Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 

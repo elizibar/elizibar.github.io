@@ -8,6 +8,7 @@ permalink: /mickedex/helimick/
 
 **Type:** Flying / Steel  
 **Classification:** Propeller Mickémon  
+**Mickédex Number:** #???  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 

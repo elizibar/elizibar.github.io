@@ -8,6 +8,7 @@ permalink: /mickedex/mickmasses/
 
 **Type:** Normal  
 **Classification:** Hat Pile Mickémon  
+**Mickédex Number:** #???  
 **Height:** 4'11" (1.5 m) (Varies)  
 **Weight:** 220.5 lbs (100.0 kg) (Varies)  
 
