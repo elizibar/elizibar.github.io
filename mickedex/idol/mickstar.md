@@ -27,7 +27,7 @@ Mickstar is a flashy, spotlight-obsessed pop idol Mickus. Its body sparkles with
 Mickstar evolves from Miku when it levels while knowing Hyper Voice.
 
 **Previous Evolution:** Miku (Leveled up while knowing Hyper Voice)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Micknificent (Fairy Feather)  
 
 ### Gallery
 ![Mickstar](/assets/images/mickstar.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

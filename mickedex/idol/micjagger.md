@@ -29,7 +29,7 @@ Despite its cocky attitude, Micjagger is a dedicated performer who practices its
 Evolves from Mic when Mic knows a Dance-type move and levels.  Sword Dance, Rain Dance, Feather Dance, etc.
 
 **Previous Evolution:** Mic (Dance-type move)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Micknificent (Fairy Feather)  
 
 ### Gallery
 ![Mickjagger](/assets/images/mickjagger.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

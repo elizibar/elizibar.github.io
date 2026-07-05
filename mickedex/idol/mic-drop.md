@@ -27,7 +27,7 @@ Mic Drop is the ultimate polished performer of the idol line. Its glitter is mor
 Evolves from Mic at level 34.
 
 **Previous Evolution:** Mic (Level 34)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Micknificent (Fairy Feather)  
 
 ### Gallery
 ![Mic Drop](/assets/images/mic-drop.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -27,7 +27,7 @@ Mic is a flashy, glitter-covered Mickus whose tail has transformed into a giant,
 Mic evolves from Mickus when a Shiny Stone is used on it while it has a High Beauty stat.  It evolves into Mic Drop at level 34.
 
 **Previous Evolution:** Mickus (Shiny Stone + high Beauty)  
-**Next Evolution(s):** Mic Drop (Level 34)
+**Next Evolution(s):** Mic Drop (Level 34), Micknificent (Fairy Feather)  
 
 ### Gallery
 ![Mic](/assets/images/mic.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

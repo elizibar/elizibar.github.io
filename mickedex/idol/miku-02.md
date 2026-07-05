@@ -27,7 +27,7 @@ Miku-02 is a greatly upgraded version of Miku, featuring enhanced holographic pr
 Miku-02 evolves from Miku at level 32 if it has High Beauty.
 
 **Previous Evolution:** Miku (Level 32 with high Beauty)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Micknificent (Fairy Feather)  
 
 ### Gallery
 ![Miku-02](/assets/images/miku-02.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -27,7 +27,7 @@ Dark Miku is a mysterious, black-and-neon variant of Miku that only emerges at n
 Dark Miku evolves from Miku when it levels up at Night.
 
 **Previous Evolution:** Miku (Leveled up at night)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Micknificent (Fairy Feather)  
 
 ### Gallery
 ![Dark Miku](/assets/images/dark-miku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

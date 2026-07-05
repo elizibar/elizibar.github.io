@@ -27,7 +27,7 @@ Miku is a turquoise-haired virtual idol Mickus with long, flowing twin-tails mad
 Miku evolves from Mickus when a Water Stone is used on it.  Miku can evolve into Miku-02 (level 32 with High Beauty), Dark Miku (Night time), or Mickstar (knowing Hyper Voice).
 
 **Previous Evolution:** Mickus (Water Stone)  
-**Next Evolution(s):** Miku-02 (Level 32 with High Beauty), Dark Miku (Level at Night), Mickstar (Level with Hyper Voice)
+**Next Evolution(s):** Miku-02 (Level 32 with High Beauty), Dark Miku (Level at Night), Mickstar (Level with Hyper Voice), Micknificent (Fairy Feather)  
 
 ### Gallery
 ![Miku](/assets/images/miku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
