@@ -5,15 +5,15 @@ permalink: /mickedex/grossicus/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickus.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+  <img src="/assets/images/grossicus.png" alt="Grossicus" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Grossicusickus</strong><br>The Compost Mickémon</figcaption>
 </figure>
 
 # Grossicus
 
 **Type:** Grass / Poison  
 **Classification:** Compost Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #027  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 52.9 lbs (24.0 kg)  
 
@@ -31,4 +31,4 @@ Grossicus evolves from Ickus at level 30.  When a Lead Stone is used on Grossicu
 **Next Evolution(s):** Mickworms (when Leaf Stone is used)
 
 ### Gallery
-![Pokemon Name](/assets/images/file.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Grossicus](/assets/images/grossicus.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
