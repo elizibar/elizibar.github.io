@@ -26,7 +26,7 @@ Mickstride is an athletic Mickus variant that wears a bright sweatband and tiny 
 
 Mickstride evolves from Mickus after walking 1,000 steps while holding a Sweatband.  Evolves into Micktorious while levelling while holding a Black Belt.
 
-**Previous Evolution:** Micku s(Sweatband)  
+**Previous Evolution:** Mickus (Sweatband)  
 **Next Evolution(s):** Micktorious (Black Belt)  
 
 ### Gallery
