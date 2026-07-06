@@ -32,7 +32,7 @@ The Warp is believed to be a concentrated energy source that fell to Earth from 
 
 But the Warp isn't solely an energy source, it is believed to possess enough poweer that it can distort space and open pathways to other worlds. Communications received by Team Deep Space purport that it will lead them to a land known as Mickosa, where a powerful ally awaits to help them bring humanity to the stars.
 
-Oddly there are ancient stories about Mickosa. It supposed has a binary star system, and its great city sits on the edge of a lake. The sky itself is bright, and the stars are dim pin-pricks in the heavens. Its towers rise so high the moon eclipses them, instead of them blocking it.
+Oddly there are ancient stories about Mickosa which are passed down through various sources, such as scraps of poems and songs contained in other works. Those stories speak of a strange city with tall spires, set upon the shore of a lake or sea, pale lights in the sky, and a dark and dreary land where something is deeply troubled, all ruled by a King.
 
 ### The Mick in Yellow
 
