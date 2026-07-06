@@ -38,33 +38,33 @@ Oddly there are ancient stories about Mickosa. It supposed has a binary star sys
 
 From Mickilda's Song, a portion of a play titled "The Mick in Yellow" which has been lost to time:
 
->Along the shore the void waves break,
->And though the stars are bleeding,
->The wind is in the spines,
->And the eyes are in the sky.
->But the shadows of the evening
->Are long upon the land.
->The shadows of the evening
->Are long upon the land.
->
->Strange is the night where pale lights burn,
->And stranger still the twisted spires turn,
->But stranger still is
->Lost Mickosa.
->
->Beneath the twisted spires of Mickosa,
->The yellow sign is burning,
->The crown still floats above,
->And the silence calls my name.
->But the laughter of the evening
->Is wrong upon the land.
->The laughter of the evening
->Is wrong upon the land.
->
->Songs that the void itself will sing,
->Where drift the echoes of the King,
->Must die unheard in
->Dim Mickosa.
+>Along the shore the void waves break,  
+>And though the stars are bleeding,  
+>The wind is in the spines,  
+>And the eyes are in the sky.  
+>But the shadows of the evening  
+>Are long upon the land.  
+>The shadows of the evening  
+>Are long upon the land.  
+>  
+>Strange is the night where pale lights burn,  
+>And stranger still the twisted spires turn,  
+>But stranger still is  
+>Lost Mickosa.  
+>  
+>Beneath the twisted spires of Mickosa,  
+>The yellow sign is burning,  
+>The crown still floats above,  
+>And the silence calls my name.  
+>But the laughter of the evening  
+>Is wrong upon the land.  
+>The laughter of the evening  
+>Is wrong upon the land.  
+>  
+>Songs that the void itself will sing,  
+>Where drift the echoes of the King,  
+>Must die unheard in  
+>Dim Mickosa.  
 
 ## Associated Locations
 

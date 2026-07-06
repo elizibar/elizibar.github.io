@@ -40,21 +40,21 @@ The city is said to predate humanity's existence, and even that of most other mo
 
 This text was the only readable portion of a journal which was recovered with a trainer that had returned from a journey into the Jungles of Discootia:
 
->There is a city in the deep where shadows play,
->Where sunken towers twist in endless night,
->And pale things drift through waters black as death,
->Beneath the weight of oceans without light.
->The streets are lined with stone no mortal made,
->And doors stand open to the crushing sea,
->Where once the faithful sang their monstrous hymns
->To gods that sleep in vaults no light can see.
->
->I dream of M'lyeh when the surface fades,
->And hear the bubbles rising through the gloom,
->The muffled chants that echo through the dark,
->And know that I shall find my final tomb.
->For in those depths the old ones never died,
->They only wait beneath the crushing tide.
+>There is a city in the deep where shadows play,  
+>Where sunken towers twist in endless night,  
+>And pale things drift through waters black as death,  
+>Beneath the weight of oceans without light.  
+>The streets are lined with stone no mortal made,  
+>And doors stand open to the crushing sea,  
+>Where once the faithful sang their monstrous hymns  
+>To gods that sleep in vaults no light can see.  
+>  
+>I dream of M'lyeh when the surface fades,  
+>And hear the bubbles rising through the gloom,  
+>The muffled chants that echo through the dark,  
+>And know that I shall find my final tomb.  
+>For in those depths the old ones never died,  
+>They only wait beneath the crushing tide.  
 
 ## Associated Locations
 
