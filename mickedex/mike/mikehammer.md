@@ -25,8 +25,6 @@ Mikehammer is an absolute monster of a bovine Mickus. Its body is covered in thi
 
 Mikehammer is happiest when it gets to smash large objects into smaller ones. It has been known to accidentally level abandoned buildings while trying to help with demolition work.
 
-
-
 ### Evolution
 
 Mikehammer evolves from Mike or Mikross if they level while holding a Metal Coat.  Mikehammer evolves into Mikechamp at level 38.

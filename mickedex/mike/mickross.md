@@ -25,10 +25,10 @@ Mickross is a heavily armored, tank-like bovine Mickus. Its body is covered in t
 
 ### Evolution
 
-Mickross evolves from Mickus when a Protector is used on it.
+Mickross evolves from Mickus when a Protector is used on it.  Evolves into Mikehammer if it levels while holding a Metal Coat.
 
 **Previous Evolution:** Mickus (Protector)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Mikehammer (Metal Coat)  
 
 ### Gallery
 ![Mickus](/assets/images/mickross.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

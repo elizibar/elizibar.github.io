@@ -25,10 +25,10 @@ Mike is a large, friendly bovine Mickus wearing a trucker hat. It has a muscular
 
 ### Evolution
 
-Mike evolves from Mickus when teamed with Miltank or if a a Milk BOttle is used.  Mike evolves into Mike Y at level 38.
+Mike evolves from Mickus when it levels while teamed with Miltank or if a Milk Bottle is used. Mike evolves into Mike Y at level 38. Evolves into Mikehammer if it levels while holding a Metal Coat.  
 
 **Previous Evolution:** Mickus (Party with Miltank or use Milk Bottle)  
-**Next Evolution(s):** Mike Y (Level 38)
+**Next Evolution(s):** Mike Y (Level 38), Mikehammer (Metal Coat)  
 
 ### Gallery
 ![Mickus](/assets/images/mike.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
