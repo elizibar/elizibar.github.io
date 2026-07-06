@@ -38,9 +38,9 @@ Perhaps the single most dominant terrain feature in the region, Mount Lucas is a
 Rumor has it that somewhere inside the frozen depths of Mount Lucas is a chamber where a glowing shaft of light pierces down from the top of the dome, and anyone who finds it can have their deepest wish granted.  Many explorers have lost their lives or simply gone missing in pursuit of this dream.
 
 **The Bakery**  
-While Cordia doesn't possess Gyms in the same way that other regions do, Lucasia is home to a small settlement called The Bakery.  It's used not only as a base station for explorers venturing into the island, but is also home to a restaurant led by a famous Chef and Trainer specializing in baked goods and unique Mickus variations.
+While Cordia doesn't possess Gyms in the same way that other regions do, Lucasia is home to a small settlement called The Bakery.  It's used not only as a base station for explorers venturing into the island, but is also home to a restaurant led by a famous Chef and Trainer (the Angel of Cakes) specializing in baked goods and unique Mickus variations.
 
-**The Cove**
+**The Cove**  
 Rumors persist of a cave tucked away along the coast of the lagoon where a Mickémon trainer specializing in acquatic creatures resides.
 
 ### Discootia
@@ -57,14 +57,19 @@ Of particular note, Ickus and Grossicus are both found in abundance in this area
 **The Yeah Zone**  
 Deep in the jungles of Discootia is reported to be a place where upon entering it, a strange compulsion takes over any people or creatures that enter it, and the only word they can say within it is "Yeah."
 
-**The Grill**
-The Grill is another settlement, this one used as jumping off point for expeditions into the jungles and swamps of Discootia.  Led by a highly skilled Trainer, it specializes in hearty dishes and Mickus variants trained in running a restaurant.
+**The Grill**  
+The Grill is another settlement, this one used as jumping off point for expeditions into the jungles and swamps of Discootia.  Led by a highly skilled Trainer named The Duke of the Grill, it specializes in hearty dishes and Mickus variants trained in running a restaurant.
 
 ### Mickatoa
 
 The smaller still-active volcanic island to the Southeast of the main islands.
 
 **Hell's Kitchen**  
+The only town on Mickatoa, Hell's Kitchen is home to a group of people led by a Trainer named "Blue" who are in some strange cult, but the exact nature of the cult and what it believes can never quite be defined. They live in the shadow of the great peak of Mickatoa.
+
+### Mikoll Atolls
+
+A series of low-lying coral atolls in the Northeast of the region, it's where Professor Lucas's abandoned research boat is anchored. Some of the lab equipment on the boat is still running his experiments in how to help rejuvanent the coral reefs in the area and protect them from environment bleaching and depletion.
 
 ### Gallery
 **Cordia Region Map**  
