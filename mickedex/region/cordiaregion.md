@@ -71,4 +71,4 @@ The smaller still-active volcanic island to the Southeast of the main islands.
 ![Cordia Region Map](/assets/images/Cordia.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 **Typical Cordia Region Mickémon Trainer at Sea**  
-![Typical Cordia Region Mickémon Trainer](/assets/images/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"} 
+![Typical Cordia Region Mickémon Trainer](/assets/images/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
