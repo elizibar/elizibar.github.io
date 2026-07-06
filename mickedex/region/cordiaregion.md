@@ -8,11 +8,21 @@ permalink: /mickedex/cordiaregion/
 
 Cordia is a remote island region which is under active exploration and settlement by trainers coming to study its unique ecology.  The chain consists of two large islands which are shaped in a way that suggests that they are the top of the rim of a much larger circular object below, such as an impact crater or volcano, a small volcanic island to the southeast, and a chain of smaller islands in the northeast.
 
-### Teams
+## Teams
 
 Cordia is also playing out a conflict between two rival teams:  **Team Deep Sea** and **Team Deep Space**.
 
 Team Deep Sea seems to operate under the belief that the gateway to an area called "The Abyss" lies within the Cordia region, and they seek to unlock it.  While Team Deep Space believes that a location they call "The Warp" is somewhere within Cordia and they want to make use of it.
+
+### Team Deep Sea
+
+Team Deep Sea is led by a small group of trainers who style themselves as "Leviathans."  Their goal is to finally reach "The Abyss" which is rumored to exist within Cordia, and upon arriving explore the sunken city of M'lyeh where the power of ancient Mickémon may be found.
+
+### Team Deep Space
+
+Under the leadership of the Space Rangers, Team Deep Space is searching for a power source tracked to the Cordia region, where a meteor or something similar fell along ago from space.  Using this power, which they call "The Warp" they seek to open a pathway to a city beyond space and time called Mickosa to harness the power of Mickémon from beyond the stars.
+
+## Areas
 
 ### Lucasia
 
@@ -27,7 +37,7 @@ Rumor has it that somewhere inside the frozen depths of Mount Lucas is a chamber
 While Cordia doesn't possess Gyms in the same way that other regions do, Lucasia is home to a small settlement called The Bakery.  It's used not only as a base station for explorers venturing into the island, but is also home to a restaurant led by a famous Chef and Trainer specializing in baked goods and unique Mickus variations.
 
 **The Cove**
-Rumors persist of a cave tucked away along the coast of the lagoon where a Pokemon trainer specializing in acquatic creatures resides.
+Rumors persist of a cave tucked away along the coast of the lagoon where a Mickémon trainer specializing in acquatic creatures resides.
 
 ### Discootia
 
@@ -52,11 +62,9 @@ The smaller still-active volcanic island to the Southeast of the main islands.
 
 **Hell's Kitchen**  
 
-
-
 ### Gallery
 **Cordia Region Map**  
 ![Cordia Region Map](/assets/images/Cordia.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
-**Typical Cordia Region Pokemon Trainer at Sea**  
-![Typical Cordia Region Pokemon Trainer](/assets/images/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+**Typical Cordia Region Mickémon Trainer at Sea**  
+![Typical Cordia Region Mickémon Trainer](/assets/images/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
