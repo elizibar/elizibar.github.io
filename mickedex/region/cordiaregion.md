@@ -18,13 +18,13 @@ Team Deep Sea seems to operate under the belief that the gateway to an area call
 
 Team Deep Sea is led by a small group of trainers who style themselves as "Leviathans."  Their goal is to finally reach "The Abyss" which is rumored to exist within Cordia, and upon arriving explore the sunken city of M'lyeh where the power of ancient Mickémon may be found.
 
-Read more about [Team Deep Sea](/mickedex/cordiaregion/team-deep-sea/).
+Read more about [Team Deep Sea](/mickedex/team-deep-sea/).
 
 ### Team Deep Space
 
 Under the leadership of the Space Rangers, Team Deep Space is searching for a power source tracked to the Cordia region, where a meteor or something similar fell along ago from space.  Using this power, which they call "The Warp" they seek to open a pathway to a city beyond space and time called Mickosa to harness the power of Mickémon from beyond the stars.
 
-Read more about [Team Deep Space](/mickedex/cordiaregion/team-deep-space/).
+Read more about [Team Deep Space](/mickedex/team-deep-space/).
 
 ## Areas
 
