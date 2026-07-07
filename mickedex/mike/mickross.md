@@ -6,7 +6,7 @@ permalink: /mickedex/mickross/
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
   <img src="/assets/images/mickross.png" alt="Mickross" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+  <figcaption><strong>Mickross</strong><br>The Armored Tank Mickémon</figcaption>
 </figure>
 
 # Mickross

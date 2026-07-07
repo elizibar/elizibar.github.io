@@ -6,7 +6,7 @@ permalink: /mickedex/mikechamp/
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
   <img src="/assets/images/mikechamp.png" alt="Mikechamp" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+  <figcaption><strong>Mike Champ</strong><br>The Gym Leader Mickémon</figcaption>
 </figure>
 
 # Mikechamp
