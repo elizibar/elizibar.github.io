@@ -11,7 +11,7 @@ permalink: /mickedex/druimick/
 
 # Druimick
 
-**Type:** Grass / Fairy 
+**Type:** Grass / Fairy  
 **Classification:** Druid Mickémon  
 **Mickédex Number:** #???  
 **Height:** 2'05" (0.75 m)  
