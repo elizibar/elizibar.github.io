@@ -35,3 +35,4 @@ Mickus's evolutions are too numerous to enumerate here.
 ### Gallery
 ![Mickus](/assets/images/mickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 ![Mickus Ink Doodle](/assets/images/mickuspen.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickus looking at Chrono Cross](/assets/images/mickus-cc.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
