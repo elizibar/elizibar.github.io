@@ -24,6 +24,11 @@ Her reputation is one of being a stern task master that doesn't stand for anyone
 
 Dee-Emm is another Leviathan of Team Deep Sea. Rumors disagree on Dee-Emm's gender, but they all agree that Dee-Emm possesses red skin.
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/machodm.png" alt="Macho DM" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Dee-Emm</strong><br>One purported depiction of the Leviathan Dee-Emm</figcaption>
+</figure>
+
 ### Eggus
 
 This mysterious individual is known to be the primary source of funding for Team Deep Sea, but his identity and whereabouts are unknown.  It is also unknown if Eggus actually holds the rank of Leviathan on the team, but the name is frequently associated with the team's activities.
