@@ -71,7 +71,7 @@ Browse all evolutions from the Cordia Region:
 [Sir Mick](/mickedex/sir-mick/) - [Lady Miku](/mickedex/lady-miku/) - [Mickmarried](/mickedex/mickmarried/) - [Mickfambly](/mickedex/mickfambly/)
 
 **Simp Line** (4)(93)  
-[Mick U](/mickedex/mick-u/) - [Mick U Supreme](/mickedex/mick-u-supreme/) - [Mickstream](/mickedex/mickstream/) - [Mickflix](/mickedex/mickflix/)
+[Mick U](/mickedex/mick-u/) - [Mick U Supreme](/mickedex/mick-u-supreme/) - [Mickstream](/mickedex/mickstream/) - [Mickflix](/mickedex/mickflix/) - [Mickshrimp](/mickedex/mickshrimp/)  
 
 **Nocturnal and Solar Types** (6)(99)  
 [Mickoon](/mickedex/mickoon/) - [Lunar Mick](/mickedex/lunar-mick/) - [Micksol](/mickedex/micksol/) - [Solmick](/mickedex/solmick/) - [Mickrise](/mickedex/mickrise/) - [Mickset](/mickedex/mickset/)
@@ -104,7 +104,8 @@ Browse all evolutions from the Cordia Region:
 [Meekee](/mickedex/meekee/) - [Mikporeon](/mickedex/mikporeon/) - [Milteon](/mickedex/milteon/) - [Mickreon](/mickedex/mickreon/) - [Mispeon](/mickedex/mispeon/) - [Milbreon](/mickedex/milbreon/) - [Milfeon](/mickedex/milfeon/) - [Mickeon](/mickedex/mickeon/) - [Mylveon](/mickedex/mylveon/)
 
 **Fossils** (2)(139)  
-[Mickambrian](/mickedex/mickambrian/) - [Mickrystal](/mickedex/mickrystal/)
+[Mickambrian](/mickedex/mickambrian/) - [Mickrystal](/mickedex/mickrystal/)  
+
 **Abyssal Forms** (5)(144)  
 [Mickthulhu](/mickedex/mickthulhu/) - [Deepmick](/mickedex/deepmick/) - [Mickoggoth](/mickedex/mickoggoth/) - [Migon](/mickedex/migon/) - [Myckra](/mickedex/myckra/)
 
