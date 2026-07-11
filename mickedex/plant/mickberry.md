@@ -13,7 +13,7 @@ permalink: /mickedex/mickberry/
 
 **Type:** Grass / Poison  
 **Classification:** Berry Hoarder Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #030  
 **Height:** 2'03" (0.7 m)
 **Weight:** 24.3 lbs (11.0 kg)  
 

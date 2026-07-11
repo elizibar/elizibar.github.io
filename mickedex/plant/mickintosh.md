@@ -13,7 +13,7 @@ permalink: /mickedex/mickintosh/
 
 **Type:** Grass / Poison  
 **Classification:** Apple Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #029  
 **Height:** 2'00" (0.6 m)  
 **Weight:** Weight: 26.5 lbs (12.0 kg)  
 

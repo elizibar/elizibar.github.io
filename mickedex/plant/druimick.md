@@ -13,7 +13,7 @@ permalink: /mickedex/druimick/
 
 **Type:** Grass / Fairy  
 **Classification:** Druid Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #032  
 **Height:** 2'05" (0.75 m)  
 W**eight:** 27.6 lbs (12.5 kg)  
 

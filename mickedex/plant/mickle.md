@@ -13,7 +13,7 @@ permalink: /mickedex/mickle/
 
 **Type:** Grass / Poison  
 **Classification:** Sour Pickle Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #031  
 **Height:** 2'01" (0.6 m)  
 **Weight:** 22.0 lbs (10.0 kg)  
 

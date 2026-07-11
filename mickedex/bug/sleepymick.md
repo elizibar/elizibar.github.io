@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/sleepymick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/sleepymick.png" alt="Sleepymick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Sleepymick</strong><br>The Sleeping Hat Mickémon</figcaption>
+</figure>
+
 # Sleepymick
 
 **Type:** Bug  
 **Classification:** Sleeping Hat Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #034  
 **Height:** 1'08" (0.5 m)  
 **Weight:** 14.3 lbs (6.5 kg)  
 
@@ -24,3 +29,6 @@ Evolves from Mickworm at level 20 or with High Friendship.  Evolves into Mickly,
 
 **Previous Evolution:** Mickworm (Level 20 or high Friendship)  
 **Next Evolution(s):** Mickfly, Mickroach, Mickbug, or Mickhusk (depending on conditions)
+
+### Gallery
+![Sleepymick](/assets/images/sleepymick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
