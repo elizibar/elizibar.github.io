@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickfly/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickfly.png" alt="Mickfly" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickfly</strong><br>The Time Traveler Mickémon</figcaption>
+</figure>
+
 # Mickfly
 
 **Type:** Bug / Flying  
 **Classification:** Time Traveler Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #035  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 49.6 lbs (22.5 kg)  
 
@@ -24,3 +29,6 @@ Mickfly evolves from Sleepymick if it levels during the Daytime or othewise in a
 
 **Previous Evolution:** Sleepymick (Daytime or open areas)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickfly](/assets/images/mickfly.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

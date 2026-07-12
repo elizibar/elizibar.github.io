@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickhusk/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickhusk.png" alt="Mickhusk" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickhusk</strong><br>The Empty Hat Mickémon</figcaption>
+</figure>
+
 # Mickhusk
 
 **Type:** Bug / Ghost  
 **Classification:** Empty Hat Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #038  
 **Height:** 1'10" (0.6 m)  
 **Weight:** 4.4 lbs (2.0 kg)  
 
@@ -24,3 +29,6 @@ When a Sleepymick evolves, it sheds its old hat as it grows into its new form.  
 
 **Previous Evolution:** Sleepymick  
 **Next Evolution(s):** Mickhusky (Level 35 or high attack stat)
+
+### Gallery
+![Mickhusk](/assets/images/mickhusk.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

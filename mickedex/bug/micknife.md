@@ -4,16 +4,21 @@ layout: default
 permalink: /mickedex/micknife/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/micknife.png" alt="Micknife" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Micknife</strong><br>The Knife Mickémon</figcaption>
+</figure>
+
 # Micknife
 
 **Type:** Steel/Dark  
 **Classification:** Knife Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #040  
 **Height:** 1'11" (0.6 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 
 ### Short Mickédex Entry
-"The Sleeping Hat Mickémon. The large hat is the main body. The worm underneath is having the nap of its life."
+
 
 ### Biology
 Micknife is a sleek, dapper assassin bug with razor-sharp steel blades for arms. It wears sharp black glasses, a tiny formal vest, and moves with an unsettlingly smooth, theatrical swagger. Its blades are always impeccably clean and polished.
@@ -26,3 +31,6 @@ Evolves when Sleepymick levels up while holding Black Glasses.
 
 **Previous Evolution:** Sleepymick (Black Glasses)
 **Next Evolution(s):** -
+
+### Gallery
+![Micknife](/assets/images/micknife.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
