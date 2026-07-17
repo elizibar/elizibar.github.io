@@ -1,21 +1,21 @@
 ---
-title: Final Fantasy VII (2013 Re-release)
+title: Final Fantasy VII Remake: Traces of Two Pasts
 layout: default
-permalink: /yearoffinalfantasy/ff72013/
+permalink: /yearoffinalfantasy/ff7traces/
 ---
 
-# Final Fantasy VII (2013 Re-release)
+# Final Fantasy VII Remake: Traces of Two Pasts
 
-**System**:  Steam (PC)  
-**Release Date**:  July 24, 2013  
+**System**:  Book  
+**Release Date**:  March 20, 2023  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Played**:  June 10, 2026 through July 11, 2026  
+**Date Played**:    
 
 ### Verdict
-Wonderful experience, but the secret bosses are such a change from the normal combat mechanics that beating them means you've trivialized the actual game.
+
 
 ### YouTube Playlist
 
 ### Order
-**Previous Game**:  [Final Fantasy 6 Pixel Remaster](/yearoffinalfantasy/ff6pr/)  
-**Next Game**:  [Final Fantasy VII Ever Crisis](/yearoffinalfantasy/ff7evercrisis/)
+**Previous Game**:  [template](/yearoffinalfantasy/ff7template/)
+**Next Game**:  [template](/yearoffinalfantasy/ff7template/)

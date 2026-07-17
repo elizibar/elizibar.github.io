@@ -1,21 +1,21 @@
 ---
-title: Final Fantasy VII (2013 Re-release)
+title: Final Fantasy VII Rebirth: Dear Destiny
 layout: default
-permalink: /yearoffinalfantasy/ff72013/
+permalink: /yearoffinalfantasy/ff7deardestiny/
 ---
 
-# Final Fantasy VII (2013 Re-release)
+# Final Fantasy VII Rebirth: Dear Destiny
 
-**System**:  Steam (PC)  
-**Release Date**:  July 24, 2013  
+**System**:  Book  
+**Release Date**:  (Not Yet In English)  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Played**:  June 10, 2026 through July 11, 2026  
+**Date Played**:    
 
 ### Verdict
-Wonderful experience, but the secret bosses are such a change from the normal combat mechanics that beating them means you've trivialized the actual game.
+
 
 ### YouTube Playlist
 
 ### Order
-**Previous Game**:  [Final Fantasy 6 Pixel Remaster](/yearoffinalfantasy/ff6pr/)  
-**Next Game**:  [Final Fantasy VII Ever Crisis](/yearoffinalfantasy/ff7evercrisis/)
+**Previous Game**:  [template](/yearoffinalfantasy/ff7template/)
+**Next Game**:  [template](/yearoffinalfantasy/ff7template/)

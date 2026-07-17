@@ -18,4 +18,4 @@ permalink: /yearoffinalfantasy/ff7lo/
 
 ### Order
 **Previous Game**:  [Final Fantasy VII: Advent Children](/yearoffinalfantasy/ff7ac/)  
-**Next Game**:  [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7evercrisis/)
+**Next Game**:  [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7denzel/)
