@@ -29,7 +29,7 @@ True to its namesake, Micknife is charismatic and theatrical. It often hums or w
 
 Evolves when Sleepymick levels up while holding Black Glasses.
 
-**Previous Evolution:** Sleepymick (Black Glasses)
+**Previous Evolution:** Sleepymick (Black Glasses)  
 **Next Evolution(s):** -
 
 ### Gallery

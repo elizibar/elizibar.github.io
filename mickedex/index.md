@@ -46,7 +46,7 @@ Browse all evolutions from the Cordia Region:
 **Bug Line**  
 [Mickworm](/mickedex/mickworm/) - [Sleepymick](/mickedex/sleepymick/) - [Mickfly](/mickedex/mickfly/) - [Mickroach](/mickedex/mickroach/) - [Mickbug](/mickedex/mickbug/) - [Mickhusk](/mickedex/mickhusk/) - [Mickhusky](/mickedex/mickhusky/) - [Micknife](/mickedex/micknife/)
 
-**Electric Line** (5)(45)  
+**Electric Line**  
 [Mickachu](/mickedex/mickachu/) - [Mickachu X](/mickedex/mickachu-x/) - [Mickatron](/mickedex/mickatron/) - [Mickrowave](/mickedex/mickrowave/) - [Mickrochip](/mickedex/mickrochip/)
 
 **Fire Line** (5)(50)  
