@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickma/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickma.png" alt="Mickma" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickma</strong><br>The Majma Kaiju Mickémon</figcaption>
+</figure>
+
 # Mickma
 
 **Type:** Fire / Ground  
 **Classification:** Magma Kaiju Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #049  
 **Height:** 6'07" (2.0 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 
@@ -26,3 +31,6 @@ Mickma evolves into Mickmagma at level 38, or into Mickblaze when a Magmarizer i
 
 **Previous Evolution:** Mickus (Leveled up in a Volcanic Area)  
 **Next Evolution(s):** Mickmagma, Mickblaze
+
+### Gallery
+![Mickma](/assets/images/mickma.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

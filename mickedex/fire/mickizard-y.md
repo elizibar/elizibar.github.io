@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickizard-y/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickizard-y.png" alt="Mickizard Y" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickizard Y</strong><br>The Double-Neck Guitarist Mickémon</figcaption>
+</figure>
+
 # Mickizard Y
 
 **Type:** Fire / Flying  
 **Classification:** Double-Neck Guitarist Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #047  
 **Height:** 6'03" (1.9 m)  
 **Weight:** 176.4 lbs (80.0 kg)  
 
@@ -24,3 +29,6 @@ Mickizard Y evolves from Mickizard at level 38.
 
 **Previous Evolution:** Mickizard (Level 38)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickizard Y](/assets/images/mickizard-y.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

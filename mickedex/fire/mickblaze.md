@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickblaze/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickblaze.png" alt="Mickblaze" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickblaze</strong><br>The Magma Wrestler Mickémon</figcaption>
+</figure>
+
 # Mickblaze
 
 **Type:** Fire / Fighting  
 **Classification:** Magma Wrestler Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #051  
 **Height:** 5'11" (1.8 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 
@@ -21,3 +26,6 @@ Mickblaze is a fiery, magma-covered wrestler whose body constantly radiates inte
 ### Evolution
 **Previous Evolution:** Mickma (Magmarizer)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickblaze](/assets/images/mickblaze.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
