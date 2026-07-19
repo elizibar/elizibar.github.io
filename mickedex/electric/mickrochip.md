@@ -6,7 +6,7 @@ permalink: /mickedex/mickrochip/
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
   <img src="/assets/images/mickrochip.png" alt="Microchip" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickrochip</strong><br>The Microchip Gremlin Mickémon</figcaption>
+  <figcaption><strong>Mickrochip</strong><br>The Microchip Mickémon</figcaption>
 </figure>
 
 # Mickrochip

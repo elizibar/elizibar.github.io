@@ -21,7 +21,7 @@ permalink: /mickedex/mickachu-x/
 "The Edgy Rodent Mickémon. Spikier and angrier than regular Mickachu."
 
 ### Biology
-Mickachu X is the edgier, more aggressive evolution of Mickachu. Its fur is spikier, its mullet is wilder and more dramatic, and it has a permanent scowl. Electricity constantly crackles around its body, especially when it’s annoyed. It refuses to be called cute and will aggressively zap anyone who tries to treat it like a normal Pikachu clone. It strikes dramatic poses before attacking, clearly trying to look as cool as possible.
+Mickachu X is the edgier, more aggressive evolution of Mickachu. Its fur is spikier, its mullet is wilder and more dramatic, and it has a permanent scowl. Electricity constantly crackles around its body, especially when it’s annoyed. It refuses to be called cute and will aggressively zap anyone who tries to treat it like a certain other yellow critter. It strikes dramatic poses before attacking, clearly trying to look as cool as possible.
 
 ### Evolution
 
