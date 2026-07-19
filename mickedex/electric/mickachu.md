@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickachu/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickachu.png" alt="Mickachu" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickachu</strong><br>The Mullet Rodent Mickémon</figcaption>
+</figure>
+
 # Mickachu
 
 **Type:** Electric  
 **Classification:** Mullet Rodent Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #041  
 **Height:** 1'04" (0.4 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
@@ -25,4 +30,7 @@ Evolves from Mickus when a Thunder Stone is used on it.
 Evolves into Mickachu X at level 38 or into Mickatron with an Electerizer.
 
 **Previous Evolution:** Mickus (Thunder Stone)  
-**Next Evolution(s):** Mickachu X (Level 38), Mickatron (Electerizer)
+**Next Evolution(s):** Mickachu X (Level 38), Mickatron (Electerizer), Mickrowave (Mickintosh), Mickrochip (Mickintosh)
+
+### Gallery
+![Mickachu(/assets/images/mickachu.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickrowave/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickrowave.png" alt="Mickrowave" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickrowave</strong><br>The Microwave Mickémon</figcaption>
+</figure>
+
 # Mickrowave
 
 **Type:** Fire / Electric  
 **Classification:** Microwave Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #044  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 154.3 lbs (70.0 kg)  
 
@@ -26,3 +31,6 @@ Evolves from Mickatron when it defeats a Mickintosh in battle.
 
 **Previous Evolution:** Mickatron (Fight Mickintosh)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickrowave](/assets/images/mickrowave.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

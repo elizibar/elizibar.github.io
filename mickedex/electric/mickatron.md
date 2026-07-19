@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickatron/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickatron.png" alt="Mickatron" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickatron</strong><br>The Glitching Robot Mickémon</figcaption>
+</figure>
+
 # Mickatron
 
 **Type:** Electric / Steel  
 **Classification:** Glitching Robot Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #043  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 198.4 lbs (90.0 kg)  
 
@@ -24,3 +29,6 @@ Evolves from Mickachu when an Electirizer is used on it.
 
 **Previous Evolution:** Mickachu (Electirizer)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickatron](/assets/images/mickatron.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

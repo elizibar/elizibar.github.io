@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickrochip/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickrochip.png" alt="Microchip" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickrochip</strong><br>The Microchip Gremlin Mickémon</figcaption>
+</figure>
+
 # Mickrochip
 
 **Type:** Electric/Bug  
 **Classification:** Microchip Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #045  
 **Height:** 1'04" (0.4 m)  
 **Weight:** 6.6 lbs (3.0 kg)  
 
@@ -26,3 +31,6 @@ Evolves from Mickatron after winning a Double Battle on the same side as Mickint
 
 **Previous Evolution:** Mickatron (Mickintosh)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickrochip](/assets/images/mickrochip.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
