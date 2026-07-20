@@ -29,7 +29,10 @@ The Heart typing is never found in isolation, it always appears in combination w
 Browse all evolutions from the Cordia Region:
 
 **Base Forms**  
-[Minimick](/mickedex/minimick/) - [Mickus](/mickedex/mickus/) - [Mickey](/mickedex/mickey/) - [Bigmick](/mickedex/bigmick/)
+001 [Minimick](/mickedex/minimick/)
+002 [Mickus](/mickedex/mickus/)
+003 [Mickey](/mickedex/mickey/)
+004 [Bigmick](/mickedex/bigmick/)
 
 **Rockstar & Fighting Line**  
 [Mick](/mickedex/mick/) - [Mick X](/mickedex/mick-x/) - [Mickstride](/mickedex/mickstride/) - [Micktorious](/mickedex/micktorious/) - [Mickjitsu](/mickedex/mickjitsu/)
