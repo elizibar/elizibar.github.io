@@ -28,8 +28,7 @@ The Heart typing is never found in isolation, it always appears in combination w
 
 Browse all evolutions from the Cordia Region:
 
-**Base Forms**  
-[Minimick](/mickedex/minimick/) - [Mickus](/mickedex/mickus/) - [Mickey](/mickedex/mickey/) - [Bigmick](/mickedex/bigmick/)
+**Base Forms** #001 [Minimick](/mickedex/minimick/) - #002 [Mickus](/mickedex/mickus/) - #003 [Mickey](/mickedex/mickey/) - #004 [Bigmick](/mickedex/bigmick/)
 
 **Rockstar & Fighting Line**  
 [Mick](/mickedex/mick/) - [Mick X](/mickedex/mick-x/) - [Mickstride](/mickedex/mickstride/) - [Micktorious](/mickedex/micktorious/) - [Mickjitsu](/mickedex/mickjitsu/)
@@ -55,41 +54,41 @@ Browse all evolutions from the Cordia Region:
 **Dark Line**  
 [Micknight](/mickedex/micknight/) - [Micklord](/mickedex/micklord/) - [Grim Mick](/mickedex/grim-mick/) - [Mickster](/mickedex/mickster) - [Micksterious](/mickedex/micksterious/) - [Mickaboo](/mickedex/mickaboo/)
 
-**Robot Line** (5)(62)  
+**Robot Line**   
 [Mickro](/mickedex/mickro/) - [Mickbot](/mickedex/mickbot/) - [Mickaphone](/mickedex/mickaphone/) - [Steamick](/mickedex/steamick/) - [Mickrobinson](/mickedex/mickrobinson/)
 
-**Ice Line** (5)(67)  
+**Ice Line**  
 [Mickool](/mickedex/mickool/) - [Mickooler](/mickedex/mickooler/) - [Mickoolest](/mickedex/mickoolest/) - [Mickcube](/mickedex/mickcube/) - [Mickmelt](/mickedex/mickmelt/)
 
-**Digital Line**  (14)(81)  
+**Digital Line**  
 [Mickmon](/mickedex/mickmon/) - [Mickmonga](/mickedex/mickmonga/) - [Mixel](/mickedex/mixel/) - [Mickmickboom](/mickedex/mickmickboom/) - [Micktoon](/mickedex/micktoon/) - [Mickinabox](/mickedex/mickinabox/) - [Mickmongaga](/mickedex/mickmongaga/) - [Mickmunitions](/mickedex/mickmunitions/) - [Tormick](/mickedex/tormick/) - [Unterseemick](/mickedex/unterseemick/) - [Helimick](/mickedex/helimick/) - [Choppamick](/mickedex/choppamick/) - [Mickeart](/mickedex/mickeart/) - [Mickouth](/mickedex/mickouth/)
 
-**Group and Colonial Line** (5)(86)  
+**Group and Colonial Line**  
 [Mickmasses](/mickedex/mickmasses/) - [Mickmassive](/mickedex/mickmassive/) - [Mickrorganism](/mickedex/mickrorganism/) - [Mickreef](/mickedex/mickreef/) - [Mickoral](/mickedex/mickoral/)
 
-**Family Line** (4)(90)  
+**Family Line**  
 [Sir Mick](/mickedex/sir-mick/) - [Lady Miku](/mickedex/lady-miku/) - [Mickmarried](/mickedex/mickmarried/) - [Mickfambly](/mickedex/mickfambly/)
 
-**Simp Line** (4)(94)  
+**Simp Line**  
 [Mick U](/mickedex/mick-u/) - [Mick U Supreme](/mickedex/mick-u-supreme/) - [Mickstream](/mickedex/mickstream/) - [Mickflix](/mickedex/mickflix/) - [Mickshrimp](/mickedex/mickshrimp/)  
 
-**Nocturnal and Solar Types** (6)(100)  
+**Nocturnal and Solar Types**  
 [Mickoon](/mickedex/mickoon/) - [Lunar Mick](/mickedex/lunar-mick/) - [Micksol](/mickedex/micksol/) - [Solmick](/mickedex/solmick/) - [Mickrise](/mickedex/mickrise/) - [Mickset](/mickedex/mickset/)
 
-**Social Line** (2)(102)  
+**Social Line**  
 [Partymick](/mickedex/partymick/) - [Ravemick](/mickedex/ravemick/)
 
-**Fake Fish Line** (2)(104)  
+**Fake Fish Line**  
 [Swimick](/mickedex/swimick/) - [Mickyfin](/mickedex/mickyfin/)
 
-**Fish Line** (5)(109)  
+**Fish Line**  
 [Mickeel](/pokemon/mickeel/) - [Mickrel](/pokemon/mickrel/) - [Mickray](/pokemon/mickray/) - [Micktopus](/pokemon/micktopus/) - [Mickraken](/pokemon/mickraken/)
 
-**Elder Line** (3)(112)  
+**Elder Line**  
 [Oldmick](/mickedex/oldmick/) - [Realoldmick](/mickedex/realoldmick/) - [Deadmick](/mickedex/deadmick/)
 
-**Mythical & Fantasy Creatures Themed** (5)(117)  
-[Mickoblin](/mickedex/mickoblin/) - [Mickdemon](/mickedex/mickdemon/) - [Micktroll](/mickedex/micktroll/) - [Micklops](/mickedex/micklops/)
+**Mythical & Fantasy Creatures Themed**  
+[Mickoblin](/mickedex/mickoblin/) - [Mickdemon](/mickedex/mickdemon/) - [Micktroll](/mickedex/micktroll/) - [Micklops](/mickedex/micklops/) - [Mickgriffin](/mickedex/mickgriffn/)
 
 **Dessert Line**  (2)(119)  
 [Mickreme](/mickedex/mickreme/) - [Mickshake](/mickedex/mickshake/)

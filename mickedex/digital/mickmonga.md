@@ -8,7 +8,7 @@ permalink: /mickedex/mickmonga/
 
 **Type:** Steel  
 **Classification:** Armored Digimon Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #069  
 **Height:** 8'02" (2.5 m)  
 **Weight:** 771.6 lbs (350.0 kg)  
 

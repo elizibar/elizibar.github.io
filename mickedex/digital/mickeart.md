@@ -8,7 +8,7 @@ permalink: /mickedex/mickeart/
 
 **Type:** Normal / Heart  
 **Classification:** Heart Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #080  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 

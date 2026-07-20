@@ -8,7 +8,7 @@ permalink: /mickedex/mickcube/
 
 **Type:** Ice  
 **Classification:** Ice Cube Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #066  
 **Height:** 1'08" (0.5 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 

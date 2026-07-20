@@ -8,7 +8,7 @@ permalink: /mickedex/mickooler/
 
 **Type:** Ice  
 **Classification:** Even Cooler Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #064  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 130.1 lbs (59.0 kg)  
 
@@ -20,7 +20,7 @@ Mickooler believes it has reached the absolute peak of coolness. Its ice sunglas
 
 ### Evolution
 
-Mickooler evolves from Mickool at level 33.
+Mickooler evolves from Mickool at level 33.  Evolves into Mickoolest at level 60.
 
 **Previous Evolution:** Mickool (Level 33)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Mickoolest (Level 60)

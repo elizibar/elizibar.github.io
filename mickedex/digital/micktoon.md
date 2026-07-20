@@ -8,7 +8,7 @@ permalink: /mickedex/micktoon/
 
 **Type:** Normal / Fairy  
 **Classification:** Indie Cartoon Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #072  
 **Height:** 1'08" (0.5 m) (constantly shifting)  
 **Weight:** 11.0 lbs (5.0 kg) (varies wildly)  
 

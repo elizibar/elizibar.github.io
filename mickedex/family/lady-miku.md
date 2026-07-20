@@ -8,7 +8,7 @@ permalink: /mickedex/lady-miku/
 
 **Type:** Water / Fairy  
 **Classification:** Princess Idol Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #088  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 

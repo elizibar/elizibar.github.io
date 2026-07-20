@@ -8,7 +8,7 @@ permalink: /mickedex/mickflix/
 
 **Type:** Normal / Psychic  
 **Classification:** Binge-Watcher Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #094  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 

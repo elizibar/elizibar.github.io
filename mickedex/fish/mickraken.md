@@ -8,7 +8,7 @@ permalink: /mickedex/mickraken/
 
 **Type:** Water / Dark  
 **Classification:** Kraken Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #110  
 **Height:** 8'02" (2.5 m)  
 **Weight:** 485.0 lbs (220.0 kg)  
 

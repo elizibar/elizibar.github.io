@@ -8,7 +8,7 @@ permalink: /mickedex/solmick/
 
 **Type:** Fire / Psychic  
 **Classification:** Solar Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #099  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 110.2 lbs (50.0 kg)  
 

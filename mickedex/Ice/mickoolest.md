@@ -8,7 +8,7 @@ permalink: /mickedex/mickoolest/
 
 **Type:** Ice  
 **Classification:** Ultimate Cool Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #065  
 **Height:** 4'11" (1.5 m)  
 **Weight:** 143.3 lbs (65.0 kg)  
 
@@ -22,7 +22,7 @@ Mickoolest speaks in a smooth, laid-back tone and constantly strikes overly cool
 
 ### Evolution
 
-Mickooler evolves from Mickooler at level 60.
+Mickoolest evolves from Mickooler at level 60.
 
 **Previous Evolution:** Mickooler (Level 60)  
 **Next Evolution(s):** -

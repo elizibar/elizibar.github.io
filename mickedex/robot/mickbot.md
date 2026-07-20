@@ -8,7 +8,7 @@ permalink: /mickedex/mickbot/
 
 **Type:** Steel  
 **Classification:** Upgraded Robot Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #059  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 209.4 lbs (95.0 kg)  
 

@@ -8,7 +8,7 @@ permalink: /mickedex/mixel/
 
 **Type:** Fairy  
 **Classification:** Glitch Sprite Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #070  
 **Height:** 3'11" (1.2 m) (varies)  
 **Weight:** 22.0 lbs (10.0 kg) (varies)  
 

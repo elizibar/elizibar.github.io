@@ -8,7 +8,7 @@ permalink: /mickedex/mickool/
 
 **Type:** Ice  
 **Classification:** Cool Dude Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #063  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 121.3 lbs (55.0 kg)  
 

@@ -8,7 +8,7 @@ permalink: /mickedex/unterseemick/
 
 **Type:** Water / Steel  
 **Classification:** Submarine Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #077  
 **Height:** 8'02" (2.5 m)  
 **Weight:** 771.6 lbs (350.0 kg)  
 

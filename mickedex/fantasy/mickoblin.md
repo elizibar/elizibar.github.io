@@ -8,7 +8,7 @@ permalink: /mickedex/mickoblin/
 
 **Type:** Dark / Grass  
 **Classification:** Goblin Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #113  
 **Height:** 2'00" (0.6 m)  
 **Weight:**22.0 lbs (10.0 kg)  
 

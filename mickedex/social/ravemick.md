@@ -8,7 +8,7 @@ permalink: /mickedex/ravemick/
 
 **Type:** Psychic  
 **Classification:** Rave Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #103  
 **Height:** 1'08" (0.5 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 

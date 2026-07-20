@@ -8,7 +8,7 @@ permalink: /mickedex/mickouth/
 
 **Type:** Fairy  
 **Classification:** Mouth Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #081  
 **Height:** 2'04" (0.7 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 

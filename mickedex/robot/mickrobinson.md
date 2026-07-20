@@ -8,7 +8,7 @@ permalink: /mickedex/mickrobinson/
 
 **Type:** Steel / Psychic  
 **Classification:** Retro Robot Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #062  
 **Height:** 5'07" (1.7 m)  
 **Weight:** 352.7 lbs (160.0 kg)  
 

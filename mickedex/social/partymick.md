@@ -8,7 +8,7 @@ permalink: /mickedex/partymick/
 
 **Type:** Normal  
 **Classification:** Party Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #102  
 **Height:** 1'04" (0.4 m)  
 **Weight:** 12.1 lbs (5.5 kg)  
 

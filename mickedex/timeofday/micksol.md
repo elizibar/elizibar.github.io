@@ -8,7 +8,7 @@ permalink: /mickedex/micksol/
 
 **Type:** Fire / Psychic  
 **Classification:** Sunny Surfer Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #098  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 77.2 lbs (35.0 kg)
 

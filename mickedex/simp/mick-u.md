@@ -8,7 +8,7 @@ permalink: /mickedex/mick-u/
 
 **Type:** Psychic / Heart  
 **Classification:** Simp Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #091  
 **Height:** 1'08" (0.5 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 

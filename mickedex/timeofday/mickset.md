@@ -8,7 +8,7 @@ permalink: /mickedex/mickset/
 
 **Type:** Psychic / Ice  
 **Classification:** Evening Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #101  
 **Height:** 3'07" (1.1 m)  
 **Weight:** 66.1 lbs (30.0 kg)  
 

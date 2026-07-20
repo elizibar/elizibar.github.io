@@ -8,7 +8,7 @@ permalink: /mickedex/mickrise/
 
 **Type:** Psychic / Fire  
 **Classification:** Morning Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #100  
 **Height:** 3'07" (1.1 m)  
 **Weight:** 66.1 lbs (30.0 kg)  
 

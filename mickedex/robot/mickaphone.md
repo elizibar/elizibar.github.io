@@ -13,7 +13,7 @@ permalink: /mickedex/mickaphone/
 
 **Type:** Electric / Psychic  
 **Classification:** Smartphone Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #060  
 **Height:** 3'07" (1.1 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 

@@ -8,7 +8,7 @@ permalink: /mickedex/mickmickboom/
 
 **Type:** Steel / Normal  
 **Classification:** Gun Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #071  
 **Height:** 1'04" (0.4 m)  
 **Weight:** 22.0 lbs (10.0 kg)  
 

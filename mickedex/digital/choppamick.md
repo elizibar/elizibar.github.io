@@ -8,7 +8,7 @@ permalink: /mickedex/choppamick/
 
 **Type:** Flying / Steel  
 **Classification:** Attack Helicopter Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #079  
 **Height:** 9'10" (3.0 m)  
 **Weight:** 1,543.2 lbs (700.0 kg)  
 

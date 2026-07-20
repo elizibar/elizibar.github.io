@@ -8,7 +8,7 @@ permalink: /mickedex/mickoon/
 
 **Type:** Dark / Fairy  
 **Classification:** Lunar Howler Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #096  
 **Height:** 3'11" (1.2 m)  
 **Weight:** 77.2 lbs (35.0 kg)  
 

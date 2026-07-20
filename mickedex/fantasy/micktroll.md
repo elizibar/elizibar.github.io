@@ -8,7 +8,7 @@ permalink: /mickedex/micktroll/
 
 **Type:**  Rock / Dark  
 **Classification:** Bridge Troll Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #115  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 176.4 lbs (80.0 kg)  
 
