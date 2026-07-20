@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/micksterious/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/micksterious.png" alt="Micksterious" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Micksterious</strong><br>The Enigmatic Figure Mickémon</figcaption>
+</figure>
+
 # Micksterious
 
 **Type:** Ghost / Psychic  
 **Classification:** Enigmatic Figure Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #056  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 
@@ -26,3 +31,6 @@ Evolves from Micklord or Grim Mick.
 
 **Previous Evolution:** Micknight (Level 40)  
 **Next Evolution(s):** -
+
+### Gallery
+![Micksterious](/assets/images/micksterious.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

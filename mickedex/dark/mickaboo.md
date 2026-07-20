@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickaboo/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickaboo.png" alt="Mickaboo" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickaboo</strong><br>The Peeaboo Scarer Mickémon</figcaption>
+</figure>
+
 # Mickaboo
 
 **Type:** Ghost / Fairy  
 **Classification:** Peekaboo Scarer Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #057  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 
@@ -24,3 +29,6 @@ Evolves from Grim Mick when it levels up after learning a Fairy-type move.
 
 **Previous Evolution:** Grim Mick (Fairy-type Move)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickaboo](/assets/images/mickaboo.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

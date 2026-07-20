@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/grim-mick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/grim-mick.png" alt="Grim Mick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Grim Mick</strong><br>The Reaper Mickémon</figcaption>
+</figure>
+
 # Grim Mick
 
 **Type:** Ghost / Dark  
 **Classification:** Reaper Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #054  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 110.2 lbs (50.0 kg)  
 
@@ -24,3 +29,6 @@ Grim Mick evolves from Micknight when a Reaper Cloth is used on it.
 
 **Previous Evolution:** Micknight (Reaper Cloth)  
 **Next Evolution(s):** -
+
+### Gallery
+![Grim Mick](/assets/images/grim-mick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

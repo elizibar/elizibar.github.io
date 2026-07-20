@@ -49,73 +49,73 @@ Browse all evolutions from the Cordia Region:
 **Electric Line**  
 [Mickachu](/mickedex/mickachu/) - [Mickachu X](/mickedex/mickachu-x/) - [Mickatron](/mickedex/mickatron/) - [Mickrowave](/mickedex/mickrowave/) - [Mickrochip](/mickedex/mickrochip/)
 
-**Fire Line** (5)(50)  
+**Fire Line**  
 [Mickizard](/mickedex/mickizard/) - [Mickizard Y](/mickedex/mickizard-y/) - [Mickdrake](/mickedex/mickdrake/) - [Mickma](/mickedex/mickma/) - [Mickmagma](/mickedex/mickmagma/) - [Mickblaze](/mickedex/mickblaze/)
 
-**Dark Line** (6)(56)  
+**Dark Line**  
 [Micknight](/mickedex/micknight/) - [Micklord](/mickedex/micklord/) - [Grim Mick](/mickedex/grim-mick/) - [Mickster](/mickedex/mickster) - [Micksterious](/mickedex/micksterious/) - [Mickaboo](/mickedex/mickaboo/)
 
-**Robot Line** (5)(61)  
+**Robot Line** (5)(62)  
 [Mickro](/mickedex/mickro/) - [Mickbot](/mickedex/mickbot/) - [Mickaphone](/mickedex/mickaphone/) - [Steamick](/mickedex/steamick/) - [Mickrobinson](/mickedex/mickrobinson/)
 
-**Ice Line** (5)(66)  
+**Ice Line** (5)(67)  
 [Mickool](/mickedex/mickool/) - [Mickooler](/mickedex/mickooler/) - [Mickoolest](/mickedex/mickoolest/) - [Mickcube](/mickedex/mickcube/) - [Mickmelt](/mickedex/mickmelt/)
 
-**Digital Line**  (14)(80)  
+**Digital Line**  (14)(81)  
 [Mickmon](/mickedex/mickmon/) - [Mickmonga](/mickedex/mickmonga/) - [Mixel](/mickedex/mixel/) - [Mickmickboom](/mickedex/mickmickboom/) - [Micktoon](/mickedex/micktoon/) - [Mickinabox](/mickedex/mickinabox/) - [Mickmongaga](/mickedex/mickmongaga/) - [Mickmunitions](/mickedex/mickmunitions/) - [Tormick](/mickedex/tormick/) - [Unterseemick](/mickedex/unterseemick/) - [Helimick](/mickedex/helimick/) - [Choppamick](/mickedex/choppamick/) - [Mickeart](/mickedex/mickeart/) - [Mickouth](/mickedex/mickouth/)
 
-**Group and Colonial Line** (5)(85)  
+**Group and Colonial Line** (5)(86)  
 [Mickmasses](/mickedex/mickmasses/) - [Mickmassive](/mickedex/mickmassive/) - [Mickrorganism](/mickedex/mickrorganism/) - [Mickreef](/mickedex/mickreef/) - [Mickoral](/mickedex/mickoral/)
 
-**Family Line** (4)(89)  
+**Family Line** (4)(90)  
 [Sir Mick](/mickedex/sir-mick/) - [Lady Miku](/mickedex/lady-miku/) - [Mickmarried](/mickedex/mickmarried/) - [Mickfambly](/mickedex/mickfambly/)
 
-**Simp Line** (4)(93)  
+**Simp Line** (4)(94)  
 [Mick U](/mickedex/mick-u/) - [Mick U Supreme](/mickedex/mick-u-supreme/) - [Mickstream](/mickedex/mickstream/) - [Mickflix](/mickedex/mickflix/) - [Mickshrimp](/mickedex/mickshrimp/)  
 
-**Nocturnal and Solar Types** (6)(99)  
+**Nocturnal and Solar Types** (6)(100)  
 [Mickoon](/mickedex/mickoon/) - [Lunar Mick](/mickedex/lunar-mick/) - [Micksol](/mickedex/micksol/) - [Solmick](/mickedex/solmick/) - [Mickrise](/mickedex/mickrise/) - [Mickset](/mickedex/mickset/)
 
-**Social Line** (2)(101)  
+**Social Line** (2)(102)  
 [Partymick](/mickedex/partymick/) - [Ravemick](/mickedex/ravemick/)
 
-**Fake Fish Line** (2)(103)  
+**Fake Fish Line** (2)(104)  
 [Swimick](/mickedex/swimick/) - [Mickyfin](/mickedex/mickyfin/)
 
-**Fish Line** (5)(108)  
+**Fish Line** (5)(109)  
 [Mickeel](/pokemon/mickeel/) - [Mickrel](/pokemon/mickrel/) - [Mickray](/pokemon/mickray/) - [Micktopus](/pokemon/micktopus/) - [Mickraken](/pokemon/mickraken/)
 
-**Elder Line** (3)(111)  
+**Elder Line** (3)(112)  
 [Oldmick](/mickedex/oldmick/) - [Realoldmick](/mickedex/realoldmick/) - [Deadmick](/mickedex/deadmick/)
 
-**Mythical & Fantasy Creatures Themed** (5)(116)  
+**Mythical & Fantasy Creatures Themed** (5)(117)  
 [Mickoblin](/mickedex/mickoblin/) - [Mickdemon](/mickedex/mickdemon/) - [Micktroll](/mickedex/micktroll/) - [Micklops](/mickedex/micklops/)
 
-**Dessert Line**  (2)(118)  
+**Dessert Line**  (2)(119)  
 [Mickreme](/mickedex/mickreme/) - [Mickshake](/mickedex/mickshake/)
 
-**Grill Line** (5)(123)  
+**Grill Line** (5)(124)  
 [Mickburger](/mickedex/mickburger/) - [Mickizza](/mickedex/mickizza/) - [Micknoodle](/mickedex/micknoodle/) - [Mickaroni](/mickedex/mickaroni/) - [Mickandcheese](/mickedex/mickandcheese/)
 
-**Bakery Line** (5)(128)  
+**Bakery Line** (5)(129)  
 [Mickoffee](/mickedex/mickoffee/) - [Mickolate](/mickedex/mickolate/) - [Mickookie](/mickedex/mickookie/) - [Mickake](/mickedex/mickake/) - [Mipie](/mickedex/mipie/)
 
-**Meekee Line** (9)(137)  
+**Meekee Line** (9)(138)  
 [Meekee](/mickedex/meekee/) - [Mikporeon](/mickedex/mikporeon/) - [Milteon](/mickedex/milteon/) - [Mickreon](/mickedex/mickreon/) - [Mispeon](/mickedex/mispeon/) - [Milbreon](/mickedex/milbreon/) - [Milfeon](/mickedex/milfeon/) - [Mickeon](/mickedex/mickeon/) - [Mylveon](/mickedex/mylveon/)
 
-**Fossils** (2)(139)  
+**Fossils** (2)(140)  
 [Mickambrian](/mickedex/mickambrian/) - [Mickrystal](/mickedex/mickrystal/)  
 
-**Abyssal Forms** (5)(144)  
+**Abyssal Forms** (5)(145)  
 [Mickthulhu](/mickedex/mickthulhu/) - [Deepmick](/mickedex/deepmick/) - [Mickoggoth](/mickedex/mickoggoth/) - [Migon](/mickedex/migon/) - [Myckra](/mickedex/myckra/)
 
-**Warp Forms** (5)(149)
+**Warp Forms** (5)(150)
 [Mickien](/mickedex/mickien/) - [Mickoid](/mickedex/mickoid/) - [Mikath](/mickedex/mikath/) - [Mickinyellow](/mickedex/mickinyellow/) - [Mickinova](/mickedex/mickinova/)
 
-**Other** (4)(153)  
+**Other** (4)(154)  
 [Mickbat](/mickedex/mickbat/) - [Mickrow](/mickedex/mickrow/) - [Mickboss](/mickedex/mickboss/) - [Micksweet](/mickedex/micksweet/)
 
-**Ultimate Form** (1)(154)  
+**Ultimate Form** (1)(155)  
 [Ultra Mick](/mickedex/ultra-mick/)
 
 

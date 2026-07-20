@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/micknight/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/micknight.png" alt="Micknight" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Micknight</strong><br>The Edgelord Mickémon</figcaption>
+</figure>
+
 # Micknight
 
 **Type:** Dark / Ghost  
 **Classification:** Edgelord Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #052  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 99.2 lbs (45.0 kg)  
 
@@ -24,3 +29,6 @@ Micknight evolves from Mickus when a Dusk Stone is used on it.
 
 **Previous Evolution:** Mickus (Dusk Stone)  
 **Next Evolution(s):** Micklord
+
+### Gallery
+![Micknight](/assets/images/micknight.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

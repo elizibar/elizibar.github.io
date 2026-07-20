@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/mickster/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickster.png" alt="Mickster" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickster</strong><br>The Illusionist Trickster Mickémon</figcaption>
+</figure>
+
 # Mickster
 
 **Type:** Dark / Fairy  
 **Classification:** Illusionist Trickster Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #055  
 **Height:** 4'07" (1.4 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
@@ -23,3 +28,6 @@ Mickster evolves from Micknight when it levels while knowing a Fairy-type move.
 
 **Previous Evolution:** Micknight (Fairy-type Move)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickster](/assets/images/mickster.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

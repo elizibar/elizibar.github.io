@@ -4,11 +4,16 @@ layout: default
 permalink: /mickedex/micklord/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/micklord.png" alt="Micklord" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Micklord</strong><br>The Shadow King Mickémon</figcaption>
+</figure>
+
 # Micklord
 
 **Type:** Dark / Ghost  
 **Classification:** Shadow King Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #053  
 **Height:** 5'03" (1.6 m)  
 **Weight:** 132.3 lbs (60.0 kg)  
 
@@ -24,3 +29,6 @@ Micklord evolves from Micknight at level 40.
 
 **Previous Evolution:** Micknight (Level 40)  
 **Next Evolution(s):** -
+
+### Gallery
+![Micklord](/assets/images/micklord.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
