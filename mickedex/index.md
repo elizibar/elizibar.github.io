@@ -91,31 +91,31 @@ Browse all evolutions from the Cordia Region:
 **Mythical & Fantasy Creatures Themed**  
 [Mickoblin](/mickedex/mickoblin/) - [Mickdemon](/mickedex/mickdemon/) - [Micktroll](/mickedex/micktroll/) - [Micklops](/mickedex/micklops/) - [Mickgriffin](/mickedex/mickgriffn/)
 
-**Dessert Line**  (2)(119)  
+**Dessert Line**  
 [Mickreme](/mickedex/mickreme/) - [Mickshake](/mickedex/mickshake/)
 
-**Grill Line** (5)(124)  
+**Grill Line**  
 [Mickburger](/mickedex/mickburger/) - [Mickizza](/mickedex/mickizza/) - [Micknoodle](/mickedex/micknoodle/) - [Mickaroni](/mickedex/mickaroni/) - [Mickandcheese](/mickedex/mickandcheese/)
 
-**Bakery Line** (5)(129)  
+**Bakery Line**  
 [Mickoffee](/mickedex/mickoffee/) - [Mickolate](/mickedex/mickolate/) - [Mickookie](/mickedex/mickookie/) - [Mickake](/mickedex/mickake/) - [Mipie](/mickedex/mipie/)
 
-**Meekee Line** (9)(138)  
+**Meekee Line**  
 [Meekee](/mickedex/meekee/) - [Mikporeon](/mickedex/mikporeon/) - [Milteon](/mickedex/milteon/) - [Mickreon](/mickedex/mickreon/) - [Mispeon](/mickedex/mispeon/) - [Milbreon](/mickedex/milbreon/) - [Milfeon](/mickedex/milfeon/) - [Mickeon](/mickedex/mickeon/) - [Mylveon](/mickedex/mylveon/)
 
-**Fossils** (2)(140)  
+**Fossils**  
 [Mickambrian](/mickedex/mickambrian/) - [Mickrystal](/mickedex/mickrystal/)  
 
-**Abyssal Forms** (5)(145)  
+**Abyssal Forms**  
 [Mickthulhu](/mickedex/mickthulhu/) - [Deepmick](/mickedex/deepmick/) - [Mickoggoth](/mickedex/mickoggoth/) - [Migon](/mickedex/migon/) - [Myckra](/mickedex/myckra/)
 
-**Warp Forms** (5)(150)
+**Warp Forms**  
 [Mickien](/mickedex/mickien/) - [Mickoid](/mickedex/mickoid/) - [Mikath](/mickedex/mikath/) - [Mickinyellow](/mickedex/mickinyellow/) - [Mickinova](/mickedex/mickinova/)
 
-**Other** (4)(154)  
+**Other**  
 [Mickbat](/mickedex/mickbat/) - [Mickrow](/mickedex/mickrow/) - [Mickboss](/mickedex/mickboss/) - [Micksweet](/mickedex/micksweet/)
 
-**Ultimate Form** (1)(155)  
+**Ultimate Form**  
 [Ultra Mick](/mickedex/ultra-mick/)
 
 
