@@ -41,7 +41,7 @@ permalink: /yearoffinalfantasy/
 **Final Fantasy XI**  
 
 ### [Final Fantasy XII](/yearoffinalfantasy/ff12series/)
-**Final Fantasy XII The Zodiac Age** - **Final Fantasy XII: Revenant Wings**  
+[Final Fantasy XII: The Zodiac Age](/yearoffinalfantasy/ff12/) - **Final Fantasy XII: Revenant Wings**  
 
 ### [Final Fantasy XIII](/yearoffinalfantasy/ff13series/)
 **Final Fantasy XIII** - **Final Fantasy XIII-2** - **Final Fantasy XIII Lightning Returns**  
@@ -53,7 +53,7 @@ permalink: /yearoffinalfantasy/
 **Final Fantasy XV**  
 
 ### [Final Fantasy XVI](/yearoffinalfantasy/ff16series/)
-**Final Fantasy XVI**  
+[Final Fantasy XVI](/yearoffinalfantasy/ff16/)  
 
 ### [Final Fantasy Tactics](/yearoffinalfantasy/fftseries/)
 **Final Fantasy Tactics** - **Vagrant Story** - **Final Fantasy Tactics Advance** - **Final Fantasy Tactics A2: Grimoire of the Rift**  
