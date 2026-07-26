@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ff7ac/
 **System**:  DVD  
 **Release Date**:  April 24, 2005  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Watched**:  July 21, 2026  
+**Date Watched**:  July 23, 2026  
 
 ### Verdict
 

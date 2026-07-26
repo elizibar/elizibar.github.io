@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ff7denzel/
 **System**:  DVD  
 **Release Date**:  April 16, 2009  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Played**:  July 21, 2026  
+**Date Played**:  July 23, 2026  
 
 ### Verdict
 

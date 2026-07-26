@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ff7lo/
 **System**: DVD  
 **Release Date**:  September 14, 2005  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Played**:  July 21, 2026  
+**Date Played**:  July 23, 2026  
 
 ### Verdict
 
