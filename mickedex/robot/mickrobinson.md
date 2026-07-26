@@ -4,7 +4,7 @@ layout: default
 permalink: /mickedex/mickrobinson/
 ---
 
-# Mickbot
+# Mickrobinson
 
 **Type:** Steel / Psychic  
 **Classification:** Retro Robot Mickémon  
