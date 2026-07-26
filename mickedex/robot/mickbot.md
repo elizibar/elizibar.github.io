@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickbot/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickbot.png" alt="Mickbot" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickbot</strong><br>The Upgraded Robot Mickémon</figcaption>
+</figure>
+
 # Mickbot
 
 **Type:** Steel  
@@ -20,7 +25,10 @@ Mickbot is a sleeker, upgraded version of Mickro. While still clearly robotic, i
 
 ### Evolution
 
-Mickbot evolves from Mickro at level 38.
+Mickbot evolves from Mickro at level 38.  Evolves into Mickaphone if it levels while in the same party as a Mickintosh.  Evolves into Mickrobinson if it knows 3 or more moves that are 25+ levels old.  Evolves into Steamick if it faints from a Fire-type move.
 
 **Previous Evolution:** Mickro (Level 38)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Mickaphone (Mickintosh), Mickrobinson (Old Moves), Steamick (Fire)
+
+### Gallery
+![Mickbot](/assets/images/mickbot.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

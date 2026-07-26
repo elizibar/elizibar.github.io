@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickro/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickro.png" alt="MIckro" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickro</strong><br>The Vista Robot Mickémon</figcaption>
+</figure>
+
 # Mickro
 
 **Type:** Steel  
@@ -20,7 +25,10 @@ Mickro is a clunky, boxy robot version of Mickus still running on very outdated 
 
 ### Evolution
 
-Mickro evolves from Mickus when traded while holding a Metal Coat.  Mickro evolves into Mickbot at level 38.
+Mickro evolves from Mickus when traded while holding a Metal Coat.  Mickro evolves into Mickbot at level 38.  Evolves into Mickaphone if it levels while in the same party as a Mickintosh.  Evolves into Mickrobinson if it knows 3 or more moves that are 25+ levels old.  Evolves into Steamick if it faints from a Fire-type move.
 
 **Previous Evolution:** Mickus (Trade with Metal Coat)  
-**Next Evolution(s):** Mickbot (Level 38)
+**Next Evolution(s):** Mickbot (Level 38), Mickaphone (Mickintosh), Mickrobinson (Old Moves), Steamick (Fire)
+
+### Gallery
+![Mickro](/assets/images/mickro.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

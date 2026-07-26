@@ -5,8 +5,8 @@ permalink: /mickedex/mickaphone/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickus.png" alt="Mickus" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
+  <img src="/assets/images/mickaphone.png" alt="Mickaphone" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickaphone</strong><br>The Smartphone Mickémon</figcaption>
 </figure>
 
 # Mickaphone
@@ -29,3 +29,6 @@ Mickaphone evolves from Mickro or Mickbot when it levels in the same party as a 
 
 **Previous Evolution:** Mickro or Mickbot (Mickintosh)  
 **Next Evolution(s):** -
+
+### Gallery
+![MIckaphone](/assets/images/mickapohone.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
