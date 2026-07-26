@@ -29,7 +29,7 @@ It is known to say things such as "You must master your rage, or your rage will 
 
 Evolves from Micklord or Grim Mick.
 
-**Previous Evolution:** Micknight (Level 40)  
+**Previous Evolution:** Micklord or Grim Mick (Level 60)  
 **Next Evolution(s):** -
 
 ### Gallery

@@ -25,10 +25,10 @@ Micknight is an edgelord Mickus draped in black and purple fabric with glowing r
 
 ### Evolution
 
-Micknight evolves from Mickus when a Dusk Stone is used on it.
+Micknight evolves from Mickus when a Dusk Stone is used on it.  Evolves into Grim Mick if a Reaper Cloth is used on it.  Evolves into Mickster if it levels while knowing a Fairy-type move. 	
 
 **Previous Evolution:** Mickus (Dusk Stone)  
-**Next Evolution(s):** Micklord
+**Next Evolution(s):** Micklord (Level 40), Grim Mick (Reaper Cloth), MIckster (Fairy)
 
 ### Gallery
 ![Micknight](/assets/images/micknight.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

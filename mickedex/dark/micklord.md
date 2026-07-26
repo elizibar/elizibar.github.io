@@ -25,10 +25,10 @@ Micklord is a dramatic edgelord Mickus that sits atop a tiny floating throne mad
 
 ### Evolution
 
-Micklord evolves from Micknight at level 40.
+Micklord evolves from Micknight at level 40.  Evolves into Micksterious at level 60.
 
 **Previous Evolution:** Micknight (Level 40)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Micksterious (Level 60)
 
 ### Gallery
 ![Micklord](/assets/images/micklord.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

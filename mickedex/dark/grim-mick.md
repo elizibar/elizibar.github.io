@@ -25,10 +25,10 @@ Grim Mick is a somber, reaper-like Mickus draped in a tattered black cloak with 
 
 ### Evolution
 
-Grim Mick evolves from Micknight when a Reaper Cloth is used on it.
+Grim Mick evolves from Micknight when a Reaper Cloth is used on it.  Evolves into Micksterious at level 60.  Evolves into Mickaboo if it levels while knowing a Fairy-type move.
 
 **Previous Evolution:** Micknight (Reaper Cloth)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Micksterious (Level 60), Mickaboo (Fairy)
 
 ### Gallery
 ![Grim Mick](/assets/images/grim-mick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
