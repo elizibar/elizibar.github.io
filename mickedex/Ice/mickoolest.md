@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickoolest/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickoolest.png" alt="Mickoolest" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickoolest</strong><br>The Ultimate Cool Mickémon</figcaption>
+</figure>
+
 # Mickoolest
 
 **Type:** Ice  
@@ -26,3 +31,6 @@ Mickoolest evolves from Mickooler at level 60.
 
 **Previous Evolution:** Mickooler (Level 60)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickoolest](/assets/images/mickoolest.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

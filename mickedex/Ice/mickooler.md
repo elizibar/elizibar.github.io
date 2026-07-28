@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickooler/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickooler.png" alt="Mickooler" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickooler</strong><br>The Even Cooler Mickémon</figcaption>
+</figure>
+
 # Mickooler
 
 **Type:** Ice  
@@ -24,3 +29,6 @@ Mickooler evolves from Mickool at level 33.  Evolves into Mickoolest at level 60
 
 **Previous Evolution:** Mickool (Level 33)  
 **Next Evolution(s):** Mickoolest (Level 60)
+
+### Gallery
+![MIckooler](/assets/images/mickooler.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

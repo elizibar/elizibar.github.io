@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickmelt/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickmelt.png" alt="Mickmelt" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickmelt</strong><br>The Melting Mickémon</figcaption>
+</figure>
+
 # Mickmelt
 
 **Type:** Ice / Water  
@@ -24,3 +29,6 @@ Evolves from Mickcube if it learns a Fire-type move and levels up.
 
 **Previous Evolution:** Mickcube (Fire-type Move)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickmelt](/assets/images/mickmelt.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

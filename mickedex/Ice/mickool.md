@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickool/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickool.png" alt="Mickool" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickool</strong><br>The Cool Dude Mickémon</figcaption>
+</figure>
+
 # Mickool
 
 **Type:** Ice  
@@ -20,7 +25,10 @@ Mickool is a self-proclaimed "cool dude" Mickus covered in ice. It wears stylish
 
 ### Evolution
 
-Mickool evolves from Mickus when an Ice Stone is used on it.  Mickool evolves into Mickooler at level 33.
+Mickool evolves from Mickus when an Ice Stone is used on it.  Mickool evolves into Mickooler at level 33.  Evolves into Mickcube if it levels while holding a Never-Melting Ice.
 
 **Previous Evolution:** Mickus (Ice Stone)  
-**Next Evolution(s):** Mickooler (Level 33)
+**Next Evolution(s):** Mickooler (Level 33), Mickube (Never-Melting Ice)
+
+### Gallery
+![Mickool](/assets/images/mickool.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
