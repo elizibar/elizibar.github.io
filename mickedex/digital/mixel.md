@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mixel/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mixel.png" alt="Mixel" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mixel</strong><br>The Glitch Sprite Mickémon</figcaption>
+</figure>
+
 # Mixel
 
 **Type:** Fairy  
@@ -24,5 +29,8 @@ It speaks in distorted 16-bit sound bites and has a habit of randomly changing i
 
 Evolves from Mickmonga if Mickmonga levels up while holding a Fairy Feather or if it wins a battle with a Fairy-type move.
 
-**Previous Evolution:** Mickmonga (Fairy Feather)
+**Previous Evolution:** Mickmonga (Fairy Feather)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mixel](/assets/images/mixel.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
