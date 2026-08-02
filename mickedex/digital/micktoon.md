@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/micktoon/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/micktoon.gif" alt="Micktoon" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Micktoon</strong><br>The Indie Cartoon Mickémon</figcaption>
+</figure>
+
 # Micktoon
 
 **Type:** Normal / Fairy  
@@ -26,3 +31,6 @@ Evolves from Mickmon if it knows a Fairy-type move.
 
 **Previous Evolution:** Mickmon (Fairy-type move)
 **Next Evolution(s):** -
+
+### Gallery
+![Micktoon](/assets/images/micktoon.gif){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
