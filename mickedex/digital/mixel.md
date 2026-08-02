@@ -34,16 +34,16 @@ Evolves from Mickmonga if Mickmonga levels up while holding a Fairy Feather or i
 
 ### Gallery
 ![Mixel](/assets/images/mixel.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Glitching Mixel](/assets/images/mixel/glitch-mixel.gif){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Corrupted Mixel](/assets/images/mixel/blocks_16x16.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Corrupted Mixel](/assets/images/mixel/blocks_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Corrupted Mixel](/assets/images/mixel/blocks_64x64.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Doubled Mixel](/assets/images/mixel/conjoined_16x16.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Doubled Mixel](/assets/images/mixel/conjoined_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Doubled Mixel](/assets/images/mixel/conjoined_64x64.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Inverted Mixel](/assets/images/mixel/reversea_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Garbled Mixel](/assets/images/mixel/reverseb_16x16a.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Garbled Mixel](/assets/images/mixel/lined_16x16.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Garbled Mixel](/assets/images/mixel/lined_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Spectral Mixel](/assets/images/mixel/lined_64x64.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Spectral Mixel](/assets/images/mixel/lined_128x128.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Glitching Mixel](/assets/images/mixels/glitch-mixel.gif){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Corrupted Mixel](/assets/images/mixels/blocks_16x16.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Corrupted Mixel](/assets/images/mixels/blocks_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Corrupted Mixel](/assets/images/mixels/blocks_64x64.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Doubled Mixel](/assets/images/mixels/conjoined_16x16.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Doubled Mixel](/assets/images/mixels/conjoined_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Doubled Mixel](/assets/images/mixels/conjoined_64x64.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Inverted Mixel](/assets/images/mixels/reversea_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Garbled Mixel](/assets/images/mixels/reverseb_16x16a.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Garbled Mixel](/assets/images/mixels/lined_16x16.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Garbled Mixel](/assets/images/mixels/lined_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Spectral Mixel](/assets/images/mixels/lined_64x64.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Spectral Mixel](/assets/images/mixels/lined_128x128.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
