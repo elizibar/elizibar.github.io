@@ -35,6 +35,7 @@ Evolves from Mickmonga if Mickmonga levels up while holding a Fairy Feather or i
 ### Gallery
 ![Mixel](/assets/images/mixel.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 ![Glitching Mixel](/assets/images/mixels/glitch-mixel.gif){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Shifting Mixel](/assets/images/mixels/pixel-mixel.gif){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 ![Corrupted Mixel](/assets/images/mixels/blocks_16x16.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 ![Corrupted Mixel](/assets/images/mixels/blocks_32x32.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 ![Corrupted Mixel](/assets/images/mixels/blocks_64x64.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
