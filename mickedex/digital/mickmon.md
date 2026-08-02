@@ -25,10 +25,10 @@ Mickmon is an 8-bit pixelated version of Mickus. Its body is made of blocky pixe
 
 ### Evolution
 
-Mickmon evolves from Mickus when it is traded while holding a Game Cartridge.  Mickmon evolves into Mickmonga at level 42.
+Mickmon evolves from Mickus when it is traded while holding a Game Cartridge.  Mickmon evolves into Mickmonga at level 42.  Evolves into Mickmickboom if it levels while knowing a Steel-type move.  Evolves into Helimick if it levels knowing a Flying- and Steel-type move.  Evolves into Mickeart if it levels while knowing Attract.  Evolves into Mickinabox if it levels while holding a Strange Coupon.  Evolves into Tormick if it levels while knowing a Water- and Steel-type move.  Evolves into Mickmunitions when it participates in a Double Battle with Mickmickboom and wins.  Evolves into Mickouth if it levels while knowing Alluring Voice.  Evolves into Micktoon if it levels while knowing a Fairy-type move.
 
 **Previous Evolution:** Mickus (Trade with Game Cartridge)  
-**Next Evolution(s):** Mickmonga (Level 42)
+**Next Evolution(s):** Mickmonga (Level 42), Mickmickboom (Steel-type), Helimick (Flying and Steel), Mickeart (Attract), Mickinabox (Strange Coupon), Tormick (Water and Steel), Mickmunition (Mickmickboom), Mickouth (Alluring Voice), Micktoon (Fairy-type)
 
 ### Gallery
 ![Mickmon](/assets/images/mickmon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

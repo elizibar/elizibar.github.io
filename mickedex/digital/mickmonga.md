@@ -25,10 +25,10 @@ Mickmonga is a massive, heavily armored evolution of Mickmon. It has enormous sh
 
 ### Evolution
 
-Mickmonga evolves from Mickmon at level 42.
+Mickmonga evolves from Mickmon at level 42.  Evolves into Mickmickboom if it levels while knowing a Steel-type move.  Evolves into Mickmongaga if it levels while knowing both a Fairy- and Steel-type move.  Evolves into Mixel if it levels while holding a Fairy Feather.
 
 **Previous Evolution:** Mickmon (Level 42)  
-**Next Evolution(s):** -
+**Next Evolution(s):** Mickmickboom (Steel-type), Mickmongaga (Fairy and Steel-type), Mixel (Fairy Feather)  
 
 ### Gallery
 ![Mikcmonga](/assets/images/mickmonga.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
