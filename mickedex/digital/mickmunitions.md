@@ -33,4 +33,4 @@ Evolves from Mickmon when it participates in a Double Battle with Mickmickboom a
 **Next Evolution(s):** -
 
 ### Gallery
-![Pokemon Name](/assets/images/mickmunitions.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickmunitions](/assets/images/mickmunitions.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
