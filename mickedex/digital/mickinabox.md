@@ -29,7 +29,7 @@ When excited, or when it feels like it, it violently springs out of the box with
 
 Evolves from Mickmon if it levels while holding a Strange Coupon.
 
-**Previous Evolution:** Mickmon (Strange Coupon)
+**Previous Evolution:** Mickmon (Strange Coupon)  
 **Next Evolution(s):** -
 
 ### Gallery

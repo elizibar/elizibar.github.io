@@ -22,5 +22,5 @@ Tormick is literally a living torpedo with a Mickus face on the front, tiny fins
 
 Evolves from Mickmon when it knows both a Water and Steel move.  Evolves into Unterseemick at level 40.
 
-**Previous Evolution:** Mickmon (Water and Steel-type move)
+**Previous Evolution:** Mickmon (Water and Steel-type move)  
 **Next Evolution(s):** Unterseemick (Lv 40)

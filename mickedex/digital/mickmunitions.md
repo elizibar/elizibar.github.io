@@ -24,5 +24,5 @@ Despite looking like it could solo an army, it is still very much a Mickus at he
 
 Evolves from Mickmon when it participates in a Double Battle with Mickmickboom and wins.
 
-**Previous Evolution:** Mickmon (Mickmickboom)
+**Previous Evolution:** Mickmon (Mickmickboom)  
 **Next Evolution(s):** -

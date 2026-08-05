@@ -29,7 +29,7 @@ One moment it has beautiful smooth animation, the next it's a scribbled mess wit
 
 Evolves from Mickmon if it knows a Fairy-type move.
 
-**Previous Evolution:** Mickmon (Fairy-type move)
+**Previous Evolution:** Mickmon (Fairy-type move)  
 **Next Evolution(s):** -
 
 ### Gallery
