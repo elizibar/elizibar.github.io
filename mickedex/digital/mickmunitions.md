@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickmunitions/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickmunitions.png" alt="Mickmunitions" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickmunitions</strong><br>The Action Hero Mickémon</figcaption>
+</figure>
+
 # Mickmunitions
 
 **Type:** Steel / Dark  
@@ -26,3 +31,6 @@ Evolves from Mickmon when it participates in a Double Battle with Mickmickboom a
 
 **Previous Evolution:** Mickmon (Mickmickboom)  
 **Next Evolution(s):** -
+
+### Gallery
+![Pokemon Name](/assets/images/mickmunitions.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
