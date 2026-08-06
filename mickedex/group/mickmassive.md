@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickmassive/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickmassive.png" alt="Mickmassive" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickmassive</strong><br>The Colony Mickémon</figcaption>
+</figure>
+
 # Mickmassive
 
 **Type:** Fighting  
@@ -23,4 +28,4 @@ Mickmassive is an absolute behemoth formed from the hats of Mickmasses after con
 **Next Evolution(s):** -
 
 ### Gallery
-![Plantcas](/assets/images/mickmassive.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickmassive](/assets/images/mickmassive.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
