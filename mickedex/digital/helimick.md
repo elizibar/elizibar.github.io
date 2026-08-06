@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/helimick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/helimick.png" alt="Helimick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Helimick</strong><br>The Propeller Mickémon</figcaption>
+</figure>
+
 # Helimick
 
 **Type:** Flying / Steel  
@@ -24,3 +29,6 @@ Evolves from Mickmon when it levels while knowing both a Flying and Steel-type m
 
 **Previous Evolution:** Mickmon (Flying and Steel-type moves)  
 **Next Evolution(s):** Choppamick (Level 45)
+
+### Gallery
+![Helimick](/assets/images/helimick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

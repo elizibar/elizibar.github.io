@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/unterseemick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/unterseeick.png" alt="Unterseemick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Unterseemick</strong><br>The Submarine Mickémon</figcaption>
+</figure>
+
 # Unterseemick
 
 **Type:** Water / Steel  
@@ -24,3 +29,6 @@ Evolves from Tormick at level 40.
 
 **Previous Evolution:** Tormick (Lv 40)  
 **Next Evolution(s):** -
+
+### Gallery
+![Unterseemick](/assets/images/unterseemick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
