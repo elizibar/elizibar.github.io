@@ -1,5 +1,5 @@
 ---
-title: Pokemon Name
+title: Mickemon Name
 layout: default
 permalink: /mickedex/mickemon-name/
 ---
