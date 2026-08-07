@@ -83,7 +83,7 @@ Browse all evolutions from the Cordia Region:
 [Swimick](/mickedex/swimick/) - [Mickyfin](/mickedex/mickyfin/)
 
 **Fish Line**  
-[Mickeel](/mickeedex/mickeel/) - [Mickrel](/mickdex/mickrel/) - [Mickray](/mickedex/mickray/) - [Micktopus](/mickedex/micktopus/) - [Mickraken](/mickedex/mickraken/)
+[Mickeel](/mickedex/mickeel/) - [Mickrel](/mickedex/mickrel/) - [Mickray](/mickedex/mickray/) - [Micktopus](/mickedex/micktopus/) - [Mickraken](/mickedex/mickraken/)
 
 **Elder Line**  
 [Oldmick](/mickedex/oldmick/) - [Realoldmick](/mickedex/realoldmick/) - [Deadmick](/mickedex/deadmick/)
