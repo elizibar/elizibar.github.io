@@ -5,7 +5,7 @@ permalink: /mickedex/unterseemick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/unterseeick.png" alt="Unterseemick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/unterseemick.png" alt="Unterseemick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Unterseemick</strong><br>The Submarine Mickémon</figcaption>
 </figure>
 
