@@ -19,10 +19,10 @@ In the Cordia region, trainers have observed two very limited special 'types' in
 We have termed these two types "**Sound**" and "**Heart**."  
 
 **Sound**  
-The Sound typing is never found in isolation, it always appears in combination with another type.  Its primary effect is to make the Pokemon resistant to Fairy type moves.
+The Sound typing is never found in isolation, it always appears in combination with another type.  Its primary effect is to make the Mickemon resistant to Fairy type moves.
 
 **Heart**  
-The Heart typing is never found in isolation, it always appears in combination with another type.  Its primary effect is to make the Pokemon resistant to Psychic type moves.
+The Heart typing is never found in isolation, it always appears in combination with another type.  Its primary effect is to make the Mickemon resistant to Psychic type moves.
 
 # Mickédex
 
@@ -83,7 +83,7 @@ Browse all evolutions from the Cordia Region:
 [Swimick](/mickedex/swimick/) - [Mickyfin](/mickedex/mickyfin/)
 
 **Fish Line**  
-[Mickeel](/pokemon/mickeel/) - [Mickrel](/pokemon/mickrel/) - [Mickray](/pokemon/mickray/) - [Micktopus](/pokemon/micktopus/) - [Mickraken](/pokemon/mickraken/)
+[Mickeel](/mickdex/mickeel/) - [Mickrel](/mickdex/mickrel/) - [Mickray](/mickdex/mickray/) - [Micktopus](/mickdex/micktopus/) - [Mickraken](/mickdex/mickraken/)
 
 **Elder Line**  
 [Oldmick](/mickedex/oldmick/) - [Realoldmick](/mickedex/realoldmick/) - [Deadmick](/mickedex/deadmick/)
@@ -147,8 +147,8 @@ Mickasaurus - Rock/Dragon fossil revival beast.
 **Size Comparison of some Mickus Evolutions**  
 ![Mickus Evolution Size Comparison](/assets/images/size-comparison.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
-**Typical Cordia Region Pokemon Trainer at Sea**  
-![Typical Cordia Region Pokemon Trainer](/assets/images/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+**Typical Cordia Region Mickemon Trainer at Sea**  
+![Typical Cordia Region Mickemon Trainer](/assets/images/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 **Professor Lucas's Original Notes on Evolution**
 ![Professor Lucas's Evolution Chart](/assets/images/mickvolution.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
