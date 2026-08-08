@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/micktopus/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/micktopus.png" alt="Micktopus" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Micktopus</strong><br>The Octopus Mickémon</figcaption>
+</figure>
+
 # Micktopus
 
 **Type:** Water / Dark  
@@ -25,3 +30,6 @@ Evolves from Mickeel when it levels while holding a Deep Sea Fang.  Evolves into
 
 **Previous Evolution:** Mickeel (Deep Sea Fang)  
 **Next Evolution(s):** Mickraken (Level 38)
+
+### Gallery
+![Micktopus](/assets/images/micktopus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
