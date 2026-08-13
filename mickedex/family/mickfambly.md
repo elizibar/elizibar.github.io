@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickfambly/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickfambly.png" alt="Mickfambly" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickfambly</strong><br>The Family Mickémon</figcaption>
+</figure>
+
 # Mickfambly
 
 **Type:** Steel / Fairy  
@@ -26,3 +31,6 @@ Evolves from Mickmarried at level 50.
 
 **Previous Evolution:** Mickmarried (Lv 50)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickfambly](/assets/images/mickfambly.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
