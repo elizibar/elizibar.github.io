@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mick-u/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/micku.png" alt="Mick U" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mick U</strong><br>The Simp Mickémon</figcaption>
+</figure>
+
 # Mick U
 
 **Type:** Psychic / Heart  
@@ -24,3 +29,6 @@ Mick U evolves from Mickus when a Love Stone is used on it.  It evolves to Mick 
 
 **Previous Evolution:** Mickus (Love Stone)  
 **Next Evolution(s):** Mick U Supreme
+
+### Gallery
+![Mick U](/assets/images/micku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
