@@ -8,7 +8,7 @@ permalink: /mickedex/migon/
 
 **Type:** Water / Dark  
 **Classification:** Great Deep One Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #145  
 **Height:** 6'07" (2.0 m)  
 **Weight:** 264.6 lbs (120.0 kg)  
 

@@ -8,7 +8,7 @@ permalink: /mickedex/mickinova/
 
 **Type:** Fire / Psychic  
 **Classification:** Supernova Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #151  
 **Height:** 9'10" (3.0 m)  
 **Weight:** 771.6 lbs (350.0 kg)  
 

@@ -8,7 +8,7 @@ permalink: /mickedex/mickboss/
 
 **Type:** Dark / Normal  
 **Classification:** Boss Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #154  
 **Height:** 3'11" (1.2 m)  
 **Weight:** 165.3 lbs (75.0 kg)  
 

@@ -8,7 +8,7 @@ permalink: /mickedex/mickien/
 
 **Type:** Psychic / Steel  
 **Classification:** Grey Alien Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #147  
 **Height:** 3'03" (1.0 m)  
 **Weight:** 66.1 lbs (30.0 kg)  
 

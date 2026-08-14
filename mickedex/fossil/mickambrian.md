@@ -8,7 +8,7 @@ permalink: /mickedex/mickambrian/
 
 **Type:** Rock / Psychic  
 **Classification:** Hallucigenia Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #140  
 **Height:** 2'04" (0.7 m)  
 **Weight:** 24.3 lbs (11.0 kg)  
 
