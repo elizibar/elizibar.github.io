@@ -25,10 +25,10 @@ Mick U is a hopelessly lovestruck Mickus with permanent heart-shaped pupils and 
 
 ### Evolution
 
-Mick U evolves from Mickus when a Love Stone is used on it.  It evolves to Mick U Supreme when many items are given to it out of combat.
+Mick U evolves from Mickus when a Love Stone is used on it.  It evolves to Mick U Supreme when many items are given to it out of combat.  Evolves into Mickflix when it learns Rest.  Evoles into Mickstream at level 30.  Evoles into Mickshrimp when it wins a Double Battle teamed with MIcktopus or Mickraken.
 
 **Previous Evolution:** Mickus (Love Stone)  
-**Next Evolution(s):** Mick U Supreme
+**Next Evolution(s):** Mick U Supreme (Given Items), Mickflix (Rest), Mickstream (Lv 30), Mickshrimp (Micktopus or Mickraken)
 
 ### Gallery
 ![Mick U](/assets/images/micku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
