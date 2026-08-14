@@ -8,7 +8,7 @@ permalink: /mickedex/mickeon/
 
 **Type:** Ice  
 **Classification:** Fake Glaceon Mickémon  
-**Mickédex Number:** #137  
+**Mickédex Number:** #138  
 **Height:** 2’07" (0.8 m)  
 **Weight:** 57.1 lbs (25.9 kg)  
 
