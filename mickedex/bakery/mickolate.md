@@ -8,7 +8,7 @@ permalink: /mickedex/mickolate/
 
 **Type:** Fairy / Fire  
 **Classification:** Chocolate Rabbit Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #126  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 19.8 lbs (9.0 kg)  
 

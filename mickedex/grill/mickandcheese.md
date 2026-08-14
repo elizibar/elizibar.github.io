@@ -8,7 +8,7 @@ permalink: /mickedex/mickandcheese/
 
 **Type:** Normal / Fire  
 **Classification:** Comfort Food Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #124  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 24.3 lbs (11.0 kg)  
 

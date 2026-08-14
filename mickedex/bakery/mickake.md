@@ -8,7 +8,7 @@ permalink: /mickedex/mickake/
 
 **Type:** Fairy / Fire  
 **Classification:** Cake Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #128  
 **Height:** 2'00" (0.6 m)  
 **Weight:** 24.3 lbs (11.0 kg)  
 

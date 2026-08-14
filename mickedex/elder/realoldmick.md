@@ -1,7 +1,7 @@
 ---
 title: realoldmick
 layout: default
-permalink: /pokedex/realoldmick/
+permalink: /mickedex/realoldmick/
 ---
 
 # Realoldmick

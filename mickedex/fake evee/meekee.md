@@ -8,7 +8,7 @@ permalink: /mickedex/meekee/
 
 **Type:** Normal  
 **Classification:** Fake Eevee Mickémon  
-**Mickédex Number:** #???  
+**Mickédex Number:** #130  
 **Height:** 1'00" (0.3 m)  
 **Weight:** 13.2 lbs (6.0 kg)  
 

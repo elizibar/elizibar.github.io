@@ -89,7 +89,7 @@ Browse all evolutions from the Cordia Region:
 [Oldmick](/mickedex/oldmick/) - [Realoldmick](/mickedex/realoldmick/) - [Deadmick](/mickedex/deadmick/)
 
 **Mythical & Fantasy Creatures Themed**  
-[Mickoblin](/mickedex/mickoblin/) - [Mickdemon](/mickedex/mickdemon/) - [Micktroll](/mickedex/micktroll/) - [Micklops](/mickedex/micklops/) - [Mickgriffin](/mickedex/mickgriffn/)
+[Mickoblin](/mickedex/mickoblin/) - [Mickdemon](/mickedex/mickdemon/) - [Micktroll](/mickedex/micktroll/) - [Micklops](/mickedex/micklops/) - [Mickgriffin](/mickedex/mickgriffin/)
 
 **Dessert Line**  
 [Mickreme](/mickedex/mickreme/) - [Mickshake](/mickedex/mickshake/)

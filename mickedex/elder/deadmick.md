@@ -1,7 +1,7 @@
 ---
 title: Deadmick
 layout: default
-permalink: /pokedex/deadmick/
+permalink: /mickedex/deadmick/
 ---
 
 # Deadmick
