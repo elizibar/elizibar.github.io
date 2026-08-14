@@ -8,7 +8,7 @@ permalink: /mickedex/mickdemon/
 
 **Type:** Dark / Fire  
 **Classification:** Demon Mickémon  
-**Mickédex Number:** #114  
+**Mickédex Number:** #115  
 **Height:** 4'03" (1.3 m)  
 **Weight:** 88.2 lbs (40.0 kg)  
 
