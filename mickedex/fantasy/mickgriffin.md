@@ -21,5 +21,5 @@ Mickgriffin is a majestic, noble griffin Mickus with the body of a lion and the 
 ### Evolution
 Evolves from Mickoblin when levelling while holding a Sharp Beak.
 
-**Previous Evolution:** Mickus (Sharp Beak)
-**Next Evolution(s):** =
+**Previous Evolution:** Mickus (Sharp Beak)  
+**Next Evolution(s):** -

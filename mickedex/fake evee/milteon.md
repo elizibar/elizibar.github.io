@@ -21,5 +21,5 @@ Milteon is a Mickus that has fully committed to pretending it is a Jolteon. It h
 ### Evolution
 Evolves from Meekee when a Thunder Stone is used on it.
 
-**Previous Evolution:** Meekee (Thunder Stone)
+**Previous Evolution:** Meekee (Thunder Stone)  
 **Next Evolution(s):** -

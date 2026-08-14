@@ -21,5 +21,5 @@ Mickolate is an adorable chocolate rabbit Mickus with glossy brown "fur" made of
 ### Evolution
 Evolves from Mickus when trained by the Angel of Cakes.
 
-**Previous Evolution:** Mickus (Bakery)
+**Previous Evolution:** Mickus (Bakery)  
 **Next Evolution(s):** -

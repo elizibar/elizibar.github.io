@@ -21,5 +21,5 @@ Mickshake is a living milkshake in a tall glass with a swirl of whipped cream on
 ### Evolution
 Evolves from Mickreme at level 33.
 
-**Previous Evolution:** Mickreme (Lv 33)
+**Previous Evolution:** Mickreme (Lv 33)  
 **Next Evolution(s):** -
