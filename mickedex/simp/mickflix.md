@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickflix/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickflix.png" alt="Mickflix" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickflix</strong><br>The Binge-Watcher Mickémon</figcaption>
+</figure>
+
 # Mickflix
 
 **Type:** Normal / Psychic  
@@ -23,3 +28,6 @@ Evolves from Mick U when it learns Rest and levels up.
 
 **Previous Evolution:** Mick U (Rest)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickflix](/assets/images/mickflix.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

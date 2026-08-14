@@ -6,7 +6,7 @@ permalink: /mickedex/mickshrimp/
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
   <img src="/assets/images/mickshrimp.png" alt="Mickshrimp" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>MiMickshrimpckus</strong><br>The Shrimp Mickémon</figcaption>
+  <figcaption><strong>Mickshrimp</strong><br>The Shrimp Mickémon</figcaption>
 </figure>
 
 # Mickshrimp
