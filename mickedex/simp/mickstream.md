@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickstream/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickstream.png" alt="Mickstream" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickstream</strong><br>The Live-Streamer Mickémon</figcaption>
+</figure>
+
 # Mickstream
 
 **Type:** Water  
@@ -23,3 +28,6 @@ Evolves from Mick U at level 30.
 
 **Previous Evolution:** Mick U (Lv 30)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickstream](/assets/images/mickstream.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
