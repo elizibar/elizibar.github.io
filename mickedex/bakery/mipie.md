@@ -8,7 +8,7 @@ permalink: /mickedex/mipie/
 
 **Type:** Fairy / Grass  
 **Classification:** Pie Mickémon  
-**Mickédex Number:** #130  
+**Mickédex Number:** #129  
 **Height:** 1'08" (0.5 m)  
 **Weight:** 15.4 lbs (7.0 kg)  
 

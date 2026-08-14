@@ -8,7 +8,7 @@ permalink: /mickedex/micknoodle/
 
 **Type:** Water / Psychic  
 **Classification:** Ramen Mickémon  
-**Mickédex Number:** #123  
+**Mickédex Number:** #122  
 **Height:** 2'00" (0.6 m) 
 **Weight:** 19.8 lbs (9.0 kg)  
 

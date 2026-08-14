@@ -8,7 +8,7 @@ permalink: /mickedex/mickburger/
 
 **Type:** Fire / Normal  
 **Classification:** Burger Mickémon  
-**Mickédex Number:** #121  
+**Mickédex Number:** #120  
 **Height:** 2'04" (0.7 m)  
 **Weight:** 33.1 lbs (15.0 kg)  
 
