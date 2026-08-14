@@ -8,7 +8,7 @@ permalink: /mickedex/mispeon/
 
 **Type:** Psychic  
 **Classification:** Fake Espeon Mickémon  
-**Mickédex Number:** #135  
+**Mickédex Number:** #134  
 **Height:** 2'07" (0.8 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 

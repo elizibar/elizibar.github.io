@@ -8,7 +8,7 @@ permalink: /mickedex/milfeon/
 
 **Type:** Grass  
 **Classification:** Fake Leafeon Mickémon  
-**Mickédex Number:** #137  
+**Mickédex Number:** #136  
 **Height:** 2’11" (0.9 m)  
 **Weight:** 55.1 lbs (25.0 kg)  
 
