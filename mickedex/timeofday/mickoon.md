@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickoon/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickoon.png" alt="Mickoon" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickoon</strong><br>The Lunar Howler Mickémon</figcaption>
+</figure>
+
 # Mickoon
 
 **Type:** Dark / Fairy  
@@ -24,3 +29,6 @@ Mickoon evolves from Mickus when a Moon Stone is used on it.
 
 **Previous Evolution:** Mickus (Moon Stone)  
 **Next Evolution(s):** Lunar Mick
+
+### Gallery
+![Mickoon](/assets/images/mickoon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

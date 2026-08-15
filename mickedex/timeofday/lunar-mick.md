@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/lunar-mick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/lunarmick.png" alt="Lunar Mick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Lunar Mick</strong><br>The Full Moon Mickémon</figcaption>
+</figure>
+
 # Lunar Mick
 
 **Type:** Dark / Psychic  
@@ -24,3 +29,7 @@ Lunar Mick evolves from Mickoon when it levels during a Full Moon at Night.
 
 **Previous Evolution:** Mickoon (Full Moon at night)  
 **Next Evolution(s):** -
+
+### Gallery
+![Lunar Mick at the New Moon](/assets/images/lunarmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Lunar Mick at the Full Moon](/assets/images/lunarmickfullmoon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
