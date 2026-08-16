@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/solmick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/solmick.png" alt="Solmick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Solmick</strong><br>The Solar Mickémon</figcaption>
+</figure>
+
 # Solmick
 
 **Type:** Fire / Psychic  
@@ -24,3 +29,6 @@ Solmick evolves from Micksol when Micksol levels during the Daytime.  It has no 
 
 **Previous Evolution:** Micksol  
 **Next Evolution(s):** -
+
+### Gallery
+![Solmick](/assets/images/solmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
