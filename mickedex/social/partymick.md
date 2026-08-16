@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/partymick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/partymick.png" alt="Partymick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Partymick</strong><br>The Party Mickémon</figcaption>
+</figure>
+
 # Partymick
 
 **Type:** Normal  
@@ -24,3 +29,6 @@ Partymick evolves from Mickus if it is traded for another Mickus.  If Partymick 
 
 **Previous Evolution:** Mickus (Traded for another Mickus)  
 **Next Evolution(s):** Ravemick (mutual trade with another Partymick)
+
+### Gallery
+![Partymick](/assets/images/partymick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
