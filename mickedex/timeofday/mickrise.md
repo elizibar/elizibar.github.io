@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickrise/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickrise.png" alt="Mickrise" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickrise</strong><br>The Morning Mickémon</figcaption>
+</figure>
+
 # Mickrise
 
 **Type:** Psychic / Fire  
@@ -24,3 +29,6 @@ Mickrise evolves from Mickus if it levels up to 33 or higher at Dawn.
 
 **Previous Evolution:** Mickus (Leveled up at Dawn)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickrise](/assets/images/mickrise.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

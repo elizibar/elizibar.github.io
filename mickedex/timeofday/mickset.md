@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickset/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickset.png" alt="Mickset" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickset</strong><br>The Evening Mickémon</figcaption>
+</figure>
+
 # Mickset
 
 **Type:** Psychic / Ice  
@@ -24,3 +29,6 @@ Mickset evolves from Mickus if it levels up to 33 or higher at Dusk.
 
 **Previous Evolution:** Mickus (Leveled up at Dusk)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickset](/assets/images/mickset.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
