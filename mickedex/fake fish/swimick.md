@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/swimick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/swimick.png" alt="Swimick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Swimick</strong><br>The Delusional Fish Mickémon</figcaption>
+</figure>
+
 # Swimick
 
 **Type:** Water  

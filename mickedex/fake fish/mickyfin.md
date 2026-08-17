@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickyfin/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickyfin.png" alt="Mickyfin" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickyfin</strong><br>The Poison Fish Mickémon</figcaption>
+</figure>
+
 # Mickyfin
 
 **Type:** Water / Poison  
