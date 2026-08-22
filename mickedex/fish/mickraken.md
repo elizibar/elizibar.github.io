@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickraken/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickraken.png" alt="Mickraken" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickraken</strong><br>The Kraken Mickémon</figcaption>
+</figure>
+
 # Mickraken
 
 **Type:** Water / Dark  
@@ -23,3 +28,6 @@ Evolves from Micktopus at level 38.
 
 **Previous Evolution:** Micktopus (Lv 38)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickraken](/assets/images/mickraken.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
