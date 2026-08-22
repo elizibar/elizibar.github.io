@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/deadmick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/deadmick.png" alt="Deadmick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Deadmick</strong><br>The Deceased Elder Mickémon</figcaption>
+</figure>
+
 # Deadmick
 
 **Type:** Normal / Ghost  
@@ -22,3 +27,6 @@ Evolves when Realoldmick Faints in battle.
 
 **Previous Evolution:** Realoldmick (Faint)  
 **Next Evolution(s):** -
+
+### Gallery
+![Deadmick](/assets/images/deadmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
