@@ -5,7 +5,7 @@ permalink: /mickedex/realoldmick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/realdoldmick.png" alt="Real Old Mick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/realoldmick.png" alt="Real Old Mick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Real Old Mick</strong><br>The True Elder Mickémon</figcaption>
 </figure>
 
