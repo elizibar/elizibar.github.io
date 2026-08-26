@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickgriffin/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickgriffin.png" alt="Mickgriffin" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickgriffin</strong><br>The Noble Griffin Mickémon</figcaption>
+</figure>
+
 # Mickgriffin
 
 **Type:** Flying / Ground  
@@ -23,3 +28,6 @@ Evolves from Mickoblin when levelling while holding a Sharp Beak.
 
 **Previous Evolution:** Mickus (Sharp Beak)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickgriffin](/assets/images/mickgriffin.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
