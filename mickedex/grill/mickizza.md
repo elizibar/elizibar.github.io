@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickizza/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickizza.png" alt="Mickizza" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickizza</strong><br>The Pizza Mickémon</figcaption>
+</figure>
+
 # Mickizza
 
 **Type:** Fire / Grass  
@@ -23,3 +28,6 @@ Evolves when trained by the Duke of the Grill.
 
 **Previous Evolution:** Mickus (Grill)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickizza](/assets/images/mickizza.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
