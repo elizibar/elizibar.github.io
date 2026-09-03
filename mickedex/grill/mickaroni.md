@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickaroni/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickaroni.png" alt="Mickaroni" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickaroni</strong><br>The Pasta Mickémon</figcaption>
+</figure>
+
 # Mickaroni
 
 **Type:** Normal / Fighting  
@@ -23,3 +28,6 @@ Evolves from Mickus when trained by the Duke of the Grill.
 
 **Previous Evolution:** Mickus (Grill)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickaroni](/assets/images/mickaroni.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
