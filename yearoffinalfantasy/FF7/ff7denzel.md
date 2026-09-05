@@ -1,5 +1,5 @@
 ---
-title: On the Way to a Smile - Episode: Denzel
+title: "On the Way to a Smile - Episode: Denzel"
 layout: default
 permalink: /yearoffinalfantasy/ff7denzel/
 ---

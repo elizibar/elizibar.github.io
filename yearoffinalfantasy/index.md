@@ -14,7 +14,7 @@ permalink: /yearoffinalfantasy/
 [Final Fantasy II Pixel Remaster](/yearoffinalfantasy/ff2pr/)  
 
 ### [Final Fantasy III](/yearoffinalfantasy/ff3series/)
-**Final Fantasy III 3D Remaster** - [Final Fantasy III 3D Remaster](/yearoffinalfantasy/ff33d/)  
+[Final Fantasy III 3D Remaster](/yearoffinalfantasy/ff33d/) - **Final Fantasy III Pixel Remaster** -
 
 ### [Final Fantasy IV](/yearoffinalfantasy/ff4series/)
 **Final Fantasy IV 3D Remaster** - [Final Fantasy IV Pixel Remaster](/yearoffinalfantasy/ff4pr/) - [Final Fantasy IV: The After Years](/yearoffinalfantasy/ff4tay/)  

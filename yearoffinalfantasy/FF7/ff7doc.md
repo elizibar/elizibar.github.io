@@ -1,5 +1,5 @@
 ---
-title: Dirge of Cerberus: Final Fantasy VII
+title: "Dirge of Cerberus: Final Fantasy VII"
 layout: default
 permalink: /yearoffinalfantasy/ff7doc/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII: The Kids Are Alright: A Turks Side Story
+title: "Final Fantasy VII: The Kids Are Alright: A Turks Side Story"
 layout: default
 permalink: /yearoffinalfantasy/ff7turks/
 ---

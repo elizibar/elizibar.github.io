@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII: On the Way to a Smile
+title: "Final Fantasy VII: On the Way to a Smile"
 layout: default
 permalink: /yearoffinalfantasy/ff7smile/
 ---
