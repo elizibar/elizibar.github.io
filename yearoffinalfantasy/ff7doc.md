@@ -9,13 +9,13 @@ permalink: /yearoffinalfantasy/ff7doc/
 **System**:  PS2  
 **Release Date**:  August 15, 2006  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Played**:    
+**Date Played**:  August 23, 2026 - September 4, 2026  
 
 ### Verdict
-
+Great ending, okay beginning, rough everything else.
 
 ### YouTube Playlist
 
 ### Order
-**Previous Game**:  [template](/yearoffinalfantasy/ff7template/)
+**Previous Game**:  [Final Fantasy VII: The Kids Are Alright: A Turks Side Story](/yearoffinalfantasy/ff7turks/)
 **Next Game**:  [template](/yearoffinalfantasy/ff7template/)

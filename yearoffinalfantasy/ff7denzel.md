@@ -18,4 +18,4 @@ permalink: /yearoffinalfantasy/ff7denzel/
 
 ### Order
 **Previous Game**:  [Last Order: Final Fantasy VII](/yearoffinalfantasy/ff7lo/)  
-**Next Game**:  [template](/yearoffinalfantasy/ff7template/)
+**Next Game**:  [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)

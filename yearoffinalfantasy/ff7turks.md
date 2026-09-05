@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ff7turks/
 **System**:  Book  
 **Release Date**:  January 22, 2019  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Played**:    
+**Date Played**:  Early-August 2026 through Mid-August 2026  
 
 ### Verdict
 
@@ -17,5 +17,5 @@ permalink: /yearoffinalfantasy/ff7turks/
 ### YouTube Playlist
 
 ### Order
-**Previous Game**:  [template](/yearoffinalfantasy/ff7template/)
-**Next Game**:  [template](/yearoffinalfantasy/ff7template/)
+**Previous Game**:  [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)
+**Next Game**:  [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7template/)

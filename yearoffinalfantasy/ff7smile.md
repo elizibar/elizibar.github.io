@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ff7smile/
 **System**:  Book  
 **Release Date**:  October 30, 2018  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Played**:    
+**Date Played**:  July 26, 2026 through Early-August 2026  
 
 ### Verdict
 
@@ -17,5 +17,5 @@ permalink: /yearoffinalfantasy/ff7smile/
 ### YouTube Playlist
 
 ### Order
-**Previous Game**:  [template](/yearoffinalfantasy/ff7template/)
-**Next Game**:  [template](/yearoffinalfantasy/ff7template/)
+**Previous Game**:  [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7denzel/)
+**Next Game**:  [Final Fantasy VII: The Kids Are Alright: A Turks Side Story](/yearoffinalfantasy/ff7turks/)
