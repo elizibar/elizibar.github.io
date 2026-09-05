@@ -17,5 +17,5 @@ permalink: /yearoffinalfantasy/ff7smile/
 ### YouTube Playlist
 
 ### Order
-**Previous Game**:  [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7denzel/)
+**Previous Game**:  [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7denzel/)  
 **Next Game**:  [Final Fantasy VII: The Kids Are Alright: A Turks Side Story](/yearoffinalfantasy/ff7turks/)

@@ -17,5 +17,5 @@ permalink: /yearoffinalfantasy/ff7turks/
 ### YouTube Playlist
 
 ### Order
-**Previous Game**:  [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)
-**Next Game**:  [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7template/)
+**Previous Game**:  [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)  
+**Next Game**:  [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7doc/)
