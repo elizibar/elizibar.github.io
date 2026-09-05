@@ -1,15 +1,24 @@
 ---
-title: Final Fantasy Series
+title: Final Fantasy XII: Zodiac Age
 layout: default
-permalink: /yearoffinalfantasy/ff12series/
+permalink: /yearoffinalfantasy/ff12/
 ---
 
-# Final Fantasy Series
+# Final Fantasy XII: Zodiac Age
 
-Final Fantasy has been released on numerous platforms over the years.  Originally release on the NES, it is available on everything from the NES, to the Gameboy Advance, to cellphones, to the PC.
+**System**: Steam (PC)  
+**Release Date**: February 1, 2018  
+**Related Sub-Series**: Final Fantasy XII, Ivalice  
+**Date Played**: July 27, 2025 through August 24, 2025  
 
-The series also includes an alternate universe prequel to the original game, called Stranger of Paradise Final Fantasy Origin.
+### Verdict
+How do you feel about this?
 
-# Games
-[Final Fantasy Pixel Remaster](/yearoffinalfantasy/ff1pr/)  
-**Stranger of Paradise Final Fantasy Origin**  
+### YouTube Links
+[Final Fantasy XII: Zodiac Age Full Playthrough Playlist](https://www.youtube.com/playlist?list=PL-oNO4nnzhsUlGL3WUfZO0x4O1utfvtHz)
+
+### Order
+**Previous Game**: [Final Fantasy VII Remake](/yearoffinalfantasy/ff7remake/)  
+**Next Game**: [Final Fantasy XVI](/yearoffinalfantasy/ff16/)  
+
+[Return to the Year of Final Fantasy](/yearoffinalfantasy/)
