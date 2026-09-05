@@ -30,6 +30,11 @@ I would recommend this version. It smooths over the rough edges of the original 
 
 ### Order
 **Previous Game**: [Final Fantasy XVI](/yearoffinalfantasy/ff16/)  
-**Next Game**: [Final Fantasy II Pixel Remaster](/yearoffinalfantasy/ff2pr/)
+**Next Game**: [Final Fantasy II Pixel Remaster](/yearoffinalfantasy/ff2pr/)  
+
+### Links
+
+- [FINAL FANTASY Pixel Remaster on Steam](https://store.steampowered.com/app/1173770/FINAL_FANTASY/)
+- [Final Fantasy (1987) on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
