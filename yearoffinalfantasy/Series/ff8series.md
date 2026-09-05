@@ -1,7 +1,7 @@
 ---
 title: Final Fantasy Series
 layout: default
-permalink: /yearoffinalfantasy/ff1series/
+permalink: /yearoffinalfantasy/ff8series/
 ---
 
 # Final Fantasy Series

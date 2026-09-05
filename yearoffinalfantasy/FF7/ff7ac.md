@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII: Advent Children
+title: "Final Fantasy VII: Advent Children"
 layout: default
 permalink: /yearoffinalfantasy/ff7ac/
 ---

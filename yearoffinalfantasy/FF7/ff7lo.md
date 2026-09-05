@@ -1,5 +1,5 @@
 ---
-title: Last Order: Final Fantasy VII
+title: "Last Order: Final Fantasy VII"
 layout: default
 permalink: /yearoffinalfantasy/ff7lo/
 ---
