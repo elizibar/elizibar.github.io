@@ -39,3 +39,5 @@ Rather than a direct prequel or remake, it reimagines key locations, characters,
 - [Stranger of Paradise: Final Fantasy Origin on Wikipedia](https://en.wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin)
 - [STRANGER OF PARADISE FINAL FANTASY ORIGIN on Steam](https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/)
 - [Official Stranger of Paradise site](https://www.square-enix-games.com/sopffo)
+
+[Return to the Year of Final Fantasy](/yearoffinalfantasy/)

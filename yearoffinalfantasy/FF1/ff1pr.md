@@ -31,3 +31,5 @@ I would recommend this version. It smooths over the rough edges of the original 
 ### Order
 **Previous Game**: [Final Fantasy XVI](/yearoffinalfantasy/ff16/)  
 **Next Game**: [Final Fantasy II Pixel Remaster](/yearoffinalfantasy/ff2pr/)
+
+[Return to the Year of Final Fantasy](/yearoffinalfantasy/)
