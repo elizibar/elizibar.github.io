@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickreon/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mickreon.png" alt="Mickreon" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickreon</strong><br>The Fake Flareon Mickémon</figcaption>
+</figure>
+
 # Mickreon
 
 **Type:** Fire  
@@ -23,3 +28,6 @@ Evolves from Meekee when it has a Fire Stone used on it.
 
 **Previous Evolution:** Meekee (Fire Stone)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickreon](/assets/images/mickreon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

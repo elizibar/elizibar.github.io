@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/meekee/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/meekee.png" alt="Meekee" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Meekee</strong><br>The Fake Eevee Mickémon</figcaption>
+</figure>
+
 # Meekee
 
 **Type:** Normal  
@@ -23,3 +28,6 @@ Evolves when a Mickus defeats an Eevee in battle.
 
 **Previous Evolution:** Mickus (Eevee)  
 **Next Evolution(s):** Mikporeon, Milteon, Mickreon, Mispeon, Milbreon, Milfeon, Mickeon, Mylveon
+
+### Gallery
+![Meekee](/assets/images/meekee.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

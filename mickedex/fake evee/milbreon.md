@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/milbreon/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/milbreon.png" alt="Milbreon" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Milbreon</strong><br>The Fake Umbreon Mickémon</figcaption>
+</figure>
+
 # Milbreon
 
 **Type:** Dark  
@@ -23,3 +28,6 @@ Evolves from Meekee when it levels at Night with High Friendship.
 
 **Previous Evolution:** Meekee (Night)  
 **Next Evolution(s):** -
+
+### Gallery
+![Milbreon](/assets/images/milbreon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

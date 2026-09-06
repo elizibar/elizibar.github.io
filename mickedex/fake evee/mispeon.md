@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mispeon/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mispeon.png" alt="Mispeon" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mispeon</strong><br>The Fake Espeon Mickémon</figcaption>
+</figure>
+
 # Mispeon
 
 **Type:** Psychic  
@@ -23,3 +28,6 @@ Evolves from Meekee when it levels at Day with High Friendship.
 
 **Previous Evolution:** Meekee (Day)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mispeon](/assets/images/mispeon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

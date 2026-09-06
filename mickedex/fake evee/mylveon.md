@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mylveon/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mylveon.png" alt="Mylveon" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mylveon</strong><br>The Fake Sylveon Mickémon</figcaption>
+</figure>
+
 # Mylveon
 
 **Type:** Fairy  
@@ -23,3 +28,6 @@ Evolves from Meekee while knowing a Fairy-type move and having High Friendship.
 
 **Previous Evolution:** Meekee (Fairy-type Move)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mylveon](/assets/images/mylveon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
