@@ -10,6 +10,8 @@ permalink: /yearoffinalfantasy/ff4series/
 
 A note on the naming: when Square localized the series for North America, they skipped the real Final Fantasy II and III. The game released in the US as "Final Fantasy II" on the Super Nintendo was actually *Final Fantasy IV*. Later re-releases restored the correct numbering.
 
+The original North American SNES translation (handled by Ted Woolsey) also made a number of changes to meet Nintendo of America’s content guidelines. Religious references were softened, some dialogue was cleaned up, and certain lines were rewritten in a more dramatic or flowery style. This produced a few famously odd and memorable moments, the most well-known being Tellah’s outburst "You spoony bard!" directed at Edward. Some players treat lines like this as awkward or inaccurate translation; others consider them part of the charm of the early localized games. Later versions (GBA, PSP, DS, and the Pixel Remaster) use cleaner, more accurate scripts while still keeping a few of the classic quirks in spirit.
+
 Major versions and related games include:
 
 - **Super Famicom / SNES** (July 19, 1991 Japan / November 23, 1991 North America) - The original release. The North American version was slightly altered and released under the Final Fantasy II title.
@@ -26,7 +28,9 @@ Reception for the main game has been consistently strong. Final Fantasy IV is wi
 
 *Final Fantasy IV: The After Years* is a direct sequel set roughly 17 years after the events of the original game. It was first released in episodic form on Japanese mobile phones in 2008, then on WiiWare, and later collected in the PSP Complete Collection. A 3D remake in the style of the DS version of Final Fantasy IV arrived on mobile and PC in the mid-2010s.
 
-The story focuses on the next generation (particularly Ceodore, the son of Cecil and Rosa) while bringing back most of the original cast. It is very much a fan-service project that revisits many locations, characters, and even bosses from the first game.
+The PSP release (*Final Fantasy IV: The Complete Collection*) also included a short original scenario called *Final Fantasy IV: Interlude*. It sits between the original game and *The After Years*, focusing on the main cast in the years after the events of Final Fantasy IV and helping bridge the two stories.
+
+The story of *The After Years* focuses on the next generation (particularly Ceodore, the son of Cecil and Rosa) while bringing back most of the original cast. It is very much a fan-service project that revisits many locations, characters, and even bosses from the first game.
 
 Reception has been mixed. Some players appreciated the chance to catch up with the characters and enjoyed the nostalgia, while others found the storytelling fragmented, the encounter rate frustrating, and the overall experience too reliant on rehashing the original. The original episodic release structure and pricing also drew criticism. It sits as an optional continuation rather than an essential part of the core Final Fantasy IV experience for many players.
 
