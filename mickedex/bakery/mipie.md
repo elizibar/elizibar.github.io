@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mipie/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mipie.png" alt="Mipie" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mipie</strong><br>The Pie Mickémon</figcaption>
+</figure>
+
 # Mipie
 
 **Type:** Fairy / Grass  
@@ -23,3 +28,6 @@ Evolves from Mickus when trained by the Angel of Cakes.
 
 **Previous Evolution:** Mickus (Bakery)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mipie](/assets/images/mipie.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
