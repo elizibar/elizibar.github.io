@@ -5,7 +5,7 @@ permalink: /mickedex/milteon/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/Milteon.png" alt="Milteon" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/milteon.png" alt="Milteon" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Milteon</strong><br>The Fake Jolteon Mickémon</figcaption>
 </figure>
 
