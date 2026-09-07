@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ff7evercrisis/
 **System**:  Steam (PC)  
 **Release Date**:  December 6, 2023  
 **Related Sub-Series**  Final Fantasy VII  
-**Date Played**:  July 7, 2026 through August 16, 2026, plus content updates on August 27, 2026, August 30, 2026, and 
+**Date Played**:  July 7, 2026 through August 16, 2026, plus content updates on August 27, 2026, August 30, 2026, and September 6, 2026.
 
 ### Verdict
 I can't believe Square published the Before Crisis content and then immediately announced the cancelation of Ever Crisis.
