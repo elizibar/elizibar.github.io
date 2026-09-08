@@ -21,7 +21,7 @@ Reception for the original was positive in Japan, with particular praise for the
 # Games
 
 [Final Fantasy III Pixel Remaster](/yearoffinalfantasy/ff3pr/)  
-[Final Fantasy III 3D Remaster](/yearoffinalfantasy/ff3ds/)
+[Final Fantasy III 3D Remaster](/yearoffinalfantasy/ff33d/)
 
 ### Links
 
