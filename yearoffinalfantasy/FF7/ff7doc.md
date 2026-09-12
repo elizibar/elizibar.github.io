@@ -6,6 +6,11 @@ permalink: /yearoffinalfantasy/ff7doc/
 
 # Dirge of Cerberus: Final Fantasy VII
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/FF/vincentvalentinewigglypain.gif" alt="Vincent Valentine Wiggly Paint Doodle" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>The Cerberus is Dirging</strong></figcaption>
+</figure>
+
 **System**: PS2  
 **Release Date**: August 15, 2006  
 **Related Sub-Series**: [Final Fantasy VII Series](/yearoffinalfantasy/ff7series/)  
