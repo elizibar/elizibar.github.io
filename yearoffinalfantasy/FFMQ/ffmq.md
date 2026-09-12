@@ -23,6 +23,8 @@ The soundtrack has a couple of bangers and the menus are easy to navigate. Diffi
 
 I've played it three or four times over the years. I think I'm good. The optional content is mostly those convenient battlefield areas with a set number of encounters that give XP, money, and loot. They're pretty quick and easy and not too big of an investment.
 
+Side note, I bought it on sale at a Babbage's after Christmas, marked down to $20 bucks and I've sure gotten my money's worth.
+
 ### YouTube Links
 
 ### Order
