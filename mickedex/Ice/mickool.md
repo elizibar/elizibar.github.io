@@ -5,7 +5,7 @@ permalink: /mickedex/mickool/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickool.png" alt="Mickool" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickool.png" alt="Mickool" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickool</strong><br>The Cool Dude Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickool evolves from Mickus when an Ice Stone is used on it.  Mickool evolves in
 **Next Evolution(s):** Mickooler (Level 33), Mickube (Never-Melting Ice)
 
 ### Gallery
-![Mickool](/assets/images/mickool.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickool](/assets/images/mick/mickool.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

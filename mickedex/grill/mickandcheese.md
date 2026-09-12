@@ -5,7 +5,7 @@ permalink: /mickedex/mickandcheese/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickandcheese.png" alt="Mickandcheese" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickandcheese.png" alt="Mickandcheese" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>MIckandcheese</strong><br>The Comfort Food Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickus when trained by the Duke of the Grill.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickandcheese](/assets/images/mickandcheese.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickandcheese](/assets/images/mick/mickandcheese.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

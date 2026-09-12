@@ -5,7 +5,7 @@ permalink: /mickedex/grim-mick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/grim-mick.png" alt="Grim Mick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/grim-mick.png" alt="Grim Mick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Grim Mick</strong><br>The Reaper Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Grim Mick evolves from Micknight when a Reaper Cloth is used on it.  Evolves int
 **Next Evolution(s):** Micksterious (Level 60), Mickaboo (Fairy)
 
 ### Gallery
-![Grim Mick](/assets/images/grim-mick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Grim Mick](/assets/images/mick/grim-mick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

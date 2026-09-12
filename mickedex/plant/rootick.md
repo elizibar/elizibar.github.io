@@ -5,7 +5,7 @@ permalink: /mickedex/rootick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/rootick.png" alt="Rootick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/rootick.png" alt="Rootick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Rootick</strong><br>The Angry Root Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Evolves from Plantcas at level 34.  Evolves into Druimick if it levels while kno
 **Next Evolution(s):** Druimick (Fairy-type Move)  
 
 ### Gallery
-![Pokemon Name](/assets/images/rootick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Pokemon Name](/assets/images/mick/rootick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

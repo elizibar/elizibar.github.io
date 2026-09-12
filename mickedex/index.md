@@ -142,13 +142,13 @@ Mickasaurus - Rock/Dragon fossil revival beast.
 
 # Gallery
 **Cordia Region Map**  
-![Cordia Region Map](/assets/images/Cordia.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Cordia Region Map](/assets/images/mick/Cordia.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 **Size Comparison of some Mickus Evolutions**  
-![Mickus Evolution Size Comparison](/assets/images/size-comparison.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickus Evolution Size Comparison](/assets/images/mick/size-comparison.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 **Typical Cordia Region Mickemon Trainer at Sea**  
-![Typical Cordia Region Mickemon Trainer](/assets/images/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Typical Cordia Region Mickemon Trainer](/assets/images/mick/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 **Professor Lucas's Original Notes on Evolution**
-![Professor Lucas's Evolution Chart](/assets/images/mickvolution.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Professor Lucas's Evolution Chart](/assets/images/mick/mickvolution.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

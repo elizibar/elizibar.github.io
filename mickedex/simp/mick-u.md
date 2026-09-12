@@ -5,7 +5,7 @@ permalink: /mickedex/mick-u/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/micku.png" alt="Mick U" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/micku.png" alt="Mick U" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mick U</strong><br>The Simp Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mick U evolves from Mickus when a Love Stone is used on it.  It evolves to Mick 
 **Next Evolution(s):** Mick U Supreme (Given Items), Mickflix (Rest), Mickstream (Lv 30), Mickshrimp (Micktopus or Mickraken)
 
 ### Gallery
-![Mick U](/assets/images/micku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mick U](/assets/images/mick/micku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/micklord/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/micklord.png" alt="Micklord" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/micklord.png" alt="Micklord" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Micklord</strong><br>The Shadow King Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Micklord evolves from Micknight at level 40.  Evolves into Micksterious at level
 **Next Evolution(s):** Micksterious (Level 60)
 
 ### Gallery
-![Micklord](/assets/images/micklord.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Micklord](/assets/images/mick/micklord.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

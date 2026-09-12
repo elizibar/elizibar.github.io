@@ -5,7 +5,7 @@ permalink: /mickedex/plantcas/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/plantcas2.png" alt="Plantcas" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/plantcas2.png" alt="Plantcas" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Plantcas</strong><br>The Root Vegetable Mickémon</figcaption>
 </figure>
 
@@ -31,6 +31,6 @@ Plantcas evolves from Mickus if a Leaf Stone is used on it.  Depending on its pe
 **Next Evolution(s):** Planthat or Rootick (Personality Value split), Mickberry (Berry), Mickintosh (Any Apple), Mickle (Poison status), Druimick (Fairy-type move)
 
 ### Gallery
-![Plantcas](/assets/images/plantcas.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Plantcas](/assets/images/plantcas2.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Plantcas Gen 1 Game Appearance](/assets/images/plantcasgame.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Plantcas](/assets/images/mick/plantcas.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Plantcas](/assets/images/mick/plantcas2.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Plantcas Gen 1 Game Appearance](/assets/images/mick/plantcasgame.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

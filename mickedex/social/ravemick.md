@@ -5,7 +5,7 @@ permalink: /mickedex/ravemick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/ravemick.png" alt="Ravemick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/ravemick.png" alt="Ravemick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Ravemick</strong><br>The Rave Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Ravemick evolves when two Partymicks are traded for each other.  Both will becom
 **Next Evolution(s):** -
 
 ### Gallery
-![Ravemick](/assets/images/ravemick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Ravemick](/assets/images/mick/ravemick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

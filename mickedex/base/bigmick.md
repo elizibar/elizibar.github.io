@@ -5,7 +5,7 @@ permalink: /mickedex/bigmick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/bigmick.png" alt="Bigmick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/bigmick.png" alt="Bigmick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Bigmick</strong><br>The Largest Gremlin Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Bigmick evolves from Mickey at level 60.  Upon evolving into Bigmick, it is retu
 **Next Evolution(s):** Almost any other Mickus evolution.  
 
 ### Gallery
-![Bigmick](/assets/images/bigmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Bigmick](/assets/images/mick/bigmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

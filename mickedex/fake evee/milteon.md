@@ -5,7 +5,7 @@ permalink: /mickedex/milteon/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/milteon.png" alt="Milteon" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/milteon.png" alt="Milteon" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Milteon</strong><br>The Fake Jolteon Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Meekee when a Thunder Stone is used on it.
 **Next Evolution(s):** -
 
 ### Gallery
-![Milteon](/assets/images/milteon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Milteon](/assets/images/mick/milteon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/slicus/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/slicus.png" alt="Slicus" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/slicus.png" alt="Slicus" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Slicus</strong><br>The Razor Assassin Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Slicus evolves from an Ickus holding a Razor Claw when it levels at Night.
 **Next Evolution(s):** -
 
 ### Gallery
-![Slicus](/assets/images/slicus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Slicus](/assets/images/mick/slicus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

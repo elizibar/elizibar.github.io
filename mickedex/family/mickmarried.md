@@ -5,7 +5,7 @@ permalink: /mickedex/mickmarried/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickmarried.png" alt="Mickmarried" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickmarried.png" alt="Mickmarried" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickmarried</strong><br>The Union Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ When Sir Mick and Lady Miku are in the same party together and one levels up, th
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickmarried](/assets/images/mickmarried.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickmarried](/assets/images/mick/mickmarried.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

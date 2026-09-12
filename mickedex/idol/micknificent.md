@@ -5,7 +5,7 @@ permalink: /mickedex/micknificent/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/micknificent.png" alt="Micknificent" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/micknificent.png" alt="Micknificent" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Micknificent</strong><br>The Spectacular Star Mickémon</figcaption>
 </figure>
 
@@ -40,4 +40,4 @@ This makes Micknificent function as a regional Legendary in terms of exclusivity
 **Next Evolution(s):** -
 
 ### Gallery
-![Micknificent](/assets/images/micknificent.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Micknificent](/assets/images/mick/micknificent.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

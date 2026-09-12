@@ -73,7 +73,7 @@ A series of low-lying coral atolls in the Northeast of the region, it's where Pr
 
 ### Gallery
 **Cordia Region Map**  
-![Cordia Region Map](/assets/images/Cordia.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Cordia Region Map](/assets/images/mick/Cordia.jpg){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 **Typical Cordia Region Mickémon Trainer at Sea**  
-![Typical Cordia Region Mickémon Trainer](/assets/images/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Typical Cordia Region Mickémon Trainer](/assets/images/mick/oldmickandthesea.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/mickachu/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickachu.png" alt="Mickachu" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickachu.png" alt="Mickachu" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickachu</strong><br>The Mullet Rodent Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Evolves into Mickachu X at level 38 or into Mickatron with an Electerizer.
 **Next Evolution(s):** Mickachu X (Level 38), Mickatron (Electerizer), Mickrowave (Mickintosh), Mickrochip (Mickintosh)
 
 ### Gallery
-![Mickachu(/assets/images/mickachu.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickachu(/assets/images/mick/mickachu.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

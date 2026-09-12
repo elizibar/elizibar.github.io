@@ -5,7 +5,7 @@ permalink: /mickedex/mickyfin/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickyfin.png" alt="Mickyfin" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickyfin.png" alt="Mickyfin" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickyfin</strong><br>The Poison Fish Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Mickyfin is what happens when Swimick fully doubles down on its fish delusion. I
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickyfin](/assets/images/mickyfin.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickyfin](/assets/images/mick/mickyfin.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

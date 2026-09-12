@@ -5,7 +5,7 @@ permalink: /mickedex/planthat/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/planthat.png" alt="Planthat" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/planthat.png" alt="Planthat" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Planthat</strong><br>The Bit Hat Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Evolves from Plantcas at level 34.  Evolves into Druimick if it levels while kno
 **Next Evolution(s):** Druimick (Fairy-type Move)  
 
 ### Gallery
-![Planthat](/assets/images/planthat.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Planthat](/assets/images/mick/planthat.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

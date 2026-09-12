@@ -5,7 +5,7 @@ permalink: /mickedex/mickrorganism/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickrorganism.png" alt="Mickrorganism" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickrorganism.png" alt="Mickrorganism" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickrorganism</strong><br>The Colony Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Evolves from Mickmasses when it's shrunken in a SCIENCE Laboratory.
 **Next Evolution(s):** Mickreef (Leaf Stone), Mickoral (Fairy Feather)
 
 ### Gallery
-![Mickrorganism](/assets/images/mickrorganism.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickrorganism](/assets/images/mick/mickrorganism.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

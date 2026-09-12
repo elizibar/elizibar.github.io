@@ -5,7 +5,7 @@ permalink: /mickedex/unterseemick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/unterseemick.png" alt="Unterseemick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/unterseemick.png" alt="Unterseemick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Unterseemick</strong><br>The Submarine Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Evolves from Tormick at level 40.
 **Next Evolution(s):** -
 
 ### Gallery
-![Unterseemick](/assets/images/unterseemick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Unterseemick](/assets/images/mick/unterseemick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

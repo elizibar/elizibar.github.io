@@ -5,7 +5,7 @@ permalink: /mickedex/micknight/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/micknight.png" alt="Micknight" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/micknight.png" alt="Micknight" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Micknight</strong><br>The Edgelord Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Micknight evolves from Mickus when a Dusk Stone is used on it.  Evolves into Gri
 **Next Evolution(s):** Micklord (Level 40), Grim Mick (Reaper Cloth), MIckster (Fairy)
 
 ### Gallery
-![Micknight](/assets/images/micknight.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Micknight](/assets/images/mick/micknight.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

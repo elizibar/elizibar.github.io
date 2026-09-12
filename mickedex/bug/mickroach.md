@@ -5,7 +5,7 @@ permalink: /mickedex/mickroach/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickroach.png" alt="Mickroach" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickroach.png" alt="Mickroach" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickroach</strong><br>The Indestructible Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickroach evolves from Sleepymick when it levels up in a Cave.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickroach](/assets/images/mickroach.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickroach](/assets/images/mick/mickroach.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

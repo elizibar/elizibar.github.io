@@ -5,7 +5,7 @@ permalink: /mickedex/micknife/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/micknife.png" alt="Micknife" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/micknife.png" alt="Micknife" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Micknife</strong><br>The Knife Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Evolves when Sleepymick levels up while holding Black Glasses.
 **Next Evolution(s):** -
 
 ### Gallery
-![Micknife](/assets/images/micknife.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Micknife](/assets/images/mick/micknife.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

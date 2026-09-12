@@ -5,7 +5,7 @@ permalink: /mickedex/mickey/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickey.png" alt="Mickey" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickey.png" alt="Mickey" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickey</strong><br>The Bigger Gremlin Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Mickey can evolve into every other form that Mickus can, except for Minimick.  M
 **Next Evolution(s):** Bigmick (Level 99), almost any other Mickus evolution.
 
 ### Gallery
-![Mickey](/assets/images/mickey.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickey](/assets/images/mick/mickey.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

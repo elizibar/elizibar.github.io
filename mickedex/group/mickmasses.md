@@ -5,7 +5,7 @@ permalink: /mickedex/mickmasses/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickmasses.png" alt="Mickmasses" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickmasses.png" alt="Mickmasses" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickmasses</strong><br>The Hat Pile Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickmasses evolves if there is a team consisting of 6 basic Mickus.  When one le
 **Next Evolution(s):** Mickmassive (Protein Shake)  
 
 ### Gallery
-![Mickmasses](/assets/images/mickmasses.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickmasses](/assets/images/mick/mickmasses.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

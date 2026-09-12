@@ -5,7 +5,7 @@ permalink: /mickedex/mickmon/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickmon.png" alt="Mickmon" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickmon.png" alt="Mickmon" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickmon</strong><br>The Pixel Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickmon evolves from Mickus when it is traded while holding a Game Cartridge.  M
 **Next Evolution(s):** Mickmonga (Level 42), Mickmickboom (Steel-type), Helimick (Flying and Steel), Mickeart (Attract), Mickinabox (Strange Coupon), Tormick (Water and Steel), Mickmunition (Mickmickboom), Mickouth (Alluring Voice), Micktoon (Fairy-type)
 
 ### Gallery
-![Mickmon](/assets/images/mickmon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickmon](/assets/images/mick/mickmon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

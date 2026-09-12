@@ -5,7 +5,7 @@ permalink: /mickedex/mickle/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickle.png" alt="Mickle" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickle.png" alt="Mickle" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickle</strong><br>The Sour Pickle Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Mickle evolves from Plantcas or Ickus after being cured of Poison status 3 times
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickle](/assets/images/mickle.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickle](/assets/images/mick/mickle.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

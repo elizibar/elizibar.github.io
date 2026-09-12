@@ -5,7 +5,7 @@ permalink: /mickedex/mixel/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mixel.png" alt="Mixel" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mixel.png" alt="Mixel" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mixel</strong><br>The Glitch Sprite Mickémon</figcaption>
 </figure>
 
@@ -34,19 +34,19 @@ Evolves from Mickmonga if Mickmonga levels up while holding a Fairy Feather or i
 
 ### Gallery
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
-  <img src="/assets/images/mixel.png" alt="Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/glitch-mixel.gif" alt="Glitching Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/pixel-mixel.gif" alt="Shifting Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/blocks_16x16.png" alt="Corrupted Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/blocks_32x32.png" alt="Corrupted Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/blocks_64x64.png" alt="Corrupted Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/conjoined_16x16.png" alt="Doubled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/conjoined_32x32.png" alt="Doubled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/conjoined_64x64.png" alt="Doubled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/reversea_32x32.png" alt="Inverted Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/reverseb_16x16a.png" alt="Garbled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/lined_16x16.png" alt="Garbled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/lined_32x32.png" alt="Garbled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/lined_64x64.png" alt="Spectral Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="/assets/images/mixels/lined_128x128.png" alt="Spectral Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixel.png" alt="Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/glitch-mixel.gif" alt="Glitching Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/pixel-mixel.gif" alt="Shifting Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/blocks_16x16.png" alt="Corrupted Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/blocks_32x32.png" alt="Corrupted Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/blocks_64x64.png" alt="Corrupted Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/conjoined_16x16.png" alt="Doubled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/conjoined_32x32.png" alt="Doubled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/conjoined_64x64.png" alt="Doubled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/reversea_32x32.png" alt="Inverted Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/reverseb_16x16a.png" alt="Garbled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/lined_16x16.png" alt="Garbled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/lined_32x32.png" alt="Garbled Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/lined_64x64.png" alt="Spectral Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/mick/mixels/lined_128x128.png" alt="Spectral Mixel" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
 </div>

@@ -5,7 +5,7 @@ permalink: /mickedex/oldmick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/oldmick.png" alt="Oldmick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/oldmick.png" alt="Oldmick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Oldmick</strong><br>The Grumpy Elder Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Mickus evolves into Oldmick when it levels up while knowing 4 moves that it lear
 **Next Evolution(s):** Realoldmick (Everstone)  
 
 ### Gallery
-![Oldmick](/assets/images/oldmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Oldmick](/assets/images/mick/oldmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

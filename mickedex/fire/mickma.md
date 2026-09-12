@@ -5,7 +5,7 @@ permalink: /mickedex/mickma/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickma.png" alt="Mickma" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickma.png" alt="Mickma" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickma</strong><br>The Majma Kaiju Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Mickma evolves into Mickmagma at level 38, or into Mickblaze when a Magmarizer i
 **Next Evolution(s):** Mickmagma, Mickblaze
 
 ### Gallery
-![Mickma](/assets/images/mickma.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickma](/assets/images/mick/mickma.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

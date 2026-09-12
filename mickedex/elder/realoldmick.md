@@ -5,7 +5,7 @@ permalink: /mickedex/realoldmick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/realoldmick.png" alt="Real Old Mick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/realoldmick.png" alt="Real Old Mick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Real Old Mick</strong><br>The True Elder Mickémon</figcaption>
 </figure>
 
@@ -32,4 +32,4 @@ Evolves from Oldmick when it levels while holding an Everstone.
 **Next Evolution(s):** Deadmick (Fainting)
 
 ### Gallery
-![Real Old Mick](/assets/images/realoldmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Real Old Mick](/assets/images/mick/realoldmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

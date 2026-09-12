@@ -5,7 +5,7 @@ permalink: /mickedex/mickdrake/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickdrake.png" alt="Mickdrake" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickdrake.png" alt="Mickdrake" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickdrake</strong><br>The Legendary Dragon Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickdrake evolves from Mickizard when a Dragon Scale is used on it.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickdrage](/assets/images/mickdrake.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickdrage](/assets/images/mick/mickdrake.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

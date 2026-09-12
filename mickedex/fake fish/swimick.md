@@ -5,7 +5,7 @@ permalink: /mickedex/swimick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/swimick.png" alt="Swimick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/swimick.png" alt="Swimick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Swimick</strong><br>The Delusional Fish Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Swimick evolves from Mickus after traveling 1000 steps in water without touching
 **Next Evolution(s):** Mickyfin  
 
 ### Gallery
-![Swimick](/assets/images/swimick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Swimick](/assets/images/mick/swimick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

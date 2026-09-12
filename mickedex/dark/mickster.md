@@ -5,7 +5,7 @@ permalink: /mickedex/mickster/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickster.png" alt="Mickster" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickster.png" alt="Mickster" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickster</strong><br>The Illusionist Trickster Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Mickster evolves from Micknight when it levels while knowing a Fairy-type move.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickster](/assets/images/mickster.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickster](/assets/images/mick/mickster.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

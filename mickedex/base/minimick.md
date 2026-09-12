@@ -5,7 +5,7 @@ permalink: /mickedex/minimick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/minimick.png" alt="Minimick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/minimick.png" alt="Minimick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Minimick</strong><br>The Tiny Gremlin Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Upon levelling up one time, Minimick evolves into Mickus.
 **Next Evolution(s):** Mickus (level up once)  
 
 ### Gallery
-![Minimick](/assets/images/minimick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Minimick](/assets/images/mick/minimick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

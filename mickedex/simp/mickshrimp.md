@@ -5,7 +5,7 @@ permalink: /mickedex/mickshrimp/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickshrimp.png" alt="Mickshrimp" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickshrimp.png" alt="Mickshrimp" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickshrimp</strong><br>The Shrimp Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Evolves from Mick U after participating with a Micktopus or Mickraken and winnin
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickshrimp](/assets/images/mickshrimp.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickshrimp](/assets/images/mick/mickshrimp.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

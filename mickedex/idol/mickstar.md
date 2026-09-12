@@ -5,7 +5,7 @@ permalink: /mickedex/mickstar/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickstar.png" alt="Mickstar" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickstar.png" alt="Mickstar" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickstar</strong><br>The Pop Superstar Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickstar evolves from Miku when it levels while knowing Hyper Voice.
 **Next Evolution(s):** Micknificent (Fairy Feather)  
 
 ### Gallery
-![Mickstar](/assets/images/mickstar.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickstar](/assets/images/mick/mickstar.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/mickbug/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickbug.png" alt="MIckbug" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickbug.png" alt="MIckbug" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>MIckbug</strong><br>The Antenna Hat Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickbug evolves from Sleepymick when it levels up in a forest.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickbug](/assets/images/mickbug.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickbug](/assets/images/mick/mickbug.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

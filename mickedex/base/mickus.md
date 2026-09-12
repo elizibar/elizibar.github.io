@@ -5,7 +5,7 @@ permalink: /mickedex/mickus/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickus.png" alt="Mickus" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickus.png" alt="Mickus" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
 </figure>
 
@@ -33,6 +33,6 @@ Mickus's evolutions are too numerous to enumerate here.
 **Next Evolution(s):** Mick, Mike, Miku, Plantcas, Ickus, Mickachu, Mickey, and many others.  Mickey (Level 60).  
 
 ### Gallery
-![Mickus](/assets/images/mickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Mickus Ink Doodle](/assets/images/mickuspen.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![Mickus looking at Chrono Cross](/assets/images/mickus-cc.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickus](/assets/images/mick/mickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickus Ink Doodle](/assets/images/mick/mickuspen.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickus looking at Chrono Cross](/assets/images/mick/mickus-cc.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

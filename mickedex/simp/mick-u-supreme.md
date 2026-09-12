@@ -5,7 +5,7 @@ permalink: /mickedex/mick-u-supreme/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickusupreme.png" alt="Mick U Supreme" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickusupreme.png" alt="Mick U Supreme" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mick U Supreme</strong><br>The Ultimate Simp Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mick U Supreme evolves from Mick U when it has many items used on it out of comb
 **Next Evolution(s):** -
 
 ### Gallery
-![Mick U Supreme](/assets/images/mickusupreme.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mick U Supreme](/assets/images/mick/mickusupreme.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

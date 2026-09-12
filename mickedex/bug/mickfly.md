@@ -5,7 +5,7 @@ permalink: /mickedex/mickfly/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickfly.png" alt="Mickfly" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickfly.png" alt="Mickfly" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickfly</strong><br>The Time Traveler Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickfly evolves from Sleepymick if it levels during the Daytime or othewise in a
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickfly](/assets/images/mickfly.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickfly](/assets/images/mick/mickfly.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

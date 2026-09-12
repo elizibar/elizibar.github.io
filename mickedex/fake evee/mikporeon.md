@@ -5,7 +5,7 @@ permalink: /mickedex/mikporeon/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mikporeon.png" alt="Mikporeon" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mikporeon.png" alt="Mikporeon" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mikporeon</strong><br>The Fake Vaporeon Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Meekee when a Water Stone is used on it.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mikporeon](/assets/images/mikporeon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mikporeon](/assets/images/mick/mikporeon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

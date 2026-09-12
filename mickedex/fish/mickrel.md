@@ -5,7 +5,7 @@ permalink: /mickedex/mickrel/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickrel.png" alt="Mickrel" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickrel.png" alt="Mickrel" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickrel</strong><br>The Mackerel Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickeel when it evolves while holding a Deep Sea Scale.  Evolves in
 **Next Evolution(s):** Mickray (Lv 38)
 
 ### Gallery
-![Mickrel](/assets/images/mickrel.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickrel](/assets/images/mick/mickrel.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

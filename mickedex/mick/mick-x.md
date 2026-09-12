@@ -5,7 +5,7 @@ permalink: /mickedex/mick-x/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mick-x.png" alt="Mick X" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mick-x.png" alt="Mick X" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mick X</strong><br>The Extreme Wrestler Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mick X evolves from Mick at level 38.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickus](/assets/images/mick-x.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickus](/assets/images/mick/mick-x.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

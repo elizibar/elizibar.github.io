@@ -5,7 +5,7 @@ permalink: /mickedex/mickray/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickray.png" alt="Mickray" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickray.png" alt="Mickray" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickray</strong><br>The Stingray Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickrel at level 38.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickray](/assets/images/mickray.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickray](/assets/images/mick/mickray.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/mickrochip/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickrochip.png" alt="Microchip" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickrochip.png" alt="Microchip" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickrochip</strong><br>The Microchip Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Evolves from Mickatron after winning a Double Battle on the same side as Mickint
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickrochip](/assets/images/mickrochip.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickrochip](/assets/images/mick/mickrochip.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

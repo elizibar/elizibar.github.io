@@ -5,7 +5,7 @@ permalink: /mickedex/mickeel/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickeel.png" alt="Mickeel" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickeel.png" alt="Mickeel" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickeel</strong><br>The Eel Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickus if it levels while holding Mystic Water.  Evolves into Mickr
 **Next Evolution(s):** Mickrel (Deep Sea Scale), Micktopus (Deep Sea Tooth)
 
 ### Gallery
-![Mickeel](/assets/images/mickeel.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickeel](/assets/images/mick/mickeel.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

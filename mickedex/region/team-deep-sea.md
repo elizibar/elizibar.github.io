@@ -25,7 +25,7 @@ Her reputation is one of being a stern task master that doesn't stand for anyone
 Dee-Emm is another Leviathan of Team Deep Sea. Rumors disagree on Dee-Emm's gender, but they all agree that Dee-Emm possesses red skin.
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/machodm.png" alt="Macho DM" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/machodm.png" alt="Macho DM" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Dee-Emm</strong><br>One purported depiction of the Leviathan Dee-Emm</figcaption>
 </figure>
 

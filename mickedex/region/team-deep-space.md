@@ -19,7 +19,7 @@ Team Deep Space is led by their Space Rangers, the founding members who have led
 Quit possibly the only member of Team Deep Space whose identity is known, Inkus is better known as the "Mad Cow Scientist." He maintains a laboratory in an elaborate lighter-than-air classic-styled airship, crewed with bovine Mickémon and filled with an extensive array of high-tech components which bely the outdated style of the craft itself.
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/inkusikari.png" alt="Inkus" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/inkusikari.png" alt="Inkus" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Inkus</strong><br>The Mad Cow Scientist</figcaption>
 </figure>
 

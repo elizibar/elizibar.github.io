@@ -5,7 +5,7 @@ permalink: /mickedex/ickus/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/ickus.png" alt="Ickus" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/ickus.png" alt="Ickus" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Ickus</strong><br>The Swamp Gremlin Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Ickus evolves from a Mickus with Low Friendship when a Leaf Stone is used on it.
 **Next Evolution(s):** Grossicus (Level 30), Slicus (Raczor Claw), Mickberry (Berry), Mickintosh (Any Apple), Mickle (Poison status), Druimick (Fairy-type move)  
 
 ### Gallery
-![Ickus](/assets/images/ickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Ickus](/assets/images/mick/ickus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

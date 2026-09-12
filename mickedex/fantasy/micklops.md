@@ -5,7 +5,7 @@ permalink: /mickedex/micklops/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/micklops.png" alt="Micklops" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/micklops.png" alt="Micklops" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Micklops</strong><br>The Cyclops Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickoblin when it levels up while holding Soft Sand.
 **Next Evolution(s):** -
 
 ### Gallery
-![Micklops](/assets/images/micklops.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Micklops](/assets/images/mick/micklops.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

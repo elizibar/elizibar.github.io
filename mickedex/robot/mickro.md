@@ -5,7 +5,7 @@ permalink: /mickedex/mickro/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickro.png" alt="MIckro" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickro.png" alt="MIckro" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickro</strong><br>The Vista Robot Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickro evolves from Mickus when traded while holding a Metal Coat.  Mickro evolv
 **Next Evolution(s):** Mickbot (Level 38), Mickaphone (Mickintosh), Mickrobinson (Old Moves), Steamick (Fire)
 
 ### Gallery
-![Mickro](/assets/images/mickro.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickro](/assets/images/mick/mickro.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

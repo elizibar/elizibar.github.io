@@ -5,7 +5,7 @@ permalink: /mickedex/mickoral/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickoral.png" alt="Mickoral" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickoral.png" alt="Mickoral" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickoral</strong><br>The Glowing Coral Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Evolves from Mickrorganism when it wins a battle in water while holding a Fairy 
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickoral](/assets/images/mickoral.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickoral](/assets/images/mick/mickoral.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

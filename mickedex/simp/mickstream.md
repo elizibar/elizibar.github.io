@@ -5,7 +5,7 @@ permalink: /mickedex/mickstream/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickstream.png" alt="Mickstream" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickstream.png" alt="Mickstream" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickstream</strong><br>The Live-Streamer Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mick U at level 30.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickstream](/assets/images/mickstream.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickstream](/assets/images/mick/mickstream.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

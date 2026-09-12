@@ -5,7 +5,7 @@ permalink: /mickedex/druimick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/druimick.png" alt="Druimick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/druimick.png" alt="Druimick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Druimick</strong><br>The Druid Mickémon</figcaption>
 </figure>
 
@@ -33,4 +33,4 @@ Evolves from Planthat or Rootick when they learn a Fairy-type move.
 **Next Evolution(s):** -
 
 ### Gallery
-![Druimick](/assets/images/druimick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Druimick](/assets/images/mick/druimick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/steamick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/steamick.png" alt="Steamick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/steamick.png" alt="Steamick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Steamick</strong><br>The Steam-Powered Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Evolves when Mickro or Mickbot Faints as the result of a Fire-type move.
 **Next Evolution(s):** -
 
 ### Gallery
-![Steamick](/assets/images/steamick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Steamick](/assets/images/mick/steamick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

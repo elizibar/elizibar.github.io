@@ -5,7 +5,7 @@ permalink: /mickedex/mickmagma/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickmagma.png" alt="Mickmagma" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickmagma.png" alt="Mickmagma" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickmagma</strong><br>The Lava Beast Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickmagma evolves from Mickma at level 38.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickmagma](/assets/images/mickmagma.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickmagma](/assets/images/mick/mickmagma.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

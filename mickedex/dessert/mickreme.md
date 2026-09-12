@@ -5,7 +5,7 @@ permalink: /mickedex/mickreme/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickreme.png" alt="Mickreme" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickreme.png" alt="Mickreme" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickreme</strong><br>The Dessert Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickreme evolves from Mickus if the Trainer spins the stick during a level up wh
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickreme](/assets/images/mickreme.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickreme](/assets/images/mick/mickreme.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/mickmongaga/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickmongaga.png" alt="Mickmongaga" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickmongaga.png" alt="Mickmongaga" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickmongaga</strong><br>The Big Sword Mickémon</figcaption>
 </figure>
 
@@ -35,4 +35,4 @@ Evolves from Mickmonga if Mickmonga levels up while knowing both a Fairy-type mo
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickmongaga](/assets/images/mickmongaga.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickmongaga](/assets/images/mick/mickmongaga.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

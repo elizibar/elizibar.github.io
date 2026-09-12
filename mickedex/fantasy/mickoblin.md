@@ -5,7 +5,7 @@ permalink: /mickedex/mickoblin/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickoblin.png" alt="Mickoblin" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickoblin.png" alt="Mickoblin" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickoblin</strong><br>The Goblin Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickus while holding a Razor Fang and levelling at Night.  Evolves 
 **Next Evolution(s):** Mickdemon (Level 40), Mickgriffin (Sharp Beak), Micktroll (Hard Stone), Micklops (Soft Sand)
 
 ### Gallery
-![Mickoblin](/assets/images/mickoblin.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickoblin](/assets/images/mick/mickoblin.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

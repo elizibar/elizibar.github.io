@@ -5,7 +5,7 @@ permalink: /mickedex/grossicus/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/grossicus.png" alt="Grossicus" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/grossicus.png" alt="Grossicus" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Grossicusickus</strong><br>The Compost Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Grossicus evolves from Ickus at level 30.  When a Lead Stone is used on Grossicu
 **Next Evolution(s):** Mickworms (when Leaf Stone is used)
 
 ### Gallery
-![Grossicus](/assets/images/grossicus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Grossicus](/assets/images/mick/grossicus.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

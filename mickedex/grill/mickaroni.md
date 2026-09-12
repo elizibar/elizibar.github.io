@@ -5,7 +5,7 @@ permalink: /mickedex/mickaroni/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickaroni.png" alt="Mickaroni" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickaroni.png" alt="Mickaroni" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickaroni</strong><br>The Pasta Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickus when trained by the Duke of the Grill.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickaroni](/assets/images/mickaroni.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickaroni](/assets/images/mick/mickaroni.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/lady-miku/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/ladymiku.png" alt="Lady Miku" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/ladymiku.png" alt="Lady Miku" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Lady Miku</strong><br>The Princess Idol Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Lady Miku evolves from a Female Mickus that has a Dawn Stone used on it.  Evolve
 **Next Evolution(s):** Mickmarried (with Sir Mick)
 
 ### Gallery
-![Lady Miku](/assets/images/ladymiku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Lady Miku](/assets/images/mick/ladymiku.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

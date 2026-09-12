@@ -5,7 +5,7 @@ permalink: /mickedex/miku-02/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/miku-02.png" alt="Miku-02" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/miku-02.png" alt="Miku-02" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Miku</strong><br>The Concert Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Miku-02 evolves from Miku at level 32 if it has High Beauty.
 **Next Evolution(s):** Micknificent (Fairy Feather)  
 
 ### Gallery
-![Miku-02](/assets/images/miku-02.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Miku-02](/assets/images/mick/miku-02.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

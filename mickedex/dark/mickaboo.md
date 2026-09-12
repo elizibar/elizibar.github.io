@@ -5,7 +5,7 @@ permalink: /mickedex/mickaboo/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickaboo.png" alt="Mickaboo" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickaboo.png" alt="Mickaboo" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickaboo</strong><br>The Peeaboo Scarer Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Evolves from Grim Mick when it levels up after learning a Fairy-type move.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickaboo](/assets/images/mickaboo.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickaboo](/assets/images/mick/mickaboo.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

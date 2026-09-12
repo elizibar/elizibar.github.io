@@ -5,7 +5,7 @@ permalink: /mickedex/mickhusky/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickhusky.png" alt="Mickhusky" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickhusky.png" alt="Mickhusky" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickhusky</strong><br>The Haunted Bodybuilder Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickhusky evolves from Mickhusk either at level 35 or when it has a 'high' Attac
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickhusky](/assets/images/mickhusky.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickhusky](/assets/images/mick/mickhusky.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

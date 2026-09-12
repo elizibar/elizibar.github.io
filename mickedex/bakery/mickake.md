@@ -5,7 +5,7 @@ permalink: /mickedex/mickake/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickake.png" alt="Mickake" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickake.png" alt="Mickake" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickake</strong><br>The Cake Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickus when trained by the Angel of Cakes.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickake](/assets/images/mickake.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickake](/assets/images/mick/mickake.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

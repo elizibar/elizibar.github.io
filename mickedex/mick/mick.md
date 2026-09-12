@@ -5,7 +5,7 @@ permalink: /mickedex/mick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mick.png" alt="Mick" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mick.png" alt="Mick" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mick</strong><br>The Rockstar Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mick evolves from Mickus when it has High Friendship with its trainer.  It evolv
 **Next Evolution(s):** Mick X (Level 38), Micktorious (Black Belt)  
 
 ### Gallery
-![Mickus](/assets/images/mick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickus](/assets/images/mick/mick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

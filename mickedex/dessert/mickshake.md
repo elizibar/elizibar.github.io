@@ -5,7 +5,7 @@ permalink: /mickedex/mickshake/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickshake.png" alt="Mickshake" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickshake.png" alt="Mickshake" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickshake</strong><br>The Milkshake Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Mickreme at level 33.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickshake](/assets/images/mickshake.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickshake](/assets/images/mick/mickshake.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

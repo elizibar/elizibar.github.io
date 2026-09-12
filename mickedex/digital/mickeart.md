@@ -5,7 +5,7 @@ permalink: /mickedex/mickeart/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickeart.png" alt="Mickeart" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickeart.png" alt="Mickeart" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>mickeart</strong><br>The Heart Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Evolves from Mickmon if it levels while knowing Attract.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickeart](/assets/images/mickeart.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickeart](/assets/images/mick/mickeart.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

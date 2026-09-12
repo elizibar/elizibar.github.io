@@ -5,7 +5,7 @@ permalink: /mickedex/mike/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mike.png" alt="Mike" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mike.png" alt="Mike" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickus</strong><br>The Derpy Gremlin Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mike evolves from Mickus when it levels while teamed with Miltank or if a Milk B
 **Next Evolution(s):** Mike Y (Level 38), Mikehammer (Metal Coat)  
 
 ### Gallery
-![Mickus](/assets/images/mike.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickus](/assets/images/mick/mike.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

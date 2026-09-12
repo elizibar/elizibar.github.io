@@ -5,7 +5,7 @@ permalink: /mickedex/sir-mick/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/sirmick.png" alt="Sir Mic" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/sirmick.png" alt="Sir Mic" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Sir Mick</strong><br>The Knight Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Evolves from a Male Mickus when a Dawn Stone is used on it.  Evolves into Mickma
 **Next Evolution(s):** Mickmarried (with Lady Miku)
 
 ### Gallery
-![Sir Mick](/assets/images/sirmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Sir Mick](/assets/images/mick/sirmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

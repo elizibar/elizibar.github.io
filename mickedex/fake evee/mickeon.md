@@ -5,7 +5,7 @@ permalink: /mickedex/mickeon/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickeon.png" alt="Mickeon" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickeon.png" alt="Mickeon" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickeon</strong><br>The Fake Glaceon Mickémon</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Evolves from Meekee when an Ice Stone is used.
 **Next Evolution(s):** -
 
 ### Gallery
-![Mickeon](/assets/images/mickeon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickeon](/assets/images/mick/mickeon.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

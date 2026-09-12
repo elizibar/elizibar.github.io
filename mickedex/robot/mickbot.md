@@ -5,7 +5,7 @@ permalink: /mickedex/mickbot/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickbot.png" alt="Mickbot" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickbot.png" alt="Mickbot" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickbot</strong><br>The Upgraded Robot Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickbot evolves from Mickro at level 38.  Evolves into Mickaphone if it levels w
 **Next Evolution(s):** Mickaphone (Mickintosh), Mickrobinson (Old Moves), Steamick (Fire)
 
 ### Gallery
-![Mickbot](/assets/images/mickbot.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickbot](/assets/images/mick/mickbot.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}

@@ -5,7 +5,7 @@ permalink: /mickedex/mickizard/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/mickizard.png" alt="Mickizard" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/mick/mickizard.png" alt="Mickizard" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>Mickizard</strong><br>The Edgy Guitarist Mickémon</figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ Mickizard evolves from Mickus upon use of a Fire Stone.  Mickizard evolves into 
 **Next Evolution(s):** Mickizard Y (Level 38), Mickdrake (Magmamirizer)
 
 ### Gallery
-![Mickizard](/assets/images/mickizard.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![Mickizard](/assets/images/mick/mickizard.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
