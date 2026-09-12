@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ffrdemo/
 **System**: PC (Steam) 
 **Release Date**: September 3, 2026 
 **Related Sub-Series**:  
-**Date Played**:  
+**Date Played**:  September 7, 2026 through 
 
 ### Verdict
 How do you feel about this?

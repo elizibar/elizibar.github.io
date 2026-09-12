@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy: Legend of the Crystals
+title: "Final Fantasy: Legend of the Crystals"
 layout: default
 permalink: /yearoffinalfantasy/ff5loc/
 ---
