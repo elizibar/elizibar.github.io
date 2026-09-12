@@ -1,5 +1,5 @@
 ---
-title: Game Name
+title: "Final Fantasy Resonance"
 layout: default
 permalink: /yearoffinalfantasy/game-name/
 ---

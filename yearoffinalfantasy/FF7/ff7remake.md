@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII Remake
+title: "Final Fantasy VII Remake"
 layout: default
 permalink: /yearoffinalfantasy/ff7remake/
 ---

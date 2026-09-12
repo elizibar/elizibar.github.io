@@ -1,5 +1,5 @@
 ---
-title: Game Name
+title: "Game Name"
 layout: default
 permalink: /yearoffinalfantasy/game-name/
 ---

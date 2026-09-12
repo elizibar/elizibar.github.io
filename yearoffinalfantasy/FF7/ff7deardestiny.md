@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII Rebirth: Dear Destiny
+title: "Final Fantasy VII Rebirth: Dear Destiny"
 layout: default
 permalink: /yearoffinalfantasy/ff7deardestiny/
 ---

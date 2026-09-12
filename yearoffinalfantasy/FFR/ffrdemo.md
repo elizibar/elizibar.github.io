@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy Resonance Demo
+title: "Final Fantasy Resonance Demo"
 layout: default
 permalink: /yearoffinalfantasy/ffrdemo/
 ---

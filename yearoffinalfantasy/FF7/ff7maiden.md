@@ -1,5 +1,5 @@
 ---
-title: The Maiden Who Travels The Planet (Hoshi o Meguru Otome)
+title: "The Maiden Who Travels The Planet (Hoshi o Meguru Otome)"
 layout: default
 permalink: /yearoffinalfantasy/ff7maiden/
 ---

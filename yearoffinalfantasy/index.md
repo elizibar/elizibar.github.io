@@ -1,5 +1,5 @@
 ---
-title: The Year of Final Fantasy
+title: "The Year of Final Fantasy"
 layout: default
 permalink: /yearoffinalfantasy/
 ---

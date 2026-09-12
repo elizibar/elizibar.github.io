@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII Remake: Traces of Two Pasts
+title: "Final Fantasy VII Remake: Traces of Two Pasts"
 layout: default
 permalink: /yearoffinalfantasy/ff7traces/
 ---

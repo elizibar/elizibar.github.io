@@ -1,5 +1,5 @@
 ---
-title: Ivalice Alliance
+title: "Ivalice Alliance"
 layout: default
 permalink: /yearoffinalfantasy/ivalice/
 ---

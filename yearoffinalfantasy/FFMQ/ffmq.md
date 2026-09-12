@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy Mystic Quest
+title: "Final Fantasy Mystic Quest"
 layout: default
 permalink: /yearoffinalfantasy/ffmq/
 ---

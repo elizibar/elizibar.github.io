@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy III 3D Remaster
+title: "Final Fantasy III 3D Remaster"
 layout: default
 permalink: /yearoffinalfantasy/ff33d/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII Ever Crisis
+title: "Final Fantasy VII Ever Crisis"
 layout: default
 permalink: /yearoffinalfantasy/ff7evercrisis/
 ---

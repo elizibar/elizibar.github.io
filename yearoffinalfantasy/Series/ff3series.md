@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy III Series
+title: "Final Fantasy III Series"
 layout: default
 permalink: /yearoffinalfantasy/ff3series/
 ---

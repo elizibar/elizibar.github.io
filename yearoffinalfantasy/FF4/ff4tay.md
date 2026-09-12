@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy IV: The After Years
+title: "Final Fantasy IV: The After Years"
 layout: default
 permalink: /yearoffinalfantasy/ff4tay/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy Tactics Series
+title: "Final Fantasy Tactics Series"
 layout: default
 permalink: /yearoffinalfantasy/fftseries/
 ---

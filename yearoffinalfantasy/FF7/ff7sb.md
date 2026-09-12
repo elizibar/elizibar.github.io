@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII: Snowboarding
+title: "Final Fantasy VII: Snowboarding"
 layout: default
 permalink: /yearoffinalfantasy/ff7sb/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy V Pixel Remaster
+title: "Final Fantasy V Pixel Remaster"
 layout: default
 permalink: /yearoffinalfantasy/ff5pr/
 ---

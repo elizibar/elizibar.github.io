@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII Series
+title: "Final Fantasy VII Series"
 layout: default
 permalink: /yearoffinalfantasy/ff7series/
 ---

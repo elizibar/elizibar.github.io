@@ -1,5 +1,5 @@
 ---
-title: Before Crisis: Final Fantasy VII
+title: "Before Crisis: Final Fantasy VII"
 layout: default
 permalink: /yearoffinalfantasy/ff7bc/
 ---

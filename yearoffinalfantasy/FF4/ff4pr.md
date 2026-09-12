@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy IV Pixel Remaster
+title: "Final Fantasy IV Pixel Remaster"
 layout: default
 permalink: /yearoffinalfantasy/ff4pr/
 ---

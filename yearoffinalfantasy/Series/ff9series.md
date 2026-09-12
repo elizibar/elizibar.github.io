@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy IX Series
+title: "Final Fantasy IX Series"
 layout: default
 permalink: /yearoffinalfantasy/ff9series/
 ---

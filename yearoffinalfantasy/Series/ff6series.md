@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VI Series
+title: "Final Fantasy VI Series"
 layout: default
 permalink: /yearoffinalfantasy/ff6series/
 ---

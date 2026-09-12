@@ -1,5 +1,5 @@
 ---
-title: Fabula Nova Crystallis
+title: "Fabula Nova Crystallis"
 layout: default
 permalink: /yearoffinalfantasy/fabula/
 ---

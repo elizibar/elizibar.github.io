@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy XIV Series
+title: "Final Fantasy XIV Series"
 layout: default
 permalink: /yearoffinalfantasy/ff14series/
 ---

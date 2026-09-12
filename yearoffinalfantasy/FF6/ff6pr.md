@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VI Pixel Remaster
+title: "Final Fantasy VI Pixel Remaster"
 layout: default
 permalink: /yearoffinalfantasy/ff6pr/
 ---
