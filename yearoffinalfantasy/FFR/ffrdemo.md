@@ -1,14 +1,14 @@
 ---
-title: Game Name
+title: Final Fantasy Resonance Demo
 layout: default
-permalink: /yearoffinalfantasy/game-name/
+permalink: /yearoffinalfantasy/ffrdemo/
 ---
 
 # Game Name
 
-**System**:  
-**Release Date**:  
-**Related Sub-Series**  
+**System**: PC (Steam) 
+**Release Date**: September 3, 2026 
+**Related Sub-Series**:  
 **Date Played**:  
 
 ### Verdict
