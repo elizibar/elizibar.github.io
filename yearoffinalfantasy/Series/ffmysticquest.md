@@ -1,7 +1,7 @@
 ---
 title: Final Fantasy Mystic Quest
 layout: default
-permalink: /yearoffinalfantasy/mysticquest/
+permalink: /yearoffinalfantasy/ffmqseries/
 ---
 
 # Final Fantasy Mystic Quest

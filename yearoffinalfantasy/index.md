@@ -95,7 +95,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Vagrant Story**
 
 ### [Final Fantasy Mystic Quest](/yearoffinalfantasy/ffmqseries/)
-- **Final Fantasy Mystic Quest**
+- [Final Fantasy Mystic Quest](/yearoffinalfantasy/ffmq/)
 
 ### [Final Fantasy Resonance](/yearoffinalfantasy/ffrseries/)
 - [Final Fantasy Resonance Demo](/yearoffinalfantasy/ffrdemo/)
