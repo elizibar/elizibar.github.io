@@ -104,7 +104,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 ### Other
 - **Dissidia Final Fantasy**
 - **World of Final Fantasy**
-- [Final Fantasy Block Breaker](/yearoffinalfantasy/ffbb/)
+- [FF Block Breaker](/yearoffinalfantasy/ffbb/) (aka FF Brick Breaker)
 - **Final Fantasy: The Spirits Within**
 - **Final Fantasy: Unlimited**
 
