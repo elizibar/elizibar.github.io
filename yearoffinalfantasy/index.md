@@ -39,7 +39,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Final Fantasy VII: Advent Children](/yearoffinalfantasy/ff7ac/)
 - [Last Order: Final Fantasy VII](/yearoffinalfantasy/ff7lo/)
 - [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7doc/)
-- **Dirge of Cerberus Lost Episode: Final Fantasy VII**
+- [Dirge of Cerberus Lost Episode: Final Fantasy VII](/yearoffinalfantasy/ff7docle/)
 - **Crisis Core: Final Fantasy VII**
 - [The Maiden Who Travels the Planet](/yearoffinalfantasy/ff7maiden/)
 - [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)
@@ -95,7 +95,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Vagrant Story**
 
 ### [Final Fantasy Mystic Quest](/yearoffinalfantasy/ffmqseries/)
-- [Final Fantasy Mystic Quest](/yearoffinalfantasy/ffmq/)
+- **Final Fantasy Mystic Quest**
 
 ### [Final Fantasy Resonance](/yearoffinalfantasy/ffrseries/)
 - [Final Fantasy Resonance Demo](/yearoffinalfantasy/ffrdemo/)
@@ -104,7 +104,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 ### Other
 - **Dissidia Final Fantasy**
 - **World of Final Fantasy**
-- **Final Fantasy Block Breaker**
+- [Final Fantasy Block Breaker](/yearoffinalfantasy/ffbb/)
 - **Final Fantasy: The Spirits Within**
 - **Final Fantasy: Unlimited**
 
