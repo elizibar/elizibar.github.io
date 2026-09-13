@@ -5,7 +5,7 @@ permalink: /yearoffinalfantasy/ffbb/
 ---
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/FF/ffbb.pmg" alt="Title Screen of FF Brick Breaker" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/FF/ffbb.png" alt="Title Screen of FF Brick Breaker" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>We Don't Know Where It Came From</strong></figcaption>
 </figure>
 
