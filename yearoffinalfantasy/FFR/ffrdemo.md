@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ffrdemo/
 **System**: Steam (PC)  
 **Release Date**: September 3, 2026  
 **Related Sub-Series**:  
-**Date Played**: September 7, 2026 through  
+**Date Played**: September 7, 2026 through September 12, 2026
 
 ### Verdict
 
@@ -18,7 +18,7 @@ How do you feel about this?
 ### YouTube Links
 
 ### Order
-**Previous Game**:  
+**Previous Game**: [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7doc/)
 **Next Game**:  
 
 ### Links
