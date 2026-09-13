@@ -1,5 +1,5 @@
 ---
-title: "Final Fantasy Brick Breaker"
+title: "FF Brick Breaker"
 layout: default
 permalink: /yearoffinalfantasy/ffbb/
 ---
