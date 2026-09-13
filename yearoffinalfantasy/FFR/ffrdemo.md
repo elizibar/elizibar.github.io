@@ -19,7 +19,7 @@ How do you feel about this?
 
 ### Order
 **Previous Game**: [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7doc/)
-**Next Game**:  
+**Next Game**: [Final Fantasy VII: Snowoarding]( 
 
 ### Links
 
