@@ -19,7 +19,7 @@ Unfortunately we can't get the game running at all on the Japanese cellphone emu
 
 ### Order
 **Previous Game**: [Before Crisis: Final Fantasy VII](/yearoffinalfantasy/ff7bc/)  
-**Next Game**: [FF Block Breaker](/yearoffinalfantasy/ffblockbreaker/) (aka FF Brick Breaker)
+**Next Game**: [FF Block Breaker](/yearoffinalfantasy/ffbb/) (aka FF Brick Breaker)
 
 ### Links
 
