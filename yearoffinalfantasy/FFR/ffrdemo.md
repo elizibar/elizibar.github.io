@@ -23,6 +23,8 @@ It almost feels like a "Greatest Hits of Final Fantasy" game with how many threa
 
 ### YouTube Links
 
+[Final Fantasy Resonance Demo YouTube Playlist](https://www.youtube.com/playlist?list=PLS0mY38ygfm8)
+
 ### Order
 **Previous Game**: [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7doc/)  
 **Next Game**: [Final Fantasy VII: Snowboarding](/yearoffinalfantasy/ff7sb/)
