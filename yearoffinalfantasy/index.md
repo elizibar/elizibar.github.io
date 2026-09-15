@@ -55,6 +55,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Final Fantasy VII Remake: Traces of Two Pasts](/yearoffinalfantasy/ff7traces/)
 - **Final Fantasy VII Rebirth**
 - [Final Fantasy VII Rebirth: Dear Destiny](/yearoffinalfantasy/ff7deardestinty/)
+- **Final Fantasy VII Revelation**
 
 ### [Final Fantasy VIII](/yearoffinalfantasy/ff8series/)
 - **Final Fantasy VIII Remastered**
@@ -77,12 +78,15 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy XIII**
 - **Final Fantasy XIII-2**
 - **Lightning Returns: Final Fantasy XIII**
+- **Final Fantasy Type-0 HD**
 
 ### [Final Fantasy XIV](/yearoffinalfantasy/ff14series/)
 - **Final Fantasy XIV**
 
 ### [Final Fantasy XV](/yearoffinalfantasy/ff15series/)
 - **Final Fantasy XV**
+- **Final Fantasy XV: Pocket Edition**
+- **A King's Tale: Final Fantasy XV**
 
 ### [Final Fantasy XVI](/yearoffinalfantasy/ff16series/)
 - [Final Fantasy XVI](/yearoffinalfantasy/ff16/)
@@ -94,6 +98,10 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy Tactics A2: Grimoire of the Rift**
 - **Vagrant Story**
 
+### [Final Fantasy Crystal Chronicles](/yearoffinalfantasy/ffccseries/)
+- **Final Fantasy Crystal Chronicles**
+- **Final Fantasy Crystal Chronicles: Remastered Edition**
+
 ### [Final Fantasy Mystic Quest](/yearoffinalfantasy/ffmqseries/)
 - **Final Fantasy Mystic Quest**
 
@@ -103,7 +111,15 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 
 ### Other
 - **Dissidia Final Fantasy**
+- **Dissidia 012 Final Fantasy**
+- **Dissidia Final Fantasy NT**
 - **World of Final Fantasy**
+- **Theatrhythm Final Bar Line**
+- **Final Fantasy: The 4 Heroes of Light**
+- **Chocobo's Mystery Dungeon Every Buddy!**
+- **Chocobo GP**
+- **Final Fantasy Dimensions**
+- **Final Fantasy Explorers**
 - [FF Block Breaker](/yearoffinalfantasy/ffbb/) (aka FF Brick Breaker)
 - **Final Fantasy: The Spirits Within**
 - **Final Fantasy: Unlimited**
