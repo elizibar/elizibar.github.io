@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickambrian/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickambrian.png" alt="Mickambrian" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickraken</strong><br>The Hallucigenia Mickémon</figcaption>
+</figure>
+
 # Mickambrian
 
 **Type:** Rock / Psychic  
@@ -28,3 +33,6 @@ Is born when a Mickus Fossil is Revived in a Laboratory.
 
 ### Note
 Sought after by Team Deep Sea.
+
+### Gallery
+![Mickambrian](/assets/images/mick/mickambrian.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
