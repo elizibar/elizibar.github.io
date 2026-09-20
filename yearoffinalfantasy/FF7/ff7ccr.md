@@ -23,7 +23,6 @@ permalink: /yearoffinalfantasy/ff7ccr/
 
 ### Links
 
-- [Final Fantasy VII Ever Crisis on Steam](https://store.steampowered.com/app/2497550/FINAL_FANTASY_VII_EVER_CRISIS/)
-- [Final Fantasy VII Ever Crisis on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Ever_Crisis)
+
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
