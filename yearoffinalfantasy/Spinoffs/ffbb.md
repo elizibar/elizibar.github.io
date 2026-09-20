@@ -31,7 +31,7 @@ On the title screen it’s “FF Brick Breaker Part 1,” which lines up with on
 
 ### Order
 **Previous Game**: [Dirge of Cerberus Lost Episode: Final Fantasy VII](/yearoffinalfantasy/ff7docle/)  
-**Next Game**: [Crisis Core: Final Fantasy VII](/yearoffinalfantasy/ff7cc/)
+**Next Game**: [Crisis Core: Final Fantasy VII Reunion](/yearoffinalfantasy/ff7ccr/)
 
 ### Links
 
