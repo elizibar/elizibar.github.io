@@ -6,7 +6,7 @@ permalink: /mickedex/mickambrian/
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
   <img src="/assets/images/mick/mickambrian.png" alt="Mickambrian" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Mickraken</strong><br>The Hallucigenia Mickémon</figcaption>
+  <figcaption><strong>Mickambrian</strong><br>The Hallucigenia Mickémon</figcaption>
 </figure>
 
 # Mickambrian

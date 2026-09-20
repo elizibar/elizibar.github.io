@@ -40,7 +40,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Last Order: Final Fantasy VII](/yearoffinalfantasy/ff7lo/)
 - [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7doc/)
 - [Dirge of Cerberus Lost Episode: Final Fantasy VII](/yearoffinalfantasy/ff7docle/)
-- **Crisis Core: Final Fantasy VII**
+- [Crisis Core: Final Fantasy VII Reunion](/yearoffinalfantasy/ff7ccr/)
 - [The Maiden Who Travels the Planet](/yearoffinalfantasy/ff7maiden/)
 - [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)
 - [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7denzel/)
