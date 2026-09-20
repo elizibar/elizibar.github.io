@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickrystal/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickrystal.png" alt="Mickrystal" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickrystal</strong><br>The Crystal Skull Mickémon</figcaption>
+</figure>
+
 # Mickrystal
 
 **Type:** Psychic / Rock  
@@ -28,3 +33,6 @@ Is born when a Crystal Skull is Revived in a Laboratory.
 
 ### Note
 Sought after by Team Deep Space.
+
+### Gallery
+![Mickambrian](/assets/images/mick/mickrystal.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
