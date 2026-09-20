@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/deepmick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/deepmick.png" alt="Deepmick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>deepmick</strong><br>The Deep One Mickémon</figcaption>
+</figure>
+
 # Deepmick
 
 **Type:** Water / Dark  
@@ -23,3 +28,6 @@ Transformed from Mickeel by Team Deep Sea in the Abyss.
 
 **Previous Evolution:** Mickeel (Abyss)  
 **Next Evolution(s):** -
+
+### Gallery
+![Deepmick](/assets/images/mick/deepmick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
