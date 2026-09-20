@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickthulhu/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickthulhu.png" alt="Mickthulhu" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickthulhu</strong><br>The Great Old One Mickémon</figcaption>
+</figure>
+
 # Mickthulhu
 
 **Type:** Water / Dark  
@@ -25,3 +30,6 @@ Transformed from Mickraken by Team Deep Sea in the Abyss.
 
 **Previous Evolution:** Mickraken (Abyss)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickambrian](/assets/images/mick/mickthulhu.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
