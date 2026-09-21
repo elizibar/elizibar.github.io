@@ -113,7 +113,7 @@ Browse all evolutions from the Cordia Region:
 [Mickien](/mickedex/mickien/) - [Mickoid](/mickedex/mickoid/) - [Mikath](/mickedex/mikath/) - [Mickinyellow](/mickedex/mickinyellow/) - [Mickinova](/mickedex/mickinova/)
 
 **Other**  
-[Mickbat](/mickedex/mickbat/) - [Mickrow](/mickedex/mickrow/) - [Mickboss](/mickedex/mickboss/) - [Micksweet](/mickedex/micksweet/)
+[Mickbat](/mickedex/mickbat/) - [Mickrow](/mickedex/mickrow/) - [Mickboss](/mickedex/mickboss/) - [Micksweet](/mickedex/micksweet/) - [Yeah Mick](/mickedex/yeah-mick/)
 
 **Ultimate Form**  
 [Ultra Mick](/mickedex/ultra-mick/)
