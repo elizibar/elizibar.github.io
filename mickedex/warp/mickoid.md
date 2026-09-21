@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickoid/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickoid.png" alt="Mickoid" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickoid</strong><br>The Android Mickémon</figcaption>
+</figure>
+
 # Mickoid
 
 **Type:** Steel / Psychic  
@@ -23,3 +28,6 @@ Transforms when a Steel-type Mickus is taken to The Warp.
 
 **Previous Evolution:** Steel-type Mickus (Warp)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickoid](/assets/images/mick/mickoid.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
