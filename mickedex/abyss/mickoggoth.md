@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickoggoth/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickoggoth.png" alt="Mickoggoth" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickoggoth</strong><br>The Shoggoth Mickémon</figcaption>
+</figure>
+
 # Mickoggoth
 
 **Type:** Dark / Sound  
@@ -25,3 +30,6 @@ Transformed from any Water-type (except Mickraken and Mickeel) by Team Deep Sea 
 
 **Previous Evolution:** Water-type Mickus (Abyss)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickgogoth](/assets/images/mick/mickoggoth.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
