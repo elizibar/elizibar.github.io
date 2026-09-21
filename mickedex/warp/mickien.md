@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickien/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickien.png" alt="Mickien" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickien</strong><br>The Grey Alien Mickémon</figcaption>
+</figure>
+
 # Mickien
 
 **Type:** Psychic / Steel  
@@ -23,3 +28,6 @@ Transformed when any Psychic-type Mickus is taken to The Warp.
 
 **Previous Evolution:** Psychic-type Mickus (Warp)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickien](/assets/images/mick/mickien.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
