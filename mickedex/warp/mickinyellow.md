@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickinyellow/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickinyellow.png" alt="Mickinyellow" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickinyellow</strong><br>The King in Yellow Mickémon</figcaption>
+</figure>
+
 # Mickinyellow
 
 **Type:** Poison / Flying  
@@ -27,3 +32,6 @@ Transforms from Micklord whenit is taken to The Warp.
 
 **Previous Evolution:** Micklord (Warp)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickinyellow](/assets/images/mick/mickinyellow.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
