@@ -1,8 +1,13 @@
 ---
-title: Mickinoa
+title: Mickinova
 layout: default
 permalink: /mickedex/mickinova/
 ---
+
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickinova.png" alt="Mickinova" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickinova</strong><br>The Supernova Mickémon</figcaption>
+</figure>
 
 # Mickinova
 
@@ -23,3 +28,6 @@ Transforms when a Fire-type Mickus is taken to The Warp.
 
 **Previous Evolution:** Fire-type Mickus (Warp)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickinova](/assets/images/mick/mickinova.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
