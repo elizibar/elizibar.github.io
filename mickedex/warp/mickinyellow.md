@@ -28,7 +28,7 @@ Mickinyellow is a towering, regal horror draped in tattered yellow robes that sh
 It is said to be the ruler of a lost city in the stars and spreads corruption wherever it appears.
 
 ### Evolution
-Transforms from Micklord whenit is taken to The Warp.
+Transforms from Micklord when it is taken to The Warp.
 
 **Previous Evolution:** Micklord (Warp)  
 **Next Evolution(s):** -
