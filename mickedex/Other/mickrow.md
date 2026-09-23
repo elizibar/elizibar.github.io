@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickrow/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickrow.png" alt="Mickrow" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickrow</strong><br>The Bully Frog Mickémon</figcaption>
+</figure>
+
 # Mickrow
 
 **Type:** Water / Dark  
@@ -24,3 +29,6 @@ Mickrow evolves from Mickus when a King's Rock is used on it.
 
 **Previous Evolution:** Mickus (King’s Rock)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickrow](/assets/images/mick/mickrow.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
