@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickboss/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickboss.png" alt="Mickboss" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickboss</strong><br>The Boss Mickémon</figcaption>
+</figure>
+
 # Mickboss
 
 **Type:** Dark / Normal  
@@ -24,3 +29,6 @@ Evolves after defeating 3 wild Mickus in consecutive fights.
 
 **Previous Evolution:** Mickus, Mickey, Bigmick (Level up after defeating 3 rival Mickus)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickboss](/assets/images/mick/mickboss.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
