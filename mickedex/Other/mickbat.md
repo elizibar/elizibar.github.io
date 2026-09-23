@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/mickbat/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/mickbat.png" alt="Mickbat" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Mickbatk</strong><br>The Cave Bat Mickémon</figcaption>
+</figure>
+
 # Mickbat
 
 **Type:** Flying / Rock  
@@ -21,3 +26,6 @@ Mickbat is a cave-dwelling Mickus with large, mullet-shaped ears that function a
 ### Evolution
 **Previous Evolution:** Mickus (Leveled up in a Cave)  
 **Next Evolution(s):** -
+
+### Gallery
+![Mickbat](/assets/images/mick/mickbat.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
