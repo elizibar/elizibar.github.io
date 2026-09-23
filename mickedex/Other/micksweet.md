@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/micksweet/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/micksweet.png" alt="Micksweet" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Micksweet</strong><br>The Sugar Rush Mickémon</figcaption>
+</figure>
+
 # Micksweet
 
 **Type:** Normal  
@@ -24,3 +29,6 @@ Micksweet evolves from Mickus when 10 or more Rare Cnadies are used on it.
 
 **Previous Evolution:** Mickus (Use 10+ Rare Candies)  
 **Next Evolution(s):** -
+
+### Gallery
+![Micksweet](/assets/images/mick/micksweet.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
