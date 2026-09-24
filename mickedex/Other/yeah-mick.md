@@ -9,10 +9,6 @@ permalink: /mickedex/yeah-mick/
   <figcaption><strong>Yeah Mick</strong><br>The Affirmation Mickémon</figcaption>
 </figure>
 
-**Yeah Mick**
-
-The Affirmation Mickémon
-
 # Yeah Mick
 
 **Type:** Sound / Normal  
