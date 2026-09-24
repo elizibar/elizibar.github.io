@@ -4,6 +4,8 @@ layout: default
 permalink: /mickedex/
 ---
 
+![Mickémon Logo](/assets/images/mick/mickemon-logo.png){:width="85%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+
 # Cordia Region
 
 The Cordia Region is home to a diverse and complicated ecosystem quite unlike that in other regions.  While there are a few settlements in the region, including small towns like The Bakery or The Grill the region is still wild and relatively unexplored, making it a wonder for explorers and trainers alike.
