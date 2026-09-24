@@ -4,6 +4,11 @@ layout: default
 permalink: /mickedex/ultra-mick/
 ---
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/mick/ultramick.png" alt="Ultra Mick" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Ultra Mick</strong><br>The Chaos God Mickémon</figcaption>
+</figure>
+
 # Ultra Mick
 
 **Type:** Normal (changes every turn)  
@@ -24,3 +29,6 @@ Ultra Mick's evolution is complex and requires a Mickus to be teamed with 5 othe
 
 **Previous Evolution:** Mickus / Minimick / Mickey / Bigmick  
 **Next Evolution(s):** - (Ultimate Form)
+
+### Gallery
+![Yeah Mick](/assets/images/mick/ultramick.png){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
