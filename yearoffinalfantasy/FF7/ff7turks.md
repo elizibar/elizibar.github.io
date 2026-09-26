@@ -7,7 +7,7 @@ permalink: /yearoffinalfantasy/ff7turks/
 # Final Fantasy VII: The Kids Are Alright: A Turks Side Story
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
-  <img src="/assets/images/FF/evantownshendwigglypain.gif" alt="Even Townshed Wiggly Paint Doodle" style="width: 100%; border-radius: 8px;">
+  <img src="/assets/images/FF/eventownshendwigglypain.gif" alt="Even Townshed Wiggly Paint Doodle" style="width: 100%; border-radius: 8px;">
   <figcaption><strong>The Hat is Alright: A Haberdasher Side Story</strong></figcaption>
 </figure>
 
