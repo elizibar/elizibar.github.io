@@ -6,6 +6,11 @@ permalink: /yearoffinalfantasy/ff1pr/
 
 # Final Fantasy Pixel Remaster
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/FF/ff1.gif" alt="Black Mage Wiggly Paint Doodle" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Real Ultimate Power</strong></figcaption>
+</figure>
+
 **System**: Steam (PC)  
 **Release Date**: July 28, 2021  
 **Related Sub-Series**: [Final Fantasy](/yearoffinalfantasy/ff1series/)  

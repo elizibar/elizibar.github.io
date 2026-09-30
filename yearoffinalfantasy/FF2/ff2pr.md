@@ -6,6 +6,11 @@ permalink: /yearoffinalfantasy/ff2pr/
 
 # Final Fantasy II Pixel Remaster
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/FF/ff2.gif" alt="Maria from FF2 Wiggly Paint Doodle" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>Maria from Final Fantasy 2</strong></figcaption>
+</figure>
+
 **System**: Steam (PC)  
 **Release Date**: July 28, 2021  
 **Related Sub-Series**: [Final Fantasy II Series](/yearoffinalfantasy/ff2series/)  
