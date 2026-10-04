@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ff7ccr/
 **System**: Steam (PC)  
 **Release Date**:   
 **Related Sub-Series**: [Final Fantasy VII Series](/yearoffinalfantasy/ff7series/)  
-**Date Played**: September 18, 2026 through...
+**Date Played**: September 18, 2026 through October 4, 2026
 
 ### Verdict
 
