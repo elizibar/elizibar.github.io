@@ -36,4 +36,7 @@ I might replay Final Fantasy VI someday, but if I do it will be to try a differe
 - [FINAL FANTASY VI Pixel Remaster on Steam](https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/)
 - [Final Fantasy VI on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VI)
 
+### Gallery
+!(/assets/images/FF/FF6/20260603082254_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)

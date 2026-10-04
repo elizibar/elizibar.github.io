@@ -35,5 +35,10 @@ I cannot recommend this version. I have not played the Pixel Remaster yet, but i
 
 - [Final Fantasy III (3D Remake) on Steam](https://store.steampowered.com/app/239120/FINAL_FANTASY_III/)
 - [Final Fantasy III on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_III)
+### Gallery
+!(/assets/images/FF/FF3/20260208123006_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF3/20260208133055_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF3/20260214225336_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF3/20260220215141_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)

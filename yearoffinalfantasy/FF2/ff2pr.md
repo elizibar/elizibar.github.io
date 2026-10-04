@@ -41,4 +41,8 @@ Amusing side note from the first time I played the NES version years ago: my sav
 - [FINAL FANTASY II Pixel Remaster on Steam](https://store.steampowered.com/app/1173780/FINAL_FANTASY_II/)
 - [Final Fantasy II on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_II)
 
+### Gallery 
+
+!(/assets/images/FF/FF2/FF220260128234229_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)

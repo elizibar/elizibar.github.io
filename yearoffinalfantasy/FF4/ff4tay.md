@@ -38,4 +38,11 @@ I have no desire to ever see this game again or think about it.
 - [FINAL FANTASY IV: THE AFTER YEARS on Steam](https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/)
 - [Final Fantasy IV: The After Years on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years)
 
+### Gallery
+!(/assets/images/FF/FF4TAY/20260321225058_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF4TAY/20260324223632_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF4TAY/20260326215600_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF4TAY/20260405222159_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF4TAY/20260408200516_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)

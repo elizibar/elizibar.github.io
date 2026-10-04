@@ -42,4 +42,17 @@ The achievements seemed reasonable. The grinding was always toward a purpose, an
 - [Final Fantasy VII Ever Crisis on Steam](https://store.steampowered.com/app/2497550/FINAL_FANTASY_VII_EVER_CRISIS/)
 - [Final Fantasy VII Ever Crisis on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Ever_Crisis)
 
+### Gallery
+!(/assets/images/FF/FF7EC/20260712140545_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260717221017_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260717234723_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260719132843_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260719235007_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260721223005_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260721225916_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260722214512_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260726213659_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260815233648_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+!(/assets/images/FF/FF7EC/20260817223846_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
