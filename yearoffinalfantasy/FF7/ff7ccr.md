@@ -19,7 +19,7 @@ permalink: /yearoffinalfantasy/ff7ccr/
 
 ### Order
 **Previous Game**: [Final Fantasy Brick Breaker](/yearoffinalfantasy/ffbb/)  
-**Next Game**: TBD
+**Next Game**: [Final Fantasy VII G-Bike](/yearoffinalfantasy/ff7gbike/)
 
 ### Links
 

@@ -18,8 +18,8 @@ Japan-only free-to-play mobile racing game based on the original FF7 bike miniga
 ### YouTube Links
 
 ### Order
-**Previous Game**:  
-**Next Game**:  
+**Previous Game**: [Crisis Core: Final Fantasy VII Reunion](/yearoffinalfantasy/ff7ccr/)  
+**Next Game**: [Final Fantasy VII: The First Soldier](/yearoffinalfantasy/ff7firstsoldier/)  
 
 ### Links
 
