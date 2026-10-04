@@ -37,6 +37,6 @@ I might replay Final Fantasy VI someday, but if I do it will be to try a differe
 - [Final Fantasy VI on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VI)
 
 ### Gallery
-!(/assets/images/FF/FF6/20260603082254_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![](/assets/images/FF/FF6/20260603082254_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)

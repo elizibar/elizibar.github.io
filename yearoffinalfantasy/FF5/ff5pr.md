@@ -35,6 +35,6 @@ The story leans hard into character losses and "the feels," so it can get a bit 
 - [Final Fantasy V on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_V)
 
 ### Gallery
-!(/assets/images/FF/FF5/20260412134752_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+![](/assets/images/FF/FF5/20260412134752_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
