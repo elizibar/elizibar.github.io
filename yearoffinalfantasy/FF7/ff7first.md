@@ -19,7 +19,7 @@ Free-to-play mobile battle royale (third-person shooter with RPG elements) set i
 
 ### Order
 **Previous Game**: [Final Fantasy VII G-Bike](/yearoffinalfantasy/ff7gbike/)  
-**Next Game**: [Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8r/)  
+**Next Game**: [The Maiden Who Travels The Planet](/yearoffinalfantasy/ff7maiden/)  
 
 ### Links
 

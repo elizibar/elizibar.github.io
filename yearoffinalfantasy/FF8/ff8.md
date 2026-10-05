@@ -18,7 +18,7 @@ To Do
 ### YouTube Links
 
 ### Order
-**Previous Game**: [Final Fantasy VII: The First Soldier](/yearoffinalfantasy/ff7firstsoldier/)    
+**Previous Game**: TBD  
 **Next Game**: TBD  
 
 ### Links
