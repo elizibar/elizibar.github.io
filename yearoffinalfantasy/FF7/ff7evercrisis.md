@@ -43,7 +43,7 @@ The achievements seemed reasonable. The grinding was always toward a purpose, an
 - [Final Fantasy VII Ever Crisis on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Ever_Crisis)
 
 ### Gallery
-| [![Screenshot](/assets/images/FF/FF7EC/20260712140545_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg)] |
+| [![Screenshot](/assets/images/FF/FF7EC/20260712140545_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg) |
 | :---: |
 | *It's a pretty game, just look at this splash of colors in combat.* |
 
