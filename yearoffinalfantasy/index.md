@@ -58,7 +58,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy VII Revelation**
 
 ### [Final Fantasy VIII](/yearoffinalfantasy/ff8series/)
-- **Final Fantasy VIII Remastered**
+- [Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8r/)
 
 ### [Final Fantasy IX](/yearoffinalfantasy/ff9series/)
 - **Final Fantasy IX**

@@ -1,7 +1,7 @@
 ---
 title: "Final Fantasy VIII Remastered"
 layout: default
-permalink: /yearoffinalfantasy/ff8/
+permalink: /yearoffinalfantasy/ff8r/
 ---
 
 # Final Fantasy VIII Remastered
