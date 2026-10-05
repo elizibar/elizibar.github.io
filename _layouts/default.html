@@ -25,5 +25,37 @@
   <footer>
     <p>elizibar - Made with chaos and love</p>
   </footer>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  // Create modal elements
+  const overlay = document.createElement('div');
+  overlay.id = 'img-modal';
+  overlay.style.cssText = `
+    display:none; position:fixed; inset:0; background:rgba(0,0,0,0.85);
+    z-index:9999; cursor:zoom-out; align-items:center; justify-content:center;
+  `;
+  const img = document.createElement('img');
+  img.style.cssText = 'max-width:95%; max-height:95%; border-radius:6px; box-shadow:0 0 30px rgba(0,0,0,0.5);';
+  overlay.appendChild(img);
+  document.body.appendChild(overlay);
+
+  // Click any linked image to open
+  document.querySelectorAll('a[href$=".jpg"], a[href$=".png"], a[href$=".webp"], a[href$=".gif"]').forEach(link => {
+    const thumb = link.querySelector('img');
+    if (!thumb) return;
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      img.src = link.href;
+      overlay.style.display = 'flex';
+    });
+  });
+
+  // Close on click or Escape
+  overlay.addEventListener('click', () => overlay.style.display = 'none');
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') overlay.style.display = 'none';
+  });
+});
+</script>
 </body>
 </html>
