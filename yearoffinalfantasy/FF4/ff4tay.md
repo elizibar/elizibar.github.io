@@ -39,10 +39,26 @@ I have no desire to ever see this game again or think about it.
 - [Final Fantasy IV: The After Years on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years)
 
 ### Gallery
-![](/assets/images/FF/FF4TAY/20260321225058_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF4TAY/20260324223632_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF4TAY/20260326215600_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF4TAY/20260405222159_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF4TAY/20260408200516_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+
+| [![Screenshot](/assets/images/FF/FF4TAY/20260321225058_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF4TAY/20260321225058_1.jpg) |
+| :---: |
+| *Leonore is my favorite new character in The After Years.* |
+
+| [![Screenshot](/assets/images/FF/FF4TAY/20260324223632_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF4TAY/20260324223632_1.jpg) |
+| :---: |
+| *Why do we keep seeing Frogs?* |
+
+| [![Screenshot](/assets/images/FF/FF4TAY/20260326215600_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF4TAY/20260326215600_1.jpg) |
+| :---: |
+| *This is my favorite 3D model in this game look at the octopus creature* |
+
+| [![Screenshot](/assets/images/FF/FF4TAY/20260405222159_1.jpg){:width="30%"
+ style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF4TAY/20260405222159_1.jpg) |
+| :---: |
+| *Frog.* |
+
+| [![Screenshot](/assets/images/FF/FF4TAY/20260408200516_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF4TAY/20260408200516_1.jpg) |
+| :---: |
+| *They got this facial expression so right.* |
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
