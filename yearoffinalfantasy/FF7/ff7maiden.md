@@ -31,7 +31,7 @@ I want to take a moment to thank Benny Matsuyama for writing the story, and the 
 
 ### Order
 **Previous Game**: [Final Fantasy VII: The First Soldier](/yearoffinalfantasy/ff7firstsoldier/)     
-**Next Game**: [Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8r/)  
+**Next Game**: [Final Fantasy Tactics The Ivalice Chronicles](/yearoffinalfantasy/fftic/)  
 
 ### Links
 
