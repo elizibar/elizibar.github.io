@@ -52,8 +52,7 @@ I have no desire to ever see this game again or think about it.
 | :---: |
 | *This is my favorite 3D model in this game look at the octopus creature* |
 
-| [![Screenshot](/assets/images/FF/FF4TAY/20260405222159_1.jpg){:width="30%"
- style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF4TAY/20260405222159_1.jpg) |
+| [![Screenshot](/assets/images/FF/FF4TAY/20260405222159_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF4TAY/20260405222159_1.jpg) |
 | :---: |
 | *Frog.* |
 
