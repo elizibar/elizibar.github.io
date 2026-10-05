@@ -45,8 +45,8 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)
 - [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7denzel/)
 - [Final Fantasy VII: The Kids Are Alright: A Turks Side Story](/yearoffinalfantasy/ff7turks/)
-- **Final Fantasy VII G-Bike**
-- **Final Fantasy VII: The First Soldier**
+- [Final Fantasy VII G-Bike](/yearoffinalfantasy/ff7gbike/)
+- [Final Fantasy VII: The First Soldier](/yearoffinalfantasy/ff7firstsoldier/)
 - [Final Fantasy VII Ever Crisis](/yearoffinalfantasy/ff7evercrisis/)
 
 **Remake project**
