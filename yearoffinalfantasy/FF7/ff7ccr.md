@@ -13,8 +13,6 @@ permalink: /yearoffinalfantasy/ff7ccr/
 
 ### Verdict
 
-### Verdict
-
 I had a lot of fun with Crisis Core Reunion. The main story action is fun and well paced, and the whole thing feels like a solid first stab at the kind of action game that would eventually lead to Final Fantasy XVI. You can really see the lineage.
 
 I already knew the story from Ever Crisis, so the big beats weren't a surprise, but experiencing it here with full voice acting was a completely different and better experience. The voice work is strong and actually carries the characters and their feelings. Some of the writing is silly or even a little cringe, but it's an earnest sort of cringe, and by the end I was left harrowed and satisfied. The final stretch, when Zack is powering through and the DMW / memory-roulette mechanic suddenly ties everything together, got me just a little emotional.
