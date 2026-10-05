@@ -40,6 +40,6 @@ I might replay Final Fantasy VI someday, but if I do it will be to try a differe
 
 | [![Screenshot](/assets/images/FF/FF6/20260603082254_1.jpg){:width="75%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF6/20260603082254_1.jpg) |
 | :---: |
-| *THe Peepercide. Their sacrifice uncursed the Cursed Shield.* |
+| *The Peepercide. Their sacrifice uncursed the Cursed Shield.* |
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)

@@ -25,6 +25,6 @@ Free-to-play mobile battle royale (third-person shooter with RPG elements) set i
 
 - [Final Fantasy VII: The First Soldier on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VII:_The_First_Soldier)
 - [Final Fantasy VII: The First Soldier on the Final Fantasy Wiki](https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_The_First_Soldier)
-- (https://fracturedgems.itch.io/final-fantasy-vii-the-first-soldier)
+- [Itch.io Remake Project](https://fracturedgems.itch.io/final-fantasy-vii-the-first-soldier)
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)

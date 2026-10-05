@@ -30,7 +30,6 @@ It took me longer to get this up and running than the amount of time we spent pl
 ### Links
 
 - [Before Crisis: Final Fantasy VII on Wikipedia](https://en.wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII)
-- (https://richterwilker.itch.io/before-crisis-remake)
-- (https://gamejolt.com/games/beforecrisis/183337)
-
+- [Before Crisis Remake Project](https://richterwilker.itch.io/before-crisis-remake)
+- [Another Before Crisis Remake Project](https://gamejolt.com/games/beforecrisis/183337)
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
