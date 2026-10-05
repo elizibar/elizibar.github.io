@@ -43,6 +43,6 @@ Amusing side note from the first time I played the NES version years ago: my sav
 
 ### Gallery 
 
-![](/assets/images/FF/FF2/FF220260128234229_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+[![Screenshot](/assets/images/FF/FF2/FF220260128234229_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF2/FF220260128234229_1.jpg)
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
