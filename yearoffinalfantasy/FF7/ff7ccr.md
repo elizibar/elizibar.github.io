@@ -23,7 +23,7 @@ permalink: /yearoffinalfantasy/ff7ccr/
 
 ### Links
 
-### Gllery
+### Gallery
 
 | [![Screenshot](/assets/images/FF/FF7CC/20260920111624_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7CC/20260920111624_1.jpg) |
 | :---: |
