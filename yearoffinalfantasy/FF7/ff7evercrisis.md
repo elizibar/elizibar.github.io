@@ -43,16 +43,48 @@ The achievements seemed reasonable. The grinding was always toward a purpose, an
 - [Final Fantasy VII Ever Crisis on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Ever_Crisis)
 
 ### Gallery
-![](/assets/images/FF/FF7EC/20260712140545_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260717221017_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260717234723_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260719132843_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260719235007_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260721223005_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260721225916_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260722214512_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260726213659_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260815233648_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
-![](/assets/images/FF/FF7EC/20260817223846_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}
+| [![Screenshot](/assets/images/FF/FF7EC/20260712140545_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg)] |
+| :---: |
+| *It's a pretty game, just look at this splash of colors in combat.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260717221017_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260717221017_1.jpg) |
+| :---: |
+| *Sephiroth just gets all the blame.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260717234723_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260717234723_1.jpg) |
+| :---: |
+| *Genuine LOL moment with Yuffie.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260719132843_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260719132843_1.jpg) |
+| :---: |
+| *Aerith gets a lot of great lines.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260719235007_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260719235007_1.jpg) |
+| :---: |
+| *This Cait Sith outfit is amazing.  I love it.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260721223005_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg) |
+| :---: |
+| *Sephiroth strikes again.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260721225916_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg) |
+| :---: |
+| *I wonder who could have done this.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260722214512_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg) |
+| :---: |
+| *I wonder who could have done this other thing.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260726213659_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg) |
+| :---: |
+| *There ain't no gettin' off this train!* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260815233648_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg) |
+| :---: |
+| *Felt real weird to have to get a strat just for this one boss fight.* |
+
+| [![Screenshot](/assets/images/FF/FF7EC/20260817223846_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF7EC/20260712140545_1.jpg) |
+| :---: |
+| *This game is full of fun outfits.* |
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
