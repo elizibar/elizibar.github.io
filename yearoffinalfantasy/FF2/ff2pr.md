@@ -43,6 +43,8 @@ Amusing side note from the first time I played the NES version years ago: my sav
 
 ### Gallery 
 
-[![Screenshot](/assets/images/FF/FF2/FF220260128234229_1.jpg){:width="30%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF2/FF220260128234229_1.jpg)
+| [![Screenshot](/assets/images/FF/FF2/FF220260128234229_1.jpg){:width="75%" style="display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"}](/assets/images/FF/FF2/FF220260128234229_1.jpg) |
+| :---: |
+| *The first Captain defeat, leading to a few hours of grinding before moving on.* |
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
