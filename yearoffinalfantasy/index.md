@@ -35,7 +35,6 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 ### [Final Fantasy VII](/yearoffinalfantasy/ff7series/)
 **Compilation**
 - **Final Fantasy VII** PSX Release
-- [Final Fantasy VII (2013 Re-release)](/yearoffinalfantasy/ff72013/)
 - [Before Crisis: Final Fantasy VII](/yearoffinalfantasy/ff7bc/)
 - [Final Fantasy VII Snowboarding](/yearoffinalfantasy/ff7sb/)
 - [The Maiden Who Travels the Planet](/yearoffinalfantasy/ff7maiden/)
@@ -45,6 +44,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Dirge of Cerberus Lost Episode: Final Fantasy VII](/yearoffinalfantasy/ff7docle/)
 - [Crisis Core: Final Fantasy VII Reunion](/yearoffinalfantasy/ff7ccr/)
 - [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7denzel/)
+- [Final Fantasy VII (2013 Re-release)](/yearoffinalfantasy/ff72013/)
 - [Final Fantasy VII G-Bike](/yearoffinalfantasy/ff7gbike/)
 - [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)
 - [Final Fantasy VII: The Kids Are Alright: A Turks Side Story](/yearoffinalfantasy/ff7turks/)
