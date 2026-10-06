@@ -32,20 +32,22 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Final Fantasy VI Pixel Remaster](/yearoffinalfantasy/ff6pr/)
 
 ### [Final Fantasy VII](/yearoffinalfantasy/ff7series/)
+### [Final Fantasy VII](/yearoffinalfantasy/ff7series/)
 **Compilation**
+- **Final Fantasy VII** PSX Release
 - [Final Fantasy VII (2013 Re-release)](/yearoffinalfantasy/ff72013/)
-- [Final Fantasy VII Snowboarding](/yearoffinalfantasy/ff7sb/)
 - [Before Crisis: Final Fantasy VII](/yearoffinalfantasy/ff7bc/)
-- [Final Fantasy VII: Advent Children](/yearoffinalfantasy/ff7ac/)
+- [Final Fantasy VII Snowboarding](/yearoffinalfantasy/ff7sb/)
+- [The Maiden Who Travels the Planet](/yearoffinalfantasy/ff7maiden/)
 - [Last Order: Final Fantasy VII](/yearoffinalfantasy/ff7lo/)
+- [Final Fantasy VII: Advent Children](/yearoffinalfantasy/ff7ac/)
 - [Dirge of Cerberus: Final Fantasy VII](/yearoffinalfantasy/ff7doc/)
 - [Dirge of Cerberus Lost Episode: Final Fantasy VII](/yearoffinalfantasy/ff7docle/)
 - [Crisis Core: Final Fantasy VII Reunion](/yearoffinalfantasy/ff7ccr/)
-- [The Maiden Who Travels the Planet](/yearoffinalfantasy/ff7maiden/)
-- [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)
 - [On the Way to a Smile - Episode: Denzel](/yearoffinalfantasy/ff7denzel/)
-- [Final Fantasy VII: The Kids Are Alright: A Turks Side Story](/yearoffinalfantasy/ff7turks/)
 - [Final Fantasy VII G-Bike](/yearoffinalfantasy/ff7gbike/)
+- [Final Fantasy VII: On the Way to a Smile](/yearoffinalfantasy/ff7smile/)
+- [Final Fantasy VII: The Kids Are Alright: A Turks Side Story](/yearoffinalfantasy/ff7turks/)
 - [Final Fantasy VII: The First Soldier](/yearoffinalfantasy/ff7firstsoldier/)
 - [Final Fantasy VII Ever Crisis](/yearoffinalfantasy/ff7evercrisis/)
 
