@@ -15,6 +15,8 @@ permalink: /yearoffinalfantasy/ff7docle/
 
 Unfortunately we can't get the game running at all on the Japanese cellphone emulator I have available to me, so we must need more development and maybe we can review this game later.
 
+Update 10/7/26:  We got this working, it's not great but runs.  We'll play it soon.
+
 ### YouTube Links
 
 ### Order
