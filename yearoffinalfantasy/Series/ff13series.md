@@ -22,6 +22,13 @@ Reception was mixed-to-positive. Many players appreciated the greater freedom an
 
 Reception was again mixed. Some players liked the more action-focused combat and the sense of finality, while others found the structure and tone uneven. Together the three games form a complete (if divisive) arc.
 
+### Novels and Side Stories
+
+Several official short novels and web stories expand the Lightning trilogy:
+
+- **Final Fantasy XIII Episode Zero: Promise** – a prequel collection by Jun Eishima that covers the thirteen days leading into the events of the first game. It was originally released as web novels and later collected in print.
+- Additional short stories and novelizations tied to XIII-2 (including *Fragments Before* and *Fragments After*) and *Lightning Returns* also exist, mostly in Japanese with limited official English availability.
+
 ### Fabula Nova Crystallis and Related Titles
 
 The broader *Fabula Nova Crystallis* project also included *Final Fantasy Type-0* (originally *Agito XIII*) and what eventually became *Final Fantasy XV* (originally *Versus XIII*). Those games share some mythological DNA but are not direct continuations of the Lightning trilogy and are usually treated as separate entries.

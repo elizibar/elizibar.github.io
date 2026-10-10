@@ -26,6 +26,8 @@ In 2007 Square Enix released *Final Fantasy XII International Zodiac Job System*
 
 Reception for the original Final Fantasy XII was strong but somewhat divided. Many praised the world, music, and systems, while others found the main characters less compelling or the gambit system too automated. The Zodiac Age version has been received more consistently positively, with the job system and quality-of-life improvements addressing several common complaints about the original release.
 
+There is little extended narrative media beyond the games themselves. The series stays focused on the core titles and their place within the larger Ivalice setting.
+
 # Games
 
 [Final Fantasy XII: The Zodiac Age](/yearoffinalfantasy/ff12/)  

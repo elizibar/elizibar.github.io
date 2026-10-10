@@ -18,7 +18,7 @@ The most fully realized part of the project is the trilogy focused on Lightning:
 - **Final Fantasy XIII-2** (2011) - Continues the story with Serah and Noel traveling through time to resolve paradoxes and confront Caius Ballad.
 - **Lightning Returns: Final Fantasy XIII** (2013) - The conclusion, set centuries later, with Lightning tasked with saving souls before the end of the world.
 
-These three games form a continuous narrative arc and are the clearest expression of the Fabula Nova Crystallis mythology in practice.
+These three games form a continuous narrative arc and are the clearest expression of the Fabula Nova Crystallis mythology in practice. Several short novels and web stories (most notably *Episode Zero: Promise*) expand the timeline around the trilogy.
 
 ### Type-0 and the Agito Project
 

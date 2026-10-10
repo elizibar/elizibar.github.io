@@ -37,6 +37,10 @@ The major expansions so far include:
 
 Each expansion has continued the overarching story while shifting tone, setting, and gameplay focus.
 
+### Other Media
+
+Official short stories, art books, and the Japanese live-action drama *Final Fantasy XIV: Dad of Light* (2017) expand the world in smaller ways. None of them are required for understanding the main game, but they exist for players who want every scrap of material.
+
 ### Reception and Legacy
 
 Final Fantasy XIV is now frequently cited as one of the best MMOs available and one of the strongest modern Final Fantasy experiences, particularly for its story and community. The journey from the failure of 1.0 to the success of A Realm Reborn and beyond is one of the most notable redemption stories in the industry.

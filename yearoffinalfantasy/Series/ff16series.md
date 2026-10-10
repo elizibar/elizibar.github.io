@@ -15,6 +15,8 @@ The game launched as a PlayStation 5 exclusive on June 22, 2023. Two story DLC e
 
 A PC version arrived on Steam and the Epic Games Store on September 17, 2024. Both a standard edition and a Complete Edition (base game + both DLC) were available at launch. The game later reached Xbox Series X|S and Xbox PC (Microsoft Store) on June 8, 2025, again offered as both standard and Complete editions, with Xbox Play Anywhere support.
 
+At present there is little extended narrative media beyond the base game and its two story DLCs.
+
 # Games
 
 [Final Fantasy XVI](/yearoffinalfantasy/ff16/)

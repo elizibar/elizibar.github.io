@@ -16,9 +16,20 @@ It is also the first mainline Final Fantasy to receive a direct numbered sequel.
 
 Reception for X-2 has always been more mixed than for X. Some players enjoy the faster combat, the job system, and the chance to spend more time with the characters. Others find the shift in tone jarring and the story less compelling. It remains one of the more debated direct sequels in the series.
 
+### Eternal Calm and Later Novels
+
+**Final Fantasy X: Eternal Calm** is a short cinematic prologue that sits between the end of Final Fantasy X and the beginning of X-2. It was originally released as a bonus DVD with *Final Fantasy X International* and later included in the HD Remaster. It shows Yuna two years after the defeat of Sin and helps set up the tone and situation of the sequel.
+
+There are also two official novels that continue the story past X-2:
+
+- **Final Fantasy X-2.5 ~Eien no Daishō~** (2013) – a novella by Kazushige Nojima that begins immediately after the perfect ending of X-2. It is fairly obscure and has a mixed reputation among fans.
+- **Final Fantasy X -Will-** – a later short story / novella follow-up that continues threads from X-2.5.
+
+Neither novel has received a full official English release, though fan translations circulate.
+
 ### Ports and the HD Remaster
 
-Both games received international versions with additional content. In 2013–2014 they were brought together as *Final Fantasy X | X-2 HD Remaster* for PlayStation 3 and Vita, later released on PlayStation 4, PC, Nintendo Switch, Xbox One, and more recently Nintendo Switch 2. The HD Remaster includes remastered visuals, rearranged and original soundtrack options, and various quality-of-life features (especially on later platforms).
+Both games received international versions with additional content. In 2013–2014 they were brought together as *Final Fantasy X | X-2 HD Remaster* for PlayStation 3 and Vita, later released on PlayStation 4, PC, Nintendo Switch, Xbox One, and more recently Nintendo Switch 2. The HD Remaster includes remastered visuals, rearranged and original soundtrack options, and various quality-of-life features (especially on later platforms). Eternal Calm is also present in the remaster.
 
 ### Other Notes
 

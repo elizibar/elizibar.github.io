@@ -22,6 +22,10 @@ Final Fantasy XI received five major expansion packs:
 
 In addition to the expansions, the game has received numerous free add-on scenarios, story updates, quality-of-life improvements, and seasonal events over the years. Service has continued for more than two decades, with the game still receiving periodic updates.
 
+### Novels and Other Media
+
+A series of official novels set in Vana'diel was written by Miyabi Hasegawa and published in the early 2000s. They were released in Japanese and also saw editions in German and French. An official webcomic titled *Adventure Log* also existed for a time. Neither the novels nor the webcomic ever received a full English release and remain fairly obscure outside dedicated XI circles.
+
 ### Platforms and Current Status
 
 Final Fantasy XI launched on PlayStation 2 and Windows PC. An Xbox 360 version was released later. Official support for the console versions eventually ended, leaving PC as the primary platform. The game remains active, with both official servers and a notable private-server community.

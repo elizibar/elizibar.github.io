@@ -16,7 +16,9 @@ The game launched with a somewhat incomplete story and received substantial post
 
 **Brotherhood: Final Fantasy XV** is a short anime series (also 2016) that explores the backstories and relationships of Noctis and his friends in the years leading up to the game. It is lighter in tone and helps flesh out the party dynamics.
 
-### Downloadable Content
+An additional short anime, *Episode Ardyn – Prologue*, was released alongside the final story DLC.
+
+### Downloadable Content and The Dawn of the Future
 
 Final Fantasy XV received a series of single-player story DLC episodes focused on individual characters:
 
@@ -25,7 +27,11 @@ Final Fantasy XV received a series of single-player story DLC episodes focused o
 - **Episode Ignis**
 - **Episode Ardyn** (the final major story DLC, exploring the villain’s past)
 
-These episodes expand on character backstories and fill in some of the gaps left by the main game. A larger planned multi-part DLC project (sometimes referred to in connection with *The Dawn of the Future*) was ultimately cancelled; an alternate-story novel was released instead.
+These episodes expand on character backstories and fill in some of the gaps left by the main game. A larger planned multi-part DLC project was ultimately cancelled. The planned narrative was adapted into the official novel **Final Fantasy XV: The Dawn of the Future** (2019 Japan / 2020 English), written by Jun Eishima based on the development team’s drafts. It covers the cancelled episodes focused on Ardyn, Aranea, Lunafreya, and Noctis and provides an alternate ending to the overall story.
+
+### Other Related Titles
+
+**A King’s Tale: Final Fantasy XV** is a free 2D side-scrolling brawler that serves as a light prequel focused on Regis. **Final Fantasy XV: Pocket Edition** is a simplified mobile/PC version of the main game with adjusted storytelling and presentation.
 
 ### Ports and Later Versions
 
@@ -33,7 +39,7 @@ The game received a Windows Edition and later a Royal Edition that incorporated 
 
 ### Reception
 
-Reception for Final Fantasy XV has been mixed-to-positive. Many players praise the chemistry between the four main characters, the road-trip atmosphere, the combat, and the soundtrack. Common criticisms focus on the uneven pacing, the originally incomplete feeling of the main story, and some late-game design choices. The additional movies, anime, and DLC are generally considered helpful for understanding the full narrative, though the fragmented release approach is sometimes cited as a drawback.
+Reception for Final Fantasy XV has been mixed-to-positive. Many players praise the chemistry between the four main characters, the road-trip atmosphere, the combat, and the soundtrack. Common criticisms focus on the uneven pacing, the originally incomplete feeling of the main story, and some late-game design choices. The additional movies, anime, DLC, and *The Dawn of the Future* novel are generally considered helpful for understanding the full narrative, though the fragmented release approach is sometimes cited as a drawback.
 
 # Games
 
@@ -43,5 +49,6 @@ Reception for Final Fantasy XV has been mixed-to-positive. Many players praise t
 
 - [Final Fantasy XV on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_XV)
 - [Kingsglaive: Final Fantasy XV on Wikipedia](https://en.wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV)
+- [Final Fantasy XV: The Dawn of the Future on Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_XV:_The_Dawn_of_the_Future)
 
 [Return to the Year of Final Fantasy](/yearoffinalfantasy/)
