@@ -41,6 +41,8 @@ Each expansion has continued the overarching story while shifting tone, setting,
 
 Official short stories, art books, and the Japanese live-action drama *Final Fantasy XIV: Dad of Light* (2017) expand the world in smaller ways. None of them are required for understanding the main game, but they exist for players who want every scrap of material.
 
+There are also official *Final Fantasy XIV* cookbooks that adapt in-game recipes for real-world kitchens. Final Fantasy XIV scholar Ninjaweazel has said of them: "Yeah the FF14 cookbooks are amazing."
+
 ### Reception and Legacy
 
 Final Fantasy XIV is now frequently cited as one of the best MMOs available and one of the strongest modern Final Fantasy experiences, particularly for its story and community. The journey from the failure of 1.0 to the success of A Realm Reborn and beyond is one of the most notable redemption stories in the industry.
