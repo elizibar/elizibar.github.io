@@ -23,8 +23,8 @@ The games most commonly identified as part of the formal Ivalice Alliance are:
 
 Several other titles are set in Ivalice or closely connected to it, even if they were not always formally branded as part of the Alliance:
 
-- **Final Fantasy Tactics** (1997) - The original tactical RPG that first introduced the setting.
-- **Final Fantasy Tactics Advance** (2003) - Set in a dream version of Ivalice created by a magical book.
+- **Final Fantasy Tactics** (1997) - The original tactical RPG that first introduced the setting. The Japanese version also contained four interactive Sound Novels (short choose-your-own-adventure style text stories unlocked through artefacts) that expand Ivalice history. These were missing from early English releases but were restored in *The Ivalice Chronicles* (2025).
+- **Final Fantasy Tactics Advance** (2003) - Set in a dream version of Ivalice created by a magical book. A Japan-only radio drama adaptation was released the same year.
 - **Final Fantasy XII** (2006) - The mainline entry that brought Ivalice into the numbered series.
 - **Vagrant Story** (2000) - An action RPG that shares locations, historical references, and lore connections with Tactics.
 
@@ -34,7 +34,7 @@ Smaller or later related projects (such as certain mobile titles or crossover co
 
 Games set in Ivalice tend to share a more grounded and politically complex tone than many mainline Final Fantasy titles. Themes of class conflict, religious corruption, and the cost of power appear repeatedly, especially in the Tactics games and Final Fantasy XII.
 
-The Ivalice Alliance never became a single continuous story the way the Compilation of Final Fantasy VII did. Instead it functions as a shared-world collection. Players can generally enter through any of the major titles, though many recommend starting with either *Final Fantasy Tactics* (or War of the Lions) or *Final Fantasy XII: The Zodiac Age*.
+The Ivalice Alliance never became a single continuous story the way the Compilation of Final Fantasy VII did. Instead it functions as a shared-world collection. Players can generally enter through any of the major titles, though many recommend starting with either *Final Fantasy Tactics* (or War of the Lions / Ivalice Chronicles) or *Final Fantasy XII: The Zodiac Age*.
 
 # Games
 

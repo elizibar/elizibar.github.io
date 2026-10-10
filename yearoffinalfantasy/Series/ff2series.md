@@ -20,6 +20,8 @@ Major versions and ports include:
 - **Mobile / iOS / Android** (various, 2010 onward)
 - **Pixel Remaster** (2021 on Steam/mobile; 2023 on Switch/PS4; 2024 on Xbox) - Modern pixel-art remaster with rearranged soundtrack and quality-of-life options.
 
+There is also an early official novelization, *Final Fantasy II: Muma no Meikyū* ("Labyrinth of Nightmare"), written by Kenji Terada and published in Japan in 1989. It is a fairly obscure Japan-only release and has never received an English translation.
+
 Reception has long been mixed. The story and characters are often praised relative to the first game, while the unique leveling system is frequently cited as a source of frustration due to the grinding it can encourage. Later ports and the Pixel Remaster have made the game more approachable for modern players.
 
 # Games

@@ -13,13 +13,18 @@ It became the foundation for a loose family of games sharing the Ivalice setting
 ### Final Fantasy Tactics: The War of the Lions
 
 *Final Fantasy Tactics: The War of the Lions* (2007, PSP and later platforms) is an enhanced port of the original game. It includes a new translation, additional characters and cutscenes, multiplayer features, and higher-resolution visuals. For many years it was regarded as the definitive way to play the original Tactics story.
+
 ### Final Fantasy Tactics: The Ivalice Chronicles
 
 *Final Fantasy Tactics: The Ivalice Chronicles* (September 30, 2025) is a modern remaster released for PlayStation 5, PlayStation 4, Nintendo Switch, Nintendo Switch 2, Xbox Series X|S, and PC. It includes two versions of the game: an enhanced edition with full voice acting, updated UI, graphical improvements, additional scenes, and quality-of-life features, and a classic edition that preserves the original 1997 presentation while using the War of the Lions translation. It is the first time the game has received an official modern multi-platform release of this scale.
 
+The Japanese original also contained four interactive Sound Novels (short choose-your-own-adventure style text stories unlocked through artefacts). These expand the history of Ivalice and were never localized in the original English release or *War of the Lions*. *The Ivalice Chronicles* finally includes them in all languages.
+
 ### Final Fantasy Tactics Advance and A2
 
 **Final Fantasy Tactics Advance** (2003, Game Boy Advance) is set in a dream version of Ivalice created by a magical book. It follows a group of modern-day children pulled into this world and introduces the Judge system that enforces battlefield laws. The tone is lighter than the original Tactics, with a stronger emphasis on clan building and monster catching.
+
+A Japan-only radio drama adaptation of *Final Fantasy Tactics Advance* was released in 2003 across four CDs.
 
 **Final Fantasy Tactics A2: Grimoire of the Rift** (2007, Nintendo DS) is a sequel to Advance. It returns to Ivalice with a new protagonist, Luso, and expands the job system, clan mechanics, and quest structure while keeping the Judge system. It also has clearer connections to the wider Ivalice setting shared with Final Fantasy XII.
 

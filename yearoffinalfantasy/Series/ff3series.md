@@ -16,6 +16,8 @@ Major versions and ports include:
 - **Nintendo DS 3D Remake** (2006) - Complete 3D remake that finally brought the game to Western audiences. Later ported to iOS, Android, PSP, and PC.
 - **Pixel Remaster** (2021 on Steam/mobile; 2023 on Switch/PS4; 2024 on Xbox) - First official international release of the original 2D version, with updated pixel art, rearranged soundtrack, and modern quality-of-life features.
 
+An early manga adaptation titled *Yūkyū no Kaze Densetsu Final Fantasy III* ("Eternal Legend of the Wind") was published in Japan in 1992, with story by Kenji Terada and art by Yū Kinutani. Like the FFII novel, it remains a Japan-only curiosity with no official English release.
+
 Reception for the original was positive in Japan, with particular praise for the job system. The long delay in seeing an official Western release of the 2D version meant many players first experienced the game through the DS remake. The Pixel Remaster has generally been well received as a clean and accessible way to play the classic version.
 
 # Games

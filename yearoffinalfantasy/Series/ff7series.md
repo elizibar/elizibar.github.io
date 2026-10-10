@@ -14,7 +14,7 @@ Square Enix later expanded the world through the *Compilation of Final Fantasy V
 
 **Before Crisis: Final Fantasy VII** (2004-2007, mobile, Japan only) focuses on the Turks in the years leading up to the original game. It was an episodic mobile title that never received an official Western release.
 
-**Crisis Core: Final Fantasy VII** (2007, PSP; remastered as *Crisis Core -Final Fantasy VII- Reunion* in 2022) is a prequel centered on Zack Fair. It expands on the Nibelheim incident and Zack’s relationship with Cloud and Aerith. The Reunion version modernizes the graphics, combat, and voice acting to better match the Remake project.
+**Crisis Core: Final Fantasy VII** (2007, PSP) is a prequel centered on Zack Fair. It expands on the Nibelheim incident and Zack’s relationship with Cloud and Aerith. The original PSP version is the one that first told this story. A full remaster, *Crisis Core -Final Fantasy VII- Reunion* (2022), later updated the graphics, combat, and voice acting to better match the style of the Remake project. Both versions cover the same core narrative, but Reunion is the more modern and widely available way to play it now.
 
 ### Advent Children and Related Media
 
@@ -24,11 +24,15 @@ Square Enix later expanded the world through the *Compilation of Final Fantasy V
 
 **On the Way to a Smile** is a collection of short stories by Kazushige Nojima that bridge the original game and Advent Children. One of these stories was adapted into the OVA *On the Way to a Smile - Episode: Denzel*, which was included with Advent Children Complete.
 
-**The Kids Are Alright: A Turks Side Story** (novel) explores events involving the Turks and younger characters in the years around Advent Children.
+**The Kids Are Alright: A Turks Side Story** (novel, 2011) explores events involving the Turks and younger characters in the years around Advent Children.
+
+A lesser-known Japan-only short novel from 2020, *The Investigation Unit Within the Painting*, was also written by Nojima. It focuses on Ifalna, young Aerith, and the Turks roughly fifteen years before the original game. It never received an official English release.
 
 ### Dirge of Cerberus
 
-**Dirge of Cerberus: Final Fantasy VII** (2006, PlayStation 2) is a third-person shooter that focuses on Vincent Valentine in the years after Advent Children. It deals with the remnants of the Deepground project and has a more action-oriented style than the rest of the series. A mobile spin-off, *Dirge of Cerberus Lost Episode*, also existed for a time.
+**Dirge of Cerberus: Final Fantasy VII** (2006, PlayStation 2) is a third-person shooter that focuses on Vincent Valentine in the years after Advent Children. It deals with the remnants of the Deepground project and has a more action-oriented style than the rest of the series.
+
+**Dirge of Cerberus Lost Episode: Final Fantasy VII** (2006, mobile) is a short spin-off that takes place during the events of the main Dirge of Cerberus game. It was released on Japanese and North American mobile platforms and has long since ended service.
 
 ### The Remake Project
 
@@ -36,11 +40,9 @@ Square Enix later expanded the world through the *Compilation of Final Fantasy V
 
 **Final Fantasy VII Rebirth** (2024) continues the story after the party leaves Midgar, expanding the world and further diverging from (and commenting on) the original narrative.
 
-A third game in the Remake project is planned to complete the retelling.
+**Final Fantasy VII Revelation** is the planned third and final part of the Remake trilogy.
 
-Related novels such as *Traces of Two Pasts* expand on character backstories in the context of the Remake continuity.
-
-### Mobile and Other Titles
+### Other Compilation and Mobile Titles
 
 **Final Fantasy VII Ever Crisis** (2023, mobile) is a gacha-style game that retells stories from across the Compilation and adds new scenarios, including material related to *The First Soldier*.
 

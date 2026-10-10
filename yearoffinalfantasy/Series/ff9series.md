@@ -18,9 +18,11 @@ The original PlayStation version was later joined by a remaster released in 2016
 
 Tetra Master is the collectible card minigame in Final Fantasy IX (sometimes confused with Triple Triad from VIII). An expanded online version, *Tetra Master From Final Fantasy IX*, was released in 2002 and ran as a free-to-play multiplayer card game associated with *Final Fantasy XI* and the PlayOnline service. That online version shut down at the end of 2010.
 
-### Other Notes
+### Other Media
 
-Characters from Final Fantasy IX have appeared in crossover titles such as the *Dissidia Final Fantasy* series. In recent years there have also been periodic rumors and reports about a possible remake and an animated series project, though neither has been fully confirmed as a released product at the time of writing.
+In 2025 Square Enix released a short official picture-book prequel in Japan focused on Vivi’s early life with his adoptive grandfather Quan (titles vary slightly between sources, commonly rendered as *Vivi and Grandpa’s Memories for the Sky* or *Vivi and Grandpa On the Day of Departure*). It was written by event designer Kazuhiko Aoki with art by character designer Toshiyuki Itahana. It is a low-key release but remains one of the few pieces of new narrative media tied to the game.
+
+Characters from Final Fantasy IX have appeared in crossover titles such as the *Dissidia Final Fantasy* series. There have also been periodic rumors over the years about a possible remake and an animated series project (sometimes referred to under working titles involving the Black Mages or Vivi’s descendants). As of now neither has been fully confirmed as a released product.
 
 Reception for the main game is generally very positive. Many players consider it one of the strongest entries in the series for its characters, emotional tone, and classic Final Fantasy feel. The remaster is widely regarded as a convenient way to play it on modern platforms, especially with community enhancements on PC.
 

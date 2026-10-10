@@ -32,7 +32,6 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Final Fantasy VI Pixel Remaster](/yearoffinalfantasy/ff6pr/)
 
 ### [Final Fantasy VII](/yearoffinalfantasy/ff7series/)
-### [Final Fantasy VII](/yearoffinalfantasy/ff7series/)
 **Compilation**
 - **Final Fantasy VII** PSX Release
 - [Before Crisis: Final Fantasy VII](/yearoffinalfantasy/ff7bc/)
@@ -76,7 +75,22 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Final Fantasy XII: The Zodiac Age](/yearoffinalfantasy/ff12/)
 - **Final Fantasy XII: Revenant Wings**
 
+### [Ivalice Alliance](/yearoffinalfantasy/ivalice/)
+- [Final Fantasy XII: The Zodiac Age](/yearoffinalfantasy/ff12/)
+- **Final Fantasy XII: Revenant Wings**
+- **Final Fantasy Tactics**
+- **Final Fantasy Tactics: The Ivalice Chronicles**
+- **Final Fantasy Tactics Advance**
+- **Final Fantasy Tactics A2: Grimoire of the Rift**
+- **Vagrant Story**
+
 ### [Final Fantasy XIII](/yearoffinalfantasy/ff13series/)
+- **Final Fantasy XIII**
+- **Final Fantasy XIII-2**
+- **Lightning Returns: Final Fantasy XIII**
+- **Final Fantasy Type-0 HD**
+
+### [Fabula Nova Crystallis](/yearoffinalfantasy/fabula/)
 - **Final Fantasy XIII**
 - **Final Fantasy XIII-2**
 - **Lightning Returns: Final Fantasy XIII**
@@ -105,7 +119,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy Crystal Chronicles: Remastered Edition**
 
 ### [Final Fantasy Mystic Quest](/yearoffinalfantasy/ffmqseries/)
-- **Final Fantasy Mystic Quest**
+- [Final Fantasy Mystic Quest](/yearoffinalfantasy/ffmq/)
 
 ### [Final Fantasy Resonance](/yearoffinalfantasy/ffrseries/)
 - [Final Fantasy Resonance Demo](/yearoffinalfantasy/ffrdemo/)

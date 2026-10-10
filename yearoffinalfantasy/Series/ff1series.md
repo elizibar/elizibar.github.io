@@ -21,6 +21,8 @@ The original game has been ported, remade, and re-released more times than almos
 
 Reception has been consistently positive across eras. The original was praised for its graphics, music, and ambition at the time, while later ports are usually judged on how well they modernize the experience without losing the classic feel. The Pixel Remaster is currently the most accessible and polished way for most new players to experience the game.
 
+A couple of unofficial early adaptations exist from the late 1980s and early 1990s, including an unauthorized manga and at least one novelization. These were never official Square releases and are obscure even by Japanese standards, so they are mostly of historical interest. I can't find a lot of information about them, yet.
+
 ### Stranger of Paradise: Final Fantasy Origin
 
 Released in 2022, *Stranger of Paradise: Final Fantasy Origin* is an action-RPG spin-off developed by Team Ninja (of *Nioh* and *Ninja Gaiden* fame) and published by Square Enix. It is set in a darker, alternate-universe take on the world of the original *Final Fantasy*, following Jack Garland and his companions as they set out to "kill Chaos."
