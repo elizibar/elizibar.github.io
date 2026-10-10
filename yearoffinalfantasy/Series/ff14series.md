@@ -43,6 +43,13 @@ Official short stories, art books, and the Japanese live-action drama *Final Fan
 
 There are also official *Final Fantasy XIV* cookbooks that adapt in-game recipes for real-world kitchens. Final Fantasy XIV scholar Ninjaweazel has said of them: "Yeah the FF14 cookbooks are amazing."
 
+Two official manga spin-offs have been released:
+
+- **Final Fantasy XIV: Eorzea Academy** (Japanese title *Shiritsu Eorzea Gakuen*) – a short high-school comedy that puts Scions and other familiar characters into a merged Academy of Light / Academy of Darkness setting. One volume, seven chapters. English edition available via Square Enix Manga / Manga UP!.
+- **Saki & Final Fantasy XIV** – a crossover with the mahjong series *Saki*. Characters from that series play Final Fantasy XIV and its Doman Mahjong minigame. Two volumes; also released in English through Manga UP!.
+
+The *Encyclopaedia Eorzea* lore books are the main official reference volumes for the setting.
+
 ### Reception and Legacy
 
 Final Fantasy XIV is now frequently cited as one of the best MMOs available and one of the strongest modern Final Fantasy experiences, particularly for its story and community. The journey from the failure of 1.0 to the success of A Realm Reborn and beyond is one of the most notable redemption stories in the industry.
