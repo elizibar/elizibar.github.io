@@ -79,7 +79,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Final Fantasy XII: The Zodiac Age](/yearoffinalfantasy/ff12/)
 - **Final Fantasy XII: Revenant Wings**
 - **Final Fantasy Tactics**
-- **Final Fantasy Tactics: The Ivalice Chronicles**
+- [Final Fantasy Tactics: The Ivalice Chronicles](/yearoffinalfantasy/fftic/)
 - **Final Fantasy Tactics Advance**
 - **Final Fantasy Tactics A2: Grimoire of the Rift**
 - **Vagrant Story**
@@ -109,7 +109,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 
 ### [Final Fantasy Tactics](/yearoffinalfantasy/fftseries/)
 - **Final Fantasy Tactics**
-- **Final Fantasy Tactics: The Ivalice Chronicles**
+- [Final Fantasy Tactics: The Ivalice Chronicles](/yearoffinalfantasy/fftic/)
 - **Final Fantasy Tactics Advance**
 - **Final Fantasy Tactics A2: Grimoire of the Rift**
 - **Vagrant Story**
