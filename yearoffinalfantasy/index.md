@@ -55,7 +55,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy VII Remake Intergrade**
 - [Final Fantasy VII Remake: Traces of Two Pasts](/yearoffinalfantasy/ff7traces/)
 - **Final Fantasy VII Rebirth**
-- [Final Fantasy VII Rebirth: Dear Destiny](/yearoffinalfantasy/ff7deardestinty/)
+- [Final Fantasy VII Rebirth: Dear Destiny](/yearoffinalfantasy/ff7deardestiny/)
 - **Final Fantasy VII Revelation**
 
 ### [Final Fantasy VIII](/yearoffinalfantasy/ff8series/)

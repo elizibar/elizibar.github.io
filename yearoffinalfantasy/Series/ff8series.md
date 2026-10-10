@@ -28,7 +28,7 @@ Reception for the main game has long been mixed-to-positive. Many players praise
 
 # Games
 
-[Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8/)
+[Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8r/)
 
 ### Links
 
