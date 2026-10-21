@@ -18,7 +18,7 @@ To Do
 ### YouTube Links
 
 ### Order
-**Previous Game**: TBD  
+**Previous Game**: [Final Fantasy Tactics: The Ivalice Chronicles](/yearoffinalfantasy/fftic/)  
 **Next Game**: TBD  
 
 ### Links
