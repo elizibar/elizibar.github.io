@@ -60,7 +60,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 
 **Unofficial / fan (M. J. Gallagher)**
 - **Norse Myths That Inspired Final Fantasy VII**
-- **Greek Myths That Inspired Final Fantasy VII**
+- [Greek Myths That Inspired Final Fantasy VII](/yearoffinalfantasy/ff7greekmyths/)
 - **The Nibelheim Incident**
 - **Final Fantasy VII: A New Threat**
 - **Final Fantasy VII: The Man in the Black Cloak**

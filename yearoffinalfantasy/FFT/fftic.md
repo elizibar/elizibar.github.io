@@ -29,7 +29,7 @@ I would absolutely recommend this version, unless someone is already deep in the
 
 ### Order
 **Previous Game**: [The Maiden Who Travels the Planet](/yearoffinalfantasy/ff7maiden/)  
-**Next Game**: [Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8r/)
+**Next Game**: [Greek Myths That Inspired Final Fantasy VII](/yearoffinalfantasy/ff7greekmyths/)
 
 ### Links
 

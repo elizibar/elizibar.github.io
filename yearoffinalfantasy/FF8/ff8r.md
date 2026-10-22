@@ -18,7 +18,7 @@ To Do
 ### YouTube Links
 
 ### Order
-**Previous Game**: [Final Fantasy Tactics: The Ivalice Chronicles](/yearoffinalfantasy/fftic/)  
+**Previous Game**: [Greek Myths That Inspired Final Fantasy VII](/yearoffinalfantasy/ff7greekmyths/)  
 **Next Game**: TBD  
 
 ### Links
