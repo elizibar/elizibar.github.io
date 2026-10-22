@@ -9,6 +9,11 @@ The Discord community decided that 2026 was going to be the Year of Final Fantas
 
 [The Year of Final Fantasy](/yearoffinalfantasy/)
 
+# FEARtober
+
+The annual event where we play F.E.A.R. games and then other Halloween activities.
+[FEARtober](/feartober/)
+
 # Welcome, Trainer!
 
 If you're here for the silly Mickédex, look no further than just down below.
