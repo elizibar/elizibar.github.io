@@ -58,8 +58,17 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - [Final Fantasy VII Rebirth: Dear Destiny](/yearoffinalfantasy/ff7deardestiny/)
 - **Final Fantasy VII Revelation**
 
+**Unofficial / fan (M. J. Gallagher)**
+- **Norse Myths That Inspired Final Fantasy VII**
+- **Greek Myths That Inspired Final Fantasy VII**
+- **The Nibelheim Incident**
+- **Final Fantasy VII: A New Threat**
+- **Final Fantasy VII: The Man in the Black Cloak**
+- **Final Fantasy VII: The Cetran Legacy**
+
 ### [Final Fantasy VIII](/yearoffinalfantasy/ff8series/)
 - [Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8r/)
+- **SeeD: The Beginning** (M. J. Gallagher)
 
 ### [Final Fantasy IX](/yearoffinalfantasy/ff9series/)
 - **Final Fantasy IX**
@@ -106,6 +115,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 
 ### [Final Fantasy XVI](/yearoffinalfantasy/ff16series/)
 - [Final Fantasy XVI](/yearoffinalfantasy/ff16/)
+- **Mythos: Final Fantasy XVI** (M. J. Gallagher)
 
 ### [Final Fantasy Tactics](/yearoffinalfantasy/fftseries/)
 - **Final Fantasy Tactics**
@@ -113,6 +123,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy Tactics Advance**
 - **Final Fantasy Tactics A2: Grimoire of the Rift**
 - **Vagrant Story**
+- **Myths & Traditions That Inspired Final Fantasy Tactics** (M. J. Gallagher)
 
 ### [Final Fantasy Crystal Chronicles](/yearoffinalfantasy/ffccseries/)
 - **Final Fantasy Crystal Chronicles**
