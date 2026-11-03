@@ -11,21 +11,21 @@ Every October I return to the *F.E.A.R.* series (and a few extra horrors) for a 
 What started in 2017 as a simple playthrough of the original game has become an annual tradition of dread, multiplayer experiments, side horrors, and the occasional comic interlude.
 
 ### 2017
-- [F.E.A.R.](/feartober/fear/) (original)
+- [F.E.A.R.](/feartober/fear/)
 
 ### 2018
-- F.E.A.R.: Extraction Point
-- F.E.A.R.: Perseus Mandate
+- [F.E.A.R.: Extraction Point](/feartober/fear-extraction-point/)
+- [F.E.A.R.: Perseus Mandate](/feartober/fear-perseus-mandate/)
 - SOMA
 - Eversion
 
 ### 2019
-- F.E.A.R. 2: Project Origin
+- [F.E.A.R. 2: Project Origin](/feartober/fear2/)
 - Let’s Try Walking Zombie 2
 - Halloween Comicfest / horror comics (Comichat)
 
 ### 2020
-- F.E.A.R. 2: Reborn
+- [F.E.A.R. 2: Reborn](/feartober/fear2-reborn/)
 
 ### 2021
 - [F.E.A.R. 3](/feartober/fear3/) (as Pointman)
