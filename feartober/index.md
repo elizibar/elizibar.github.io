@@ -28,11 +28,11 @@ What started in 2017 as a simple playthrough of the original game has become an 
 - F.E.A.R. 2: Reborn
 
 ### 2021
-- F.E.A.R. 3 (as Pointman)
+- [F.E.A.R. 3](/feartober/fear3/) (as Pointman)
 - Bloodstained: Ritual of the Night
 
 ### 2022
-- F.E.A.R. 3 (as Paxton Fettel)
+- [F.E.A.R. 3](/feartober/fear3/) (as Paxton Fettel)
 - Call of Cthulhu: Dark Corners of the Earth
 - Let’s Try Zombie Driver
 - Return of the Obra Dinn
@@ -45,7 +45,7 @@ What started in 2017 as a simple playthrough of the original game has become an 
 - Halloween 2023 Event – Phasmophobia
 
 ### 2024
-- F.E.A.R. 3 Multiplayer (with @ShameOfLangham)
+- [F.E.A.R. 3](/feartober/fear3/) Multiplayer (with @ShameOfLangham)
 - Dead Effect
 - Alien: Isolation
 - Grim Clicker
@@ -54,7 +54,7 @@ What started in 2017 as a simple playthrough of the original game has become an 
 - Tharsis
 
 ### 2025
-- F.E.A.R. Prototype Mod
+- [F.E.A.R.](/feartober/fear/) Prototype Mod
 - Divine Frequency (demo)
 - Dead Effect
 - No, I’m Not a Human
@@ -68,7 +68,7 @@ What started in 2017 as a simple playthrough of the original game has become an 
 - Hyde Street / Sisterhood Comichat Videos
 
 ### 2026
-- F.E.A.R. with EchoPatch
+- [F.E.A.R.](/feartober/fear/) with EchoPatch
 - No, I’m Not a Human (Updates and 100%)
 - Halloween Comic Haul | Vampirella to Hyde Street
 - the static speaks my name
@@ -76,6 +76,6 @@ What started in 2017 as a simple playthrough of the original game has become an 
 - The Black Whale
 - Emily is Away
 - Medusa's Labyrinth
--F.E.A.R. 3 Multiplayer (with @Stellahsgalaxy)
+- [F.E.A.R. 3](/feartober/fear3/) Multiplayer (with @Stellahsgalaxy)
 
 More to come… probably.
