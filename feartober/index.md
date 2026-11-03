@@ -7,6 +7,7 @@ permalink: /feartober/
 # FEARtober
 
 Every October I return to the *F.E.A.R.* series (and a few extra horrors) for a seasonal run.  
+
 What started in 2017 as a simple playthrough of the original game has become an annual tradition of dread, multiplayer experiments, side horrors, and the occasional comic interlude.
 
 ### 2017
@@ -62,12 +63,19 @@ What started in 2017 as a simple playthrough of the original game has become an 
 - Labyrinthine
 - Kiosk
 - Apartment 1406
-- Bendy
+- Bendy and the Ink Machine
 - Still Wakes the Deep
-- Hyde Street / Sisterhood Comichat cluster
+- Hyde Street / Sisterhood Comichat Videos
 
 ### 2026
-- EchoPatch
-- No, I’m Not a Human (return)
+- F.E.A.R. with EchoPatch
+- No, I’m Not a Human (Updates and 100%)
+- Halloween Comic Haul | Vampirella to Hyde Street
+- the static speaks my name
+- A Date in the Park
+- The Black Whale
+- Emily is Away
+- Medusa's Labyrinth
+-F.E.A.R. 3 Multiplayer (with @Stellahsgalaxy)
 
 More to come… probably.
