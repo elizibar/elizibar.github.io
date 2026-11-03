@@ -16,7 +16,7 @@ permalink: /feartober/fear-extraction-point/
 
 ### YouTube
 
-- [Playlist / Playthrough Title](link)
+- [F.E.A.R.: Extraction Point Playlist](https://www.youtube.com/playlist?list=PL-oNO4nnzhsUguY8V0eAq1jPU_PuMUd2t)
 
 ### Links
 

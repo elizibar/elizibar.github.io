@@ -16,7 +16,7 @@ permalink: /feartober/fear-perseus-mandate/
 
 ### YouTube
 
-- [Playlist / Playthrough Title](link)
+- [F.E.A.R.: Perseus Mandate Playlist](https://www.youtube.com/playlist?list=PL-oNO4nnzhsXPPf4TiVL-USThLUjXzk89)
 
 ### Links
 

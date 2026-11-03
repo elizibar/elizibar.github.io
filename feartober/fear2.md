@@ -16,7 +16,7 @@ permalink: /feartober/fear2/
 
 ### YouTube
 
-- [Playlist / Playthrough Title](link)
+- [F.E.A.R. 2 Playlist](https://www.youtube.com/playlist?list=PL-oNO4nnzhsXTcWj-r52r9dxc2GgU1cf0)
 
 ### Links
 

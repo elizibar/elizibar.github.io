@@ -16,7 +16,7 @@ permalink: /feartober/fear2-reborn/
 
 ### YouTube
 
-- [Playlist / Playthrough Title](link)
+- [F.E.A.R. 2: Reborn](https://www.youtube.com/playlist?list=PL-oNO4nnzhsVr9qaquLVw06hOi6qSLwbT)
 
 ### Links
 
