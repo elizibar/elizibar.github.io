@@ -24,7 +24,7 @@ Unfortunately we can't get the game running at all on the Japanese cellphone emu
 
 Update 10/7/26:  We got this working, it's not great but runs.  We'll play it soon.
 
-Update 1/1/26:  Played on stream.  Verdict update forthcoming.
+Update 11/1/26:  Played on stream.  Verdict update forthcoming.
 
 ### YouTube Links
 
@@ -34,7 +34,7 @@ First Attempt
 **Next Game**: [FF Block Breaker](/yearoffinalfantasy/ffbb/) (aka FF Brick Breaker)
 
 Second Attempt  
-**Previous Game**: [Final Fantasy XV Episode Duscae](/yearoffinalfantasy/ff15ed/)
+**Previous Game**: [Final Fantasy XV Episode Duscae](/yearoffinalfantasy/ff15ed/)  
 **Next Game**: [Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8r/)
 
 
