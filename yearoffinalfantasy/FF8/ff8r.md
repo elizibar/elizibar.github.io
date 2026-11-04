@@ -18,7 +18,7 @@ To Do
 ### YouTube Links
 
 ### Order
-**Previous Game**: [Greek Myths That Inspired Final Fantasy VII](/yearoffinalfantasy/ff7greekmyths/)  
+**Previous Game**: [Dirge of Cerberus Lost Episode: Final Fantasy VII](/yearoffinalfantasy/ff7docle/)  
 **Next Game**: TBD  
 
 ### Links

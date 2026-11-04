@@ -10,13 +10,19 @@ permalink: /yearoffinalfantasy/ff15series/
 
 The game launched with a somewhat incomplete story and received substantial post-launch support.
 
+### Pre-release Demos
+
+**Final Fantasy XV Episode Duscae** (2015) was a large open-world demo of the Duscae region, given out with copies of Final Fantasy Type-0 HD. It used an original short scenario about getting the Regalia repaired and hunting a behemoth. A 2.0 patch later improved combat, camera behavior, and a few systems based on player feedback. The demo has been delisted for years.
+
+**Platinum Demo - Final Fantasy XV** (2016) is a shorter free standalone experience set in a dream world with young Noctis and Carbuncle. Completing it originally unlocked a customizable Carbuncle summon for the full game. It was delisted in March 2017.
+
 ### Kingsglaive and Brotherhood
 
 **Kingsglaive: Final Fantasy XV** (2016) is a CGI feature film that serves as a prequel to the game. It focuses on the fall of Insomnia, the Kingsglaive soldiers, and the political machinations surrounding the peace treaty with Niflheim. Several key events and character motivations in the main game are much clearer with the film as context.
 
 **Brotherhood: Final Fantasy XV** is a short anime series (also 2016) that explores the backstories and relationships of Noctis and his friends in the years leading up to the game. It is lighter in tone and helps flesh out the party dynamics.
 
-An additional short anime, *Episode Ardyn – Prologue*, was released alongside the final story DLC.
+An additional short anime, *Episode Ardyn - Prologue*, was released alongside the final story DLC.
 
 ### Downloadable Content and The Dawn of the Future
 
@@ -43,6 +49,8 @@ Reception for Final Fantasy XV has been mixed-to-positive. Many players praise t
 
 # Games
 
+[Final Fantasy XV Episode Duscae](/yearoffinalfantasy/ff15ed/)  
+[Platinum Demo - Final Fantasy XV](/yearoffinalfantasy/ff15pd/)  
 [Final Fantasy XV](/yearoffinalfantasy/ff15/)
 
 ### Links

@@ -20,7 +20,7 @@ To Do
 
 ### Order
 **Previous Game**: [Final Fantasy Tactics: The Ivalice Chronicles](/yearoffinalfantasy/fftic/)  
-**Next Game**: [Final Fantasy VIII Remastered](/yearoffinalfantasy/ff8r/)
+**Next Game**: [Platinum Demo - Final Fantasy XV](/yearoffinalfantasy/ff15pd/)
 
 ### Links
 

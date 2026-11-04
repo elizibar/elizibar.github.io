@@ -112,6 +112,8 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy XV**
 - **Final Fantasy XV: Pocket Edition**
 - **A King's Tale: Final Fantasy XV**
+- **Platinum Demo – Final Fantasy XV**
+- **Final Fantasy XV Episode Duscae**
 
 ### [Final Fantasy XVI](/yearoffinalfantasy/ff16series/)
 - [Final Fantasy XVI](/yearoffinalfantasy/ff16/)
