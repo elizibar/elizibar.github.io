@@ -23,7 +23,6 @@ permalink: /feartober/fear3/
 
 ### Links
 
-- [Official Site](url)
 - [Wikipedia](https://en.wikipedia.org/wiki/F.E.A.R._3)
-- [Steam](url)
+- [Steam](https://store.steampowered.com/app/21100/FEAR_3/)
 - [Return to FEARtober](/feartober/)
