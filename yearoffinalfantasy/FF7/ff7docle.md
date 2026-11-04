@@ -13,6 +13,13 @@ permalink: /yearoffinalfantasy/ff7docle/
 
 ### Verdict
 
+This does a good job of capturing the Dirge of Cerberus experience on a cell phone, and I am frankly astounded at just how many polygons a mid-2000's feature phone was capable of pushing. The game was moving at least as many polygons onto the screen as a PS1 game, maybe a little more, and maintained a solid framerate throughout.
+
+Unfortunately the controls feel more than merely clunky.  I had a lot of trouble just getting Vincent to face the direction enemies were coming at.  It had me wishing for something more like a rail shooter to simplify the control scheme.
+
+Emulation wasn't perfect, sound was glitchy at the start, but improved once gameplay got going.  Felt like it could be an interesting experience, except we didn't get through the first stage because I could not get a handle on the controls.
+
+**Original Verdict** (9/13/26):  
 Unfortunately we can't get the game running at all on the Japanese cellphone emulator I have available to me, so we must need more development and maybe we can review this game later.
 
 Update 10/7/26:  We got this working, it's not great but runs.  We'll play it soon.
