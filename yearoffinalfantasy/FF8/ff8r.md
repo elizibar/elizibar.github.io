@@ -9,7 +9,7 @@ permalink: /yearoffinalfantasy/ff8r/
 **System**: Steam (PC)  
 **Release Date**: September 3, 2019  
 **Related Sub-Series**: [Final Fantasy VIII Series](/yearoffinalfantasy/ff8series/)  
-**Date Played**:  
+**Date Played**: November 8, 2026 through...  
 
 ### Verdict
 
