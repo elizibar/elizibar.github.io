@@ -38,7 +38,7 @@ Though there are some setup issues I forget about until the game has trouble sta
 - [F.E.A.R. with Prototype Mod](https://www.youtube.com/playlist?list=PL-oNO4nnzhsVwIS1LORv--GFqHAgCUQZw)
 - [F.E.A.R. with EchoPatch](https://www.youtube.com/playlist?list=PLI6uRUx_KXNI)
 - Short [I Got Paxton Before He Got Me](https://youtube.com/shorts/CWpq46toQr0)
-- Short (Turning the Tables on the AI's Tactics](https://youtube.com/shorts/psvtuC7ogCM)
+- Short [Turning the Tables on the AI's Tactics](https://youtube.com/shorts/psvtuC7ogCM)
 
 ### Links
 
