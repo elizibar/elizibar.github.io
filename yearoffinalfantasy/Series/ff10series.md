@@ -37,6 +37,10 @@ Characters from Final Fantasy X have appeared in crossover titles such as the *D
 
 Reception for Final Fantasy X itself is generally very strong. It is frequently cited as one of the high points of the series for its story, characters, music, and presentation. The HD Remaster is widely regarded as the definitive way to play both games on modern hardware.
 
+### Fan Ports
+
+- Comeback and add more later, but there's a project to port it to the Sega Dreamcast, check out this link (https://x.com/falco_girgis/status/2121791656533848132)
+
 # Games
 
 [Final Fantasy X HD Remaster](/yearoffinalfantasy/ff10/)  
