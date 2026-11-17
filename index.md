@@ -14,6 +14,12 @@ The Discord community decided that 2026 was going to be the Year of Final Fantas
 The annual event where we play F.E.A.R. games and then other Halloween activities.
 [FEARtober](/feartober/)
 
+# The Elizibar Newsletter
+
+It's been fun writing up how I feel about games and such, so maybe I'll write more. It'll certainly be nice to have a place to ramble on without it getting lost in Discord backscroll, or being limited by the length of a Twitter post.
+
+[Elizibar Newsletter](/newsletter/)
+
 # Welcome, Trainer!
 
 If you're here for the silly Mickédex, look no further than just down below.
