@@ -20,6 +20,12 @@ It's been fun writing up how I feel about games and such, so maybe I'll write mo
 
 [Elizibar Newsletter](/newsletter/)
 
+# YouTube Playlist Catalog
+
+There are a **lot** of videos out there.
+
+[Elizibar Playlists](/catalog/)
+
 # Welcome, Trainer!
 
 If you're here for the silly Mickédex, look no further than just down below.

@@ -13,5 +13,7 @@ nav_items:
     link: /feartober/
   - name: Newsletter
     link: /newsletter/
+  - name: Catalog
+    link: /catalog/
   - name: Mickédex
     link: /mickedex/
