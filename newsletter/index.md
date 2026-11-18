@@ -12,7 +12,7 @@ A place to ramble about games and whatever else without it getting lost in Disco
 
 ## Issues
 
-* [Issue 1 – Let's Try Something New](/newsletter/placeholder/) – November 18, 2026  
+* [Issue 1 – Let's Try Something New](/newsletter/2026-11-18-issue-1) – November 18, 2026  
 * (more will appear here, newest on top)
 
 ---
