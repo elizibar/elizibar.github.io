@@ -8,6 +8,8 @@ permalink: /yearoffinalfantasy/
 
 Playing through as much of the Final Fantasy catalog as possible - mainline, spin-offs, movies, and the odd side experiment.
 
+[Decisions made by the Community](/yearoffinalfantasy/decisions/)
+
 ### [Final Fantasy](/yearoffinalfantasy/ff1series/)
 - [Final Fantasy Pixel Remaster](/yearoffinalfantasy/ff1pr/)
 - **Stranger of Paradise: Final Fantasy Origin**
