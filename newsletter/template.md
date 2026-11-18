@@ -1,6 +1,7 @@
 ---
 title: "Issue X – Whatever you want to call it"
 layout: default
+permalink: /newsletter/YYYY-MM-DD-issue-#
 ---
 
 # Issue X – Whatever you want to call it

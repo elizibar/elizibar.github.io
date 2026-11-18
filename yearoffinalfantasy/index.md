@@ -112,8 +112,8 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy XV**
 - **Final Fantasy XV: Pocket Edition**
 - **A King's Tale: Final Fantasy XV**
-- **Platinum Demo – Final Fantasy XV**
-- **Final Fantasy XV Episode Duscae**
+- [Platinum Demo - Final Fantasy XV](/yearoffinalfantasy/ff15pd/)
+- [Final Fantasy XV Episode Duscae](/yearoffinalfantasy/ff15ed/)
 
 ### [Final Fantasy XVI](/yearoffinalfantasy/ff16series/)
 - [Final Fantasy XVI](/yearoffinalfantasy/ff16/)
@@ -150,7 +150,7 @@ Playing through as much of the Final Fantasy catalog as possible - mainline, spi
 - **Final Fantasy Dimensions**
 - **Final Fantasy Explorers**
 - [FF Block Breaker](/yearoffinalfantasy/ffbb/) (aka FF Brick Breaker)
-- **Final Fantasy: The Spirits Within**
+- [Final Fantasy: The Spirits Within](/yearoffinalfantasy/ffsw/)
 - **Final Fantasy: Unlimited**
 
 More to come... probably.
