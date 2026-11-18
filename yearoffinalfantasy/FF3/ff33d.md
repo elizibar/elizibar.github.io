@@ -6,6 +6,11 @@ permalink: /yearoffinalfantasy/ff33d/
 
 # Final Fantasy III 3D Remaster
 
+<figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
+  <img src="/assets/images/FF/ff3.gif" alt="Scholar from FF3 Wiggly Paint Doodle" style="width: 100%; border-radius: 8px;">
+  <figcaption><strong>A Scholar from Final Fantasy 3</strong></figcaption>
+</figure>
+
 **System**: Steam (PC)  
 **Release Date**: May 27, 2014  
 **Related Sub-Series**: [Final Fantasy III Series](/yearoffinalfantasy/ff3series/)  
