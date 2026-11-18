@@ -4,8 +4,17 @@ layout: default
 permalink: /newsletter/
 ---
 
-# Elizibar
+# Elizinews
 
+A place to ramble about games and whatever else without it getting lost in Discord backscroll.
 
+---
 
-More to come... probably.
+## Issues
+
+* [Issue 1 – Placeholder](/newsletter/placeholder/) – November 17, 2026  
+* (more will appear here, newest on top)
+
+---
+
+*That’s all for now. Check back later.*
