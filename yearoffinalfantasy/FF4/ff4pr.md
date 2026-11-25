@@ -8,7 +8,7 @@ permalink: /yearoffinalfantasy/ff4pr/
 
 <figure style="float: right; margin: 0 0 20px 20px; width: 260px;">
   <img src="/assets/images/FF/ff4cid.gif" alt="Cid, Engineer and Luchadore, from Final Fantasy IV" style="width: 100%; border-radius: 8px;">
-  <figcaption><strong>Cid Polenda</strong><br>Engineer and Luchadore</figcaption>
+  <figcaption><strong>Cid Pollendina</strong><br>Engineer and Luchadore</figcaption>
 </figure>
 
 **System**: Steam (PC)  
