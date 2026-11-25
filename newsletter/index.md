@@ -12,8 +12,11 @@ A place to ramble about games, streams, movies, and whatever else without it get
 
 ## Issues
 
-- **[Issue 1 - Let's Try Something New](/newsletter/2026-11-18-issue-1)** - November 17, 2026  
-  Year of Final Fantasy update, FEARtober wrap-up, movie thoughts, and a pile of links.
+* **[Issue 2 - Let's Be Thankful](/newsletter/2026-11-25-issue-2)** - November 25, 2026  
+  Thanksgiving edition with Final Fantasy VIII progress (and a Squall theory), GTA VI thoughts, outages and AI rants, the FEAR 3 multiplayer wrap, and more bad movie watching.
+
+* **[Issue 1 - Let's Try Something New](/newsletter/2026-11-18-issue-1)** - November 17, 2026  
+  First issue covering Year of Final Fantasy progress so far (including the FFVIII run), FEARtober highlights with EchoPatch and the Halloween stream, some movie and anime thoughts, plus a *big* link dump.
 
 ---
 
